@@ -1,0 +1,28 @@
+{
+    "images": {
+        "artiste": "",
+        "bio": "",
+        "name": "",
+        "titre": ""
+    },
+    "social": {
+        "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
+        "instagram": "https://www.instagram.com/koftonmusic/",
+        "soundcloud": "https://soundcloud.com/user-90892428",
+        "twitter": "https://twitter.com/KoftonMusic",
+        "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
+    },
+    "bio": "",
+    "sortie": {
+        "artiste": "Paul Carrera",
+        "titre": "Burning Love",
+        "date": "8 Mars 2019",
+        "platform": {
+            "spotify": "https://open.spotify.com/track/2NPypUeh4CZnkOCfGMKUXN?si=D1751HAsQt-EWZ6pHyn1ag",
+            "deezer": "https://www.deezer.com/album/88788652?utm_source=deezer&amp;utm_content=album-88788652&amp;utm_term=4205667_1552036213&amp;utm_medium=web",
+            "google music": "https://play.google.com/store/music/album/Paul_Carrera_Burning_Love?id=Bo6sg2vhezrw5sp3cpx4imvksey",
+            "itunes": "https://itunes.apple.com/fr/album/burning-love-single/1454808976",
+            "amazon": "https://www.amazon.fr/Burning-Love-Original-Paul-Carrera/dp/B07PB51P1N/ref=sr_1_1?ie=UTF8&amp;qid=1552035925&amp;sr=8-1&amp;keywords=paul+carrera+burning+love"
+        }
+    }
+}

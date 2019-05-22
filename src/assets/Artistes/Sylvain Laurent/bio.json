@@ -1,0 +1,22 @@
+{
+    "images": {
+        "artiste": "",
+        "bio": "",
+        "name": "",
+        "titre": ""
+    },
+    "social": {
+        "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/"
+    },
+    "bio": "",
+    "sortie": {
+        "artiste": "Sylvain Laurent",
+        "titre": "Funky Time",
+        "date": "24 Avril 2019",
+        "platform": {
+            "spotify": "https://open.spotify.com/album/3m6KGbZ6W7w1HTm6PiT5uy?si=eU8fHrMkQv-kgZEiLYjh3A",
+            "deezer": "http://www.deezer.com/album/94145872",
+            "google music": "https://play.google.com/store/music/album?id=Berp7ibvdsi52i7zwvjpk25klwa&amp;tid=song-T4joiuyhzkxgziazj2b2s3huvia"
+        }
+    }
+}
