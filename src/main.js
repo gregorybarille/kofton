@@ -17,6 +17,8 @@ import AppHome from './components/AppHome'
 import AppConditions from './components/AppConditions'
 import AppLegal from './components/AppLegal'
 import AppTraitement from './components/AppTraitement'
+import AppBioFromArtistes from './components/AppBioFromArtistes'
+
 
 let router = new VueRouter({
   routes: [
@@ -24,6 +26,12 @@ let router = new VueRouter({
       path: '/artistes',
       name: 'Artistes',
       component: AppArtistes,
+      props: true
+    },
+    {
+      path: '/artistes/:name',
+      name: 'Artistes Bio',
+      component: AppBioFromArtistes,
       props: true
     },
     {

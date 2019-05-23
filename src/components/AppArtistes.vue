@@ -10,7 +10,7 @@
                 xs4
                 d-flex
               >
-                <v-card flat tile class="d-flex">
+                <v-card flat tile class="d-flex" :to="{path: `/artistes/${key}`}">
                   <v-img
                     :src="jsonData[key].images.artiste"
                     aspect-ratio="1"
