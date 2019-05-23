@@ -17,7 +17,7 @@
           </v-img>
           <v-card-title>
             <div>
-              <span v-html="jsonData[name].bio"></span>
+              <span v-html="decodeHTML(jsonData[name].bio)"></span>
             </div>
           </v-card-title>
           <v-card-actions>
@@ -45,7 +45,12 @@ export default {
             'twitter': 'fab fa-twitter fa-2x',
             'youtube': 'fab fa-youtube fa-2x',
             'soundcloud': 'fab fa-soundcloud fa-2x',
-
+            
+            decodeHTML: function(html) {
+              var txt = document.createElement("textarea");
+              txt.innerHTML = html;
+              return txt.value;
+            }
         }
     },
   props: {
