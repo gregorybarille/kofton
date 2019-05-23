@@ -26,7 +26,7 @@ let router = new VueRouter({
       path: '/artistes',
       name: 'Artistes',
       component: AppArtistes,
-      props: true
+      props: true,
     },
     {
       path: '/artistes/:name',
