@@ -18,13 +18,13 @@ import AppConditions from './components/AppConditions'
 import AppLegal from './components/AppLegal'
 import AppTraitement from './components/AppTraitement'
 
-
 let router = new VueRouter({
   routes: [
     {
       path: '/artistes',
       name: 'Artistes',
       component: AppArtistes,
+      props: true
     },
     {
       path: '/contest',

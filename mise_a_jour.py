@@ -5,8 +5,8 @@ from pathlib import Path
 
 
 def read_artistes_directory(artistes_informations):
-    artiste_directory = 'src/assets/Artistes'
-    directory_list = Path('./src/assets/Artistes').iterdir()
+    artiste_directory = './public/assets/Artistes'
+    directory_list = Path('./public/assets/Artistes').iterdir()
     for directory in directory_list:
         if directory.name != '.DS_Store':
             artiste_name = directory.name
@@ -24,21 +24,21 @@ def read_artistes_directory(artistes_informations):
                 print(f'The bio.html file is missing for {artiste_name}')
             if Path(f'{directory}/images').is_dir():
                 if Path(f'{directory}/images/artiste.png').is_file():
-                    artistes_informations[artiste_name]['images']['artiste'] = f'{directory}/images/artiste.png'
+                    artistes_informations[artiste_name]['images']['artiste'] = f'assets/Artistes/{artiste_name}/images/artiste.png'
                 else:
                     print(f'The artiste.png file is missing for {artiste_name}')
-                    artistes_informations[artiste_name]['images']['artiste'] = f'{directory}/images/bio.png'
+                    artistes_informations[artiste_name]['images']['artiste'] = f'assets/Artistes/{artiste_name}/images/bio.png'
                 if Path(f'{directory}/images/bio.png').is_file():
-                    artistes_informations[artiste_name]['images']['bio'] = f'{directory}/images/bio.png'
+                    artistes_informations[artiste_name]['images']['bio'] = f'assets/Artistes/{artiste_name}/images/bio.png'
                 else:
                     print(f'The bio.png file is missing for {artiste_name}')
-                    artistes_informations[artiste_name]['images']['bio'] = f'{directory}/images/artiste.png'
+                    artistes_informations[artiste_name]['images']['bio'] = f'assets/Artistes/{artiste_name}/images/artiste.png'
                 if Path(f'{directory}/images/name.png').is_file():
-                    artistes_informations[artiste_name]['images']['name'] = f'{directory}/images/name.png'
+                    artistes_informations[artiste_name]['images']['name'] = f'assets/Artistes/{artiste_name}/images/name.png'
                 else:
                     print(f'The artiste.png file is missing for {artiste_name}')
                 if Path(f'{directory}/images/titre.png').is_file():
-                    artistes_informations[artiste_name]['images']['titre'] = f'{directory}/images/titre.png'
+                    artistes_informations[artiste_name]['images']['titre'] = f'assets/Artistes/{artiste_name}/images/titre.png'
                 else:
                     print(f'The titre.png file is missing for {artiste_name}')
             else:
@@ -46,7 +46,7 @@ def read_artistes_directory(artistes_informations):
 
 
 def write_json(artistes_informations):
-    with open('file1.json', 'w+') as file_json:
+    with open('./public/data.json', 'w+') as file_json:
         json.dump(artistes_informations, file_json, sort_keys=True)
 
 

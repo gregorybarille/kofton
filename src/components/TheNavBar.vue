@@ -1,9 +1,9 @@
 <template>
 <v-toolbar>
-      <v-toolbar-title><img src="../assets/images/logo_kofton.png"></v-toolbar-title>
+      <v-toolbar-title><img src="/assets/images/logo_kofton.png"></v-toolbar-title>
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-sm-and-down">
-        <v-btn flat :to="{path: '/artistes' }">Artistes</v-btn>
+        <v-btn flat :to="{path: '/artistes'}">Artistes</v-btn>
         <v-btn flat :to="{path: '/contest' }">Contest</v-btn>
         <v-btn flat :to="{path: '/demo' }">Demo</v-btn>
         <v-btn flat :to="{path: '/playlists' }">Playlists</v-btn>

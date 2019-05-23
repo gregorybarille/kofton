@@ -6,7 +6,7 @@
      <v-content>
       <v-container fluid>
         <v-fade-transition mode="out-in">
-          <router-view class="text-xs-center" jsonData=jsonData></router-view>
+          <router-view class="text-xs-center" :jsonData="jsonData"></router-view>
         </v-fade-transition>
       </v-container>
     </v-content>
@@ -19,7 +19,7 @@
 <script>
 import TheNavBar from './components/TheNavBar.vue'
 import TheFooter from './components/TheFooter.vue'
-import json from './data.json'
+import json from '../public/data.json'
 export default {
   name: 'App',
   data(){
