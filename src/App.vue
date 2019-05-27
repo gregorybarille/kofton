@@ -33,3 +33,9 @@ export default {
   }
 }
 </script>
+
+<style>
+h1,strong{
+  color:#458AAB;
+}
+</style>

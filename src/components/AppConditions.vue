@@ -2,7 +2,7 @@
 <v-layout>
       <v-flex xs12 sm6 offset-sm3>
         <v-card>
-          <v-card-title primary-title>
+          <v-card-title primary-title class="justify-center">
               <h1>Conditions générales d'utilisation</h1>
           </v-card-title>
           <v-card-text class="text-xs-left">
