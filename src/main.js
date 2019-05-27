@@ -21,6 +21,9 @@ import AppBioFromArtistes from './components/AppBioFromArtistes'
 
 
 let router = new VueRouter({
+  scrollBehavior() {
+    return { x: 0, y: 0 }
+  },
   routes: [
     {
       path: '/artistes',
