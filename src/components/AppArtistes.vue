@@ -9,8 +9,16 @@
                 :key="key"
                 xs4
                 d-flex
+                pa-2
               >
-                <v-card flat tile class="d-flex" :to="{path: `/artistes/${key}`}">
+                    <v-hover>
+                <v-card
+                slot-scope="{ hover }"
+                flat
+                tile
+                :class="`d-flex elevation-${hover ? 20 : 0}`"
+                :to="{path: `/artistes/${key}`}"
+                >
                   <v-img
                     :src="jsonData[key].images.artiste"
                     aspect-ratio="1"
@@ -18,10 +26,12 @@
                   >
                   </v-img>
                 </v-card>
+                 </v-hover>
               </v-flex>
             </v-layout>
           </v-container>
         </v-card>
+
       </v-flex>
     </v-layout>
 

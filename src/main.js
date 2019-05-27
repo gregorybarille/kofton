@@ -18,7 +18,7 @@ import AppConditions from './components/AppConditions'
 import AppLegal from './components/AppLegal'
 import AppTraitement from './components/AppTraitement'
 import AppBioFromArtistes from './components/AppBioFromArtistes'
-
+import AppContact from './components/AppContact'
 
 let router = new VueRouter({
   scrollBehavior() {
@@ -61,6 +61,11 @@ let router = new VueRouter({
       path: '/videos',
       name: 'Videos',
       component: AppVideos,
+    },
+    {
+      path: '/contact',
+      name: 'Contact',
+      component: AppContact,
     },
     {
       path: '/home',

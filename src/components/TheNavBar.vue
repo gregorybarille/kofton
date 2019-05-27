@@ -9,6 +9,7 @@
         <v-btn flat :to="{path: '/playlists' }">Playlists</v-btn>
         <v-btn flat :to="{path: '/sorties' }">Sorties</v-btn>
         <v-btn flat :to="{path: '/videos' }">Videos</v-btn>
+        <v-btn flat :to="{path: '/contact' }">Contact</v-btn>
         <v-spacer></v-spacer>
         <v-btn icon>
         <v-icon>search</v-icon>
