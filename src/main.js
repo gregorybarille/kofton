@@ -22,7 +22,9 @@ import AppContact from './components/AppContact'
 
 let router = new VueRouter({
   scrollBehavior() {
-    return { x: 0, y: 0 }
+    return new Promise(resolve =>
+      setTimeout(() => resolve({ x: 0, y: 0 }), 250)
+    );
   },
   routes: [
     {
