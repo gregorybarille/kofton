@@ -21,6 +21,7 @@ import AppBioFromArtistes from './components/AppBioFromArtistes'
 import AppContact from './components/AppContact'
 
 let router = new VueRouter({
+  mode: 'history',
   scrollBehavior() {
     return { x: 0, y: 0 }
   },
