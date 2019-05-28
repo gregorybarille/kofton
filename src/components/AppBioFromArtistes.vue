@@ -11,7 +11,7 @@
             </v-layout>
           </v-container>
         </v-img>
-        <v-card-title>
+        <v-card-title class="text-xs-left">
           <div>
             <span v-html="decodeHTML(jsonData[name].bio)"></span>
           </div>
