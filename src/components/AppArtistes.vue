@@ -11,7 +11,7 @@
                   flat
                   tile
                   :class="`d-flex elevation-${hover ? 20 : 0}`"
-                  :to="{path: `/artistes/${key}`}"
+                  :to="{path: `/artistes/${key}/bio`}"
                 >
                   <v-img
                     :src="jsonData[key].images.artiste"

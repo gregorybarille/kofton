@@ -17,8 +17,12 @@ import AppHome from "./components/AppHome";
 import AppConditions from "./components/AppConditions";
 import AppLegal from "./components/AppLegal";
 import AppTraitement from "./components/AppTraitement";
-import AppBioFromArtistes from "./components/AppBioFromArtistes";
+import AppDetailsFromArtistes from "./components/AppDetailsFromArtistes";
 import AppContact from "./components/AppContact";
+import AppBioFromDetails from "./components/AppBioFromDetails";
+import AppSocialFromBio from "./components/AppSocialFromBio";
+import AppTitleFromDetails from "./components/AppTitleFromDetails";
+import AppVideosFromDetails from "./components/AppVideosFromDetails";
 
 let router = new VueRouter({
   mode: "history",
@@ -36,9 +40,35 @@ let router = new VueRouter({
     },
     {
       path: "/artistes/:name",
-      name: "Artistes Bio",
-      component: AppBioFromArtistes,
-      props: true
+      name: "Artistes Details",
+      component: AppDetailsFromArtistes,
+      props: true,
+      children: [
+        {
+          path: "bio",
+          name: "Biographie",
+          component: AppBioFromDetails,
+          props: true
+        },
+        {
+          path: "titre",
+          name: "Titre",
+          component: AppTitleFromDetails,
+          props: true
+        },
+        {
+          path: "videos",
+          name: "Videos de l'artiste",
+          component: AppVideosFromDetails,
+          props: true
+        },
+        {
+          path: "social",
+          name: "Social",
+          component: AppSocialFromBio,
+          props: true
+        }
+      ]
     },
     {
       path: "/contest",
