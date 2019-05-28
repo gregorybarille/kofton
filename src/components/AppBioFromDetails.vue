@@ -1,14 +1,5 @@
 <template>
-  <v-card>
-    <v-img class="white--text" height="200px" :src="`/${artist.images.bio}`">
-      <v-container fill-height fluid>
-        <v-layout fill-height>
-          <v-flex xs12 align-end flexbox>
-            <span class="headline">{{ $route.params.name }}</span>
-          </v-flex>
-        </v-layout>
-      </v-container>
-    </v-img>
+  <div>
     <v-card-title class="text-xs-left">
       <div>
         <span v-html="decodeHTML(artist.bio)"></span>
@@ -21,18 +12,18 @@
         </v-btn>
       </v-flex>
     </v-card-actions>
-  </v-card>
+  </div>
 </template>
 <script>
 export default {
   data() {
     return {
       icons: {
-        facebook: 'fab fa-facebook-square fa-2x',
-        instagram: 'fab fa-instagram fa-2x',
-        twitter: 'fab fa-twitter fa-2x',
-        youtube: 'fab fa-youtube fa-2x',
-        soundcloud: 'fab fa-soundcloud fa-2x'
+        facebook: "fab fa-facebook-square fa-2x",
+        instagram: "fab fa-instagram fa-2x",
+        twitter: "fab fa-twitter fa-2x",
+        youtube: "fab fa-youtube fa-2x",
+        soundcloud: "fab fa-soundcloud fa-2x"
       },
       decodeHTML: function(html) {
         var txt = document.createElement("textarea");
