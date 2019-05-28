@@ -1,9 +1,7 @@
 <template>
-<p> Contest</p>
+  <p>Contest</p>
 </template>
 
 <script>
-export default{
-
-}
+export default {};
 </script>

@@ -1,40 +1,31 @@
 <template>
-<v-layout>
-      <v-flex xs12 sm6 offset-sm3>
-        <v-card>
-          <v-container grid-list-sm fluid>
-            <v-layout row wrap>
-              <v-flex
-                v-for="(value, key) in jsonData"
-                :key="key"
-                xs4
-                d-flex
-                pa-2
-              >
-                    <v-hover>
+  <v-layout>
+    <v-flex xs12 sm6 offset-sm3>
+      <v-card>
+        <v-container grid-list-sm fluid>
+          <v-layout row wrap>
+            <v-flex v-for="(value, key) in jsonData" :key="key" xs4 d-flex pa-2>
+              <v-hover>
                 <v-card
-                slot-scope="{ hover }"
-                flat
-                tile
-                :class="`d-flex elevation-${hover ? 20 : 0}`"
-                :to="{path: `/artistes/${key}`}"
+                  slot-scope="{ hover }"
+                  flat
+                  tile
+                  :class="`d-flex elevation-${hover ? 20 : 0}`"
+                  :to="{path: `/artistes/${key}`}"
                 >
                   <v-img
                     :src="jsonData[key].images.artiste"
                     aspect-ratio="1"
                     class="grey lighten-2"
-                  >
-                  </v-img>
+                  ></v-img>
                 </v-card>
-                 </v-hover>
-              </v-flex>
-            </v-layout>
-          </v-container>
-        </v-card>
-
-      </v-flex>
-    </v-layout>
-
+              </v-hover>
+            </v-flex>
+          </v-layout>
+        </v-container>
+      </v-card>
+    </v-flex>
+  </v-layout>
 </template>
 
 <script>
@@ -48,5 +39,4 @@ export default {
 </script>
 
 <style scoped>
-
 </style>

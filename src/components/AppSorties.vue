@@ -1,11 +1,7 @@
 <template>
-
-<p> Sorties</p>
-
+  <p>Sorties</p>
 </template>
 
 <script>
-export default{
-
-}
+export default {};
 </script>

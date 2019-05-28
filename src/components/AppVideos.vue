@@ -1,11 +1,7 @@
 <template>
-
-<p> Videos</p>
-
+  <p>Videos</p>
 </template>
 
 <script>
-export default{
-
-}
+export default {};
 </script>
