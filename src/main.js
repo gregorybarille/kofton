@@ -21,6 +21,7 @@ import AppBioFromArtistes from './components/AppBioFromArtistes'
 import AppContact from './components/AppContact'
 
 let router = new VueRouter({
+  mode: 'history',
   scrollBehavior() {
     return new Promise(resolve =>
       setTimeout(() => resolve({ x: 0, y: 0 }), 250)
