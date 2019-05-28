@@ -14,11 +14,6 @@
 
 <script>
 export default {
-  data() {
-    return {
-      artist: this.jsonData[this.name]
-    };
-  },
   props: {
     jsonData: {
       type: Object
