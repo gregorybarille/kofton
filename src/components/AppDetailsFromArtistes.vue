@@ -7,13 +7,18 @@
         <v-tab :to="{path: `/artistes/${name}/videos`}">Videos</v-tab>
         <v-tab :to="{path: `/artistes/${name}/social`}">Social</v-tab>
       </v-tabs>
-      <router-view></router-view>
+      <router-view :artist="this.jsonData[this.name]"></router-view>
     </v-flex>
   </v-layout>
 </template>
 
 <script>
 export default {
+  data() {
+    return {
+      artist: this.jsonData[this.name]
+    };
+  },
   props: {
     jsonData: {
       type: Object
