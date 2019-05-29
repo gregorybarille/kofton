@@ -1,7 +1,7 @@
 <template>
   <v-layout>
     <v-flex xs12 sm6 offset-sm3>
-      <v-card>
+      <v-card flat>
         <v-card-title primary-title class="justify-center">
           <h1>Politique de traitement</h1>
         </v-card-title>
@@ -27,7 +27,10 @@
               </p>
               <p>
                 <strong>Donnée personnelle</strong> : « Toute information identifiant directement ou indirectement une personne physique (ex. nom, no d’immatriculation, no de téléphone, photographie, date de naissance, commune de résidence, empreinte digitale…) » Source :
-                <a href="https://www.cnil.fr/fr/definition/donnee-personnelle" target="_blank">CNIL</a>
+                <a
+                  href="https://www.cnil.fr/fr/definition/donnee-personnelle"
+                  target="_blank"
+                >CNIL</a>
                 <br>
                 <strong>Traitement de données à caractère personnel:</strong>« Toute opération, ou ensemble d’opérations, portant sur de telles données, quel que soit le procédé utilisé (collecte, enregistrement, organisation, conservation, adaptation, modification, extraction, consultation, utilisation, communication par transmission diffusion ou toute autre forme de mise à disposition, rapprochement ou interconnexion, verrouillage, effacement ou destruction, …) » Source :
                 <a
@@ -95,7 +98,10 @@
 
                 <strong>Plainte auprès de l’autorité administrative</strong>
                 <br>En cas de non respect de cette présente politique, l’utilisateur peut, en cas de contestation, former une réclamation auprès de la CNIL dont les coordonnées figurent à l’adresse internet
-                <a href="http://www.cnil.fr" target="_blank">"http://www.cnil.fr"</a>
+                <a
+                  href="http://www.cnil.fr"
+                  target="_blank"
+                >"http://www.cnil.fr"</a>
               </p>
             </div>
             <v-divider></v-divider>
@@ -133,7 +139,10 @@
               <ul>
                 <li>
                   Facebook, dont vous pouvez consulter la politique en matière de cookies en cliquant sur le lien
-                  <a href="https://fr-fr.facebook.com/policies/cookies/" target="_blank">suivant</a>
+                  <a
+                    href="https://fr-fr.facebook.com/policies/cookies/"
+                    target="_blank"
+                  >suivant</a>
                 </li>
                 <li>
                   Instagram, dont vous pouvez consulter la politique en matière de cookies en cliquant sur le lien
@@ -151,7 +160,10 @@
                 </li>
                 <li>
                   Twitter, dont vous trouverez les options dédiées au contrôle ou à la restriction de l’utilisation des cookies ainsi que la politique d’utilisation des cookies
-                  <a href="https://support.twitter.com/articles/20170518#" target="_blank">ici</a>
+                  <a
+                    href="https://support.twitter.com/articles/20170518#"
+                    target="_blank"
+                  >ici</a>
                 </li>
                 <li>
                   YouTube, dont vous trouverez l’aide nécessaire pour supprimer les cookies à partir du navigateur Google Chrome en cliquant sur le lien
@@ -166,7 +178,10 @@
                 </li>
                 <li>
                   Google+, dont vous trouverez les règles de confidentialité en cliquant sur le lien
-                  <a href="https://www.google.com/intl/fr/policies/privacy/" target="_blank">suivant</a>
+                  <a
+                    href="https://www.google.com/intl/fr/policies/privacy/"
+                    target="_blank"
+                  >suivant</a>
                 </li>
               </ul>
               <p>
@@ -211,7 +226,10 @@
               </ul>
               <p>
                 Pour toute information complémentaire, nous vous invitons à consulter le site web de la CNIL :
-                <a href="https://www.cnil.fr/" target="_blank">www.cnil.fr</a>
+                <a
+                  href="https://www.cnil.fr/"
+                  target="_blank"
+                >www.cnil.fr</a>
               </p>
             </div>
           </v-list>

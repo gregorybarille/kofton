@@ -1,7 +1,7 @@
 <template>
   <v-layout>
     <v-flex xs12 sm6 offset-sm3>
-      <v-card>
+      <v-card flat>
         <v-container grid-list-sm fluid>
           <v-layout row wrap>
             <v-flex v-for="(value, key) in jsonData" :key="key" xs4 d-flex pa-2>

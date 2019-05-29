@@ -1,7 +1,7 @@
 <template>
   <v-layout>
     <v-flex xs12 sm6 offset-sm3>
-      <v-card>
+      <v-card flat>
         <v-card-title primary-title class="justify-center">
           <h3 class="headline mb-0">Contactez-nous</h3>
         </v-card-title>

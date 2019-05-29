@@ -11,8 +11,7 @@ import AppArtistes from "./components/AppArtistes";
 import AppContest from "./components/AppContest";
 import AppDemo from "./components/AppDemo";
 import AppPlaylists from "./components/AppPlaylists";
-import AppSorties from "./components/AppSorties";
-import AppVideos from "./components/AppVideos";
+import AppMedia from "./components/AppMedia";
 import AppHome from "./components/AppHome";
 import AppConditions from "./components/AppConditions";
 import AppLegal from "./components/AppLegal";
@@ -88,12 +87,7 @@ let router = new VueRouter({
     {
       path: "/sorties",
       name: "Sorties",
-      component: AppSorties
-    },
-    {
-      path: "/videos",
-      name: "Videos",
-      component: AppVideos
+      component: AppMedia
     },
     {
       path: "/contact",

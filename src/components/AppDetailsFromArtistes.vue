@@ -1,7 +1,7 @@
 <template>
   <v-layout>
     <v-flex xs12 sm6 offset-sm3>
-      <v-card>
+      <v-card flat>
         <v-img class="white--text" height="200px" :src="`/${this.jsonData[this.name].images.bio}`">
           <v-container fill-height fluid>
             <v-layout fill-height>
