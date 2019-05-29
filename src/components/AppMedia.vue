@@ -6,11 +6,11 @@
           <v-layout column nowrap>
             <v-flex v-for="key in jsonData.sorties" :key="key">
               <v-card>
-                <v-img aspect-ratio="1.5" contain :src="jsonData[key.artiste].images.titre"></v-img>
+                <v-img aspect-ratio="1.5" contain :src="jsonData.artistes[key.artiste].images.titre"></v-img>
                 <v-divider light></v-divider>
                 <v-card-actions>
                   <v-flex
-                    v-for="(value, key) in jsonData[key.artiste].sortie.platform"
+                    v-for="(value, key) in jsonData.artistes[key.artiste].sortie.platform"
                     :key="key"
                     xs4
                     d-flex
