@@ -1,5 +1,5 @@
 <template>
-  <v-toolbar app>
+  <v-toolbar app flat>
     <v-toolbar-title>
       <img src="/assets/images/logo_kofton.png">
     </v-toolbar-title>
