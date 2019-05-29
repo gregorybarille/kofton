@@ -1,28 +1,29 @@
 {
-    "images": {
-        "artiste": "",
-        "bio": "",
-        "name": "",
-        "titre": ""
-    },
-    "social": {
-        "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
-        "instagram": "https://www.instagram.com/koftonmusic/",
-        "soundcloud": "https://soundcloud.com/user-90892428",
-        "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
-    },
+  "images": {
+    "artiste": "",
     "bio": "",
-    "sortie": {
-        "artiste": "ROMWEY",
-        "titre": "Boot",
-        "date": "30 Mars 2019",
-        "platform": {
-            "spotify": "https://open.spotify.com/album/1vRjXtqB6YWCHyYk7r94Mr?si=NR0xvJyKS7Ctc3U5Ap3VsA",
-            "deezer": "http://www.deezer.com/track/655144332",
-            "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
-            "qobuz": "https://www.qobuz.com/gb-en/album/boot-romwey/qjmb780h6fiub",
-            "itunes": "https://itunes.apple.com/fr/album/burning-love-single/1454808976",
-            "beatport": "https://www.beatport.com/track/boot-original-mix/11794430"
-        }
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
+    "instagram": "https://www.instagram.com/koftonmusic/",
+    "soundcloud": "https://soundcloud.com/user-90892428",
+    "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "ROMWEY",
+    "titre": "Boot",
+    "date": "30 Mars 2019",
+    "date_to_sort": "30/03/2019",
+    "platform": {
+      "spotify": "https://open.spotify.com/album/1vRjXtqB6YWCHyYk7r94Mr?si=NR0xvJyKS7Ctc3U5Ap3VsA",
+      "deezer": "http://www.deezer.com/track/655144332",
+      "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
+      "qobuz": "https://www.qobuz.com/gb-en/album/boot-romwey/qjmb780h6fiub",
+      "itunes": "https://itunes.apple.com/fr/album/burning-love-single/1454808976",
+      "beatport": "https://www.beatport.com/track/boot-original-mix/11794430"
     }
+  }
 }

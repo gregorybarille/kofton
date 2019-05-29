@@ -1,27 +1,28 @@
 {
-    "images": {
-        "artiste": "",
-        "bio": "",
-        "name": "",
-        "titre": ""
-    },
-    "social": {
-        "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
-        "instagram": "https://www.instagram.com/koftonmusic/",
-        "soundcloud": "https://soundcloud.com/user-90892428",
-        "twitter": "https://twitter.com/KoftonMusic",
-        "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
-    },
+  "images": {
+    "artiste": "",
     "bio": "",
-    "sortie": {
-        "artiste": "M_A_Dyne ft Sejo_Di_Dakta",
-        "titre": "Serereka",
-        "date": "19 Mars 2019",
-        "platform": {
-            "spotify": "https://open.spotify.com/track/2vvOFjSwXoDWisjnAwTBq7?si=KnmUzNviSqalEuRNibQDGw",
-            "deezer": "https://www.deezer.com/album/90412782?utm_source=deezer&amp;utm_content=album-90412782&amp;utm_term=4205667_1552987795&amp;utm_medium=web",
-            "google music": "https://play.google.com/store/music/album/M_A_Dyne_Serereka?id=Bbs7tph7g7rujm3go5gzkextghi",
-            "amazon": "https://www.amazon.fr/Serereka-Original-M_A_Dyne-feat-Sejo_Di_Dakta/dp/B07PNK85DK/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=M_A_Dyne&amp;qid=1552987671&amp;s=gateway&amp;sr=8-5"
-        }
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
+    "instagram": "https://www.instagram.com/koftonmusic/",
+    "soundcloud": "https://soundcloud.com/user-90892428",
+    "twitter": "https://twitter.com/KoftonMusic",
+    "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "M_A_Dyne ft Sejo_Di_Dakta",
+    "titre": "Serereka",
+    "date": "19 Mars 2019",
+    "date_to_sort": "19/03/2019",
+    "platform": {
+      "spotify": "https://open.spotify.com/track/2vvOFjSwXoDWisjnAwTBq7?si=KnmUzNviSqalEuRNibQDGw",
+      "deezer": "https://www.deezer.com/album/90412782?utm_source=deezer&amp;utm_content=album-90412782&amp;utm_term=4205667_1552987795&amp;utm_medium=web",
+      "google music": "https://play.google.com/store/music/album/M_A_Dyne_Serereka?id=Bbs7tph7g7rujm3go5gzkextghi",
+      "amazon": "https://www.amazon.fr/Serereka-Original-M_A_Dyne-feat-Sejo_Di_Dakta/dp/B07PNK85DK/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=M_A_Dyne&amp;qid=1552987671&amp;s=gateway&amp;sr=8-5"
     }
+  }
 }
