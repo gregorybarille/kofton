@@ -6,7 +6,7 @@ from datetime import datetime
 
 
 def read_artistes_directory(artistes_informations):
-    artistes_informations["sortie"] = []
+    artistes_informations["sorties"] = []
     artiste_directory = './public/assets/Artistes'
     directory_list = Path('./public/assets/Artistes').iterdir()
     for directory in directory_list:
@@ -17,7 +17,7 @@ def read_artistes_directory(artistes_informations):
                 with open(Path(f'{directory}/bio.json'), 'r') as json_file:
                     json_data = json.load(json_file)
                 artistes_informations[artiste_name] = json_data
-                artistes_informations["sortie"].append({"artiste": artiste_name, "date": json_data["sortie"]["date_to_sort"]})
+                artistes_informations["sorties"].append({"artiste": artiste_name, "date": json_data["sortie"]["date_to_sort"]})
             else:
                 print(f'The bio.json file is missing for {artiste_name}')
             if Path(f'{directory}/bio.html').is_file:
@@ -50,9 +50,9 @@ def read_artistes_directory(artistes_informations):
 
 
 def sort_releases_by_dates(artistes_informations):
-    print(artistes_informations["sortie"])
-    artistes_informations["sortie"].sort(key=lambda x: datetime.strptime(x['date'], '%d/%m/%Y'), reverse=True)
-    print(artistes_informations["sortie"])
+    print(artistes_informations["sorties"])
+    artistes_informations["sorties"].sort(key=lambda x: datetime.strptime(x['date'], '%d/%m/%Y'), reverse=True)
+    print(artistes_informations["sorties"])
 
 
 def write_json(artistes_informations):
