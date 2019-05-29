@@ -77,7 +77,8 @@ let router = new VueRouter({
     {
       path: "/demo",
       name: "Demo",
-      component: AppDemo
+      component: AppDemo,
+      props: true
     },
     {
       path: "/playlists",

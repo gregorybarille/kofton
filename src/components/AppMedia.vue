@@ -59,4 +59,7 @@ export default {
 .fab {
   color: lightslategray;
 }
+.v-btn {
+  padding: 0;
+}
 </style>
