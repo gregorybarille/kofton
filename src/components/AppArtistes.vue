@@ -4,7 +4,7 @@
       <v-card flat>
         <v-container grid-list-sm fluid>
           <v-layout row wrap>
-            <v-flex v-for="(value, key) in jsonData" :key="key" xs4 d-flex pa-2>
+            <v-flex v-for="(value, key) in jsonData.artistes" :key="key" xs4 d-flex pa-2>
               <v-hover>
                 <v-card
                   slot-scope="{ hover }"
@@ -14,7 +14,7 @@
                   :to="{path: `/artistes/${key}/bio`}"
                 >
                   <v-img
-                    :src="jsonData[key].images.artiste"
+                    :src="value.images.artiste"
                     aspect-ratio="1"
                     class="grey lighten-2"
                   ></v-img>

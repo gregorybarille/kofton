@@ -1,239 +1,241 @@
 {
-  "Dockbled": {
-    "bio": "&lt;p&gt;Depuis longtemps, la musique lui appara\u00eet comme le seul refuge \u00e0 une violence incessante. Il se nourrit de la\n  richesse des mots et des rimes, de la chanson fran\u00e7aise et de son histoire pour s\u2019emparer de cet art, qui est le rap.\n&lt;/p&gt;\n&lt;p&gt;N\u00e9 le 5 juin 1992 \u00e0 Nkonsamba, Dockbled de son vrai nom Alain Giresse KOMBO est un rappeur du Moungo situ\u00e9 dans la\n  r\u00e9gion littorale du Cameroun. Son p\u00e8re malheureusement parti trop t\u00f4t pour le suivre. C\u2019est \u00e0 sa m\u00e8re que revient la\n  charge d\u2019\u00e9lever Dockbled ainsi que c\u2019est 3 fr\u00e8res et soeurs. Elle sera une source d\u2019inspiration et une personne\n  d\u00e9terminante pour la carri\u00e8re du jeune artiste.&lt;/p&gt;\n&lt;p&gt;Durant son adolescence, il assiste \u00e0 la ghetto\u00efsation de son quartier. C\u2019est arriv\u00e9 \u00e0 un point ou m\u00eame la police ne\n  se d\u00e9place plus lorsqu\u2019il y a des crimes. Les gangsters imposent leurs propres r\u00e8gles, leurs propres lois. Les textes\n  violents et sombres de Dockbled sont \u00e0 l\u2019image du d\u00e9sespoir et de l\u2019avenir compromis des jeunes de Maquilla. Son rap\n  est le moyen d\u2019exprimer que \u00ab la piti\u00e9 est morte \u00bb comme il le dit lui-m\u00eame. En faite, il ne fait que parler de la\n  r\u00e9alit\u00e9, telle qu\u2019il la conna\u00eet, avec son propre langage.&lt;/p&gt;\n&lt;p&gt;En 2009, marque un tournant dans la carri\u00e8re de Dockbled. Il enchaine les comp\u00e9titions hip hop, entre Douala et\n  Yaound\u00e9, finissant r\u00e9guli\u00e8rement dans les premi\u00e8res places. Sa rencontre avec les artistes Pepis Jah Latime et Valsero\n  forge\n  son flow. Ce qui lui permettra en 2012 de finir premier de la comp\u00e9tition Music IS Back \u00e0 Mimboman. Son gout pour la\n  sc\u00e8ne\n  l\u2019am\u00e8nera en 2014 \u00e0 \u00eatre nomm\u00e9 vainqueur, par le public, du Freestyle Show et lui permettra d\u2019avoir un direct sur la\n  radio Campus FM de la ville de Douala. Grace \u00e0 ses passages remarqu\u00e9, il acc\u00e8de au studio prestigieux de Kaya records\n  pour enregistrer son premier titre.&lt;/p&gt;\n&lt;p&gt;2017 : \u00ab Gangster du Ghetto \u00bb&lt;/p&gt;\n&lt;p&gt;Il a toujours \u00e9cout\u00e9 de la musique et surtout du rap. Quant \u00e0 son nom, il le tient de son public et de sa mani\u00e8re de\n  rapper. Il signait le Dog du bled puis Dockbled. Il commence \u00e0 enregistrer des d\u00e9mos dont la fameuse \u00ab Gangster du\n  Ghetto \u00bb, le titre devient viral. En mai 2017, gr\u00e2ce au soutien inconditionnel de sa m\u00e8re, Dockbled sort sont premier\n  clip \u00ab Gangster du Ghetto \u00bb qu\u2019il d\u00e9finit \u00ab comme les chiens enrag\u00e9s \u00bb. Il d\u00e9croche plus de 115 000 vues sur le site\n  de r\u00e9f\u00e9rence Booska-p.com et re\u00e7oit les \u00e9loges d\u2019artistes comme Mokob\u00e9n Jok\u2019Air, Canardo, Kalash Criminel et Fred\n  Musa.\n&lt;/p&gt;\n&lt;p&gt;Son rap est lourd, puissant et ses textes r\u00e9v\u00e8lent son quotidien. Dockbled souhaite faire connaitre les difficult\u00e9s\n  de la vie \u00e0 travers sa musique et faire comprendre \u00e0 quel point il est facile d\u2019\u00e9lire domicile dans le ghetto.&lt;/p&gt;\n&lt;p&gt;Il enchainera entre 2017 et 2018 diff\u00e9rents showcases au Boucan et Air Force One, ainsi que plusieurs festivals\n  Hip-hop comme le One love ou encore Double-balle-Douala-Cameroun.&lt;/p&gt;\n&lt;p&gt;2019 : \u00ab Salet\u00e9 Sal\u00e9e \u00bb&lt;/p&gt;\n&lt;p&gt;Enregistr\u00e9 et mix\u00e9 au Cameroun, le nouveau titre du rappeur s\u2019intitule \u00ab Salet\u00e9 Sal\u00e9e \u00bb \u00e9dit\u00e9 sous le label Kofton\n  Music. Son flow est toujours aussi brut et ses textes dur. Son th\u00e8me de pr\u00e9dilection est pr\u00e9sent m\u00eame si ce titre se\n  veut plus grave, voir plus sombre, en rapport avec l\u2019actualit\u00e9 souvent violente du monde. Il est en featuring avec le\n  rappeur Lunik Drago.&lt;/p&gt;",
-    "images": {
-      "artiste": "assets/Artistes/Dockbled/images/artiste.png",
-      "bio": "assets/Artistes/Dockbled/images/bio.png",
-      "name": "assets/Artistes/Dockbled/images/name.png",
-      "titre": "assets/Artistes/Dockbled/images/titre.png"
-    },
-    "social": {
-      "facebook": "https://www.facebook.com/DockbedPageOfficielle/",
-      "instagram": "https://www.instagram.com/dockbled_vraie_page/",
-      "twitter": "https://twitter.com/RappeurDockbled"
-    },
-    "sortie": {
-      "artiste": "Dockbled ft. Lunik Drago",
-      "date": "6 Mars 2019",
-      "date_to_sort": "06/03/2019",
-      "platform": {
-        "amazon": "https://www.amazon.fr/Salet%C3%A9-sal%C3%A9e/dp/B07P6N4JGR/ref=sr_1_1?ie=UTF8&amp;qid=1551857662&amp;sr=8-1&amp;keywords=dockbled+salet%C3%A9+sal%C3%A9e",
-        "deezer": "https://www.deezer.com/album/88685172?utm_source=deezer&amp;utm_content=album-88685172&amp;utm_term=4205667_1551853046&amp;utm_medium=web",
-        "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
-        "itunes": "https://itunes.apple.com/fr/album//1454699163",
-        "spotify": "https://open.spotify.com/album/0neMz74aGyBwXGPbyhiFoX?si=neM_7kXMR32AMPJEFuHzfA"
+  "artistes": {
+    "Dockbled": {
+      "bio": "&lt;p&gt;Depuis longtemps, la musique lui appara\u00eet comme le seul refuge \u00e0 une violence incessante. Il se nourrit de la\n  richesse des mots et des rimes, de la chanson fran\u00e7aise et de son histoire pour s\u2019emparer de cet art, qui est le rap.\n&lt;/p&gt;\n&lt;p&gt;N\u00e9 le 5 juin 1992 \u00e0 Nkonsamba, Dockbled de son vrai nom Alain Giresse KOMBO est un rappeur du Moungo situ\u00e9 dans la\n  r\u00e9gion littorale du Cameroun. Son p\u00e8re malheureusement parti trop t\u00f4t pour le suivre. C\u2019est \u00e0 sa m\u00e8re que revient la\n  charge d\u2019\u00e9lever Dockbled ainsi que c\u2019est 3 fr\u00e8res et soeurs. Elle sera une source d\u2019inspiration et une personne\n  d\u00e9terminante pour la carri\u00e8re du jeune artiste.&lt;/p&gt;\n&lt;p&gt;Durant son adolescence, il assiste \u00e0 la ghetto\u00efsation de son quartier. C\u2019est arriv\u00e9 \u00e0 un point ou m\u00eame la police ne\n  se d\u00e9place plus lorsqu\u2019il y a des crimes. Les gangsters imposent leurs propres r\u00e8gles, leurs propres lois. Les textes\n  violents et sombres de Dockbled sont \u00e0 l\u2019image du d\u00e9sespoir et de l\u2019avenir compromis des jeunes de Maquilla. Son rap\n  est le moyen d\u2019exprimer que \u00ab la piti\u00e9 est morte \u00bb comme il le dit lui-m\u00eame. En faite, il ne fait que parler de la\n  r\u00e9alit\u00e9, telle qu\u2019il la conna\u00eet, avec son propre langage.&lt;/p&gt;\n&lt;p&gt;En 2009, marque un tournant dans la carri\u00e8re de Dockbled. Il enchaine les comp\u00e9titions hip hop, entre Douala et\n  Yaound\u00e9, finissant r\u00e9guli\u00e8rement dans les premi\u00e8res places. Sa rencontre avec les artistes Pepis Jah Latime et Valsero\n  forge\n  son flow. Ce qui lui permettra en 2012 de finir premier de la comp\u00e9tition Music IS Back \u00e0 Mimboman. Son gout pour la\n  sc\u00e8ne\n  l\u2019am\u00e8nera en 2014 \u00e0 \u00eatre nomm\u00e9 vainqueur, par le public, du Freestyle Show et lui permettra d\u2019avoir un direct sur la\n  radio Campus FM de la ville de Douala. Grace \u00e0 ses passages remarqu\u00e9, il acc\u00e8de au studio prestigieux de Kaya records\n  pour enregistrer son premier titre.&lt;/p&gt;\n&lt;p&gt;2017 : \u00ab Gangster du Ghetto \u00bb&lt;/p&gt;\n&lt;p&gt;Il a toujours \u00e9cout\u00e9 de la musique et surtout du rap. Quant \u00e0 son nom, il le tient de son public et de sa mani\u00e8re de\n  rapper. Il signait le Dog du bled puis Dockbled. Il commence \u00e0 enregistrer des d\u00e9mos dont la fameuse \u00ab Gangster du\n  Ghetto \u00bb, le titre devient viral. En mai 2017, gr\u00e2ce au soutien inconditionnel de sa m\u00e8re, Dockbled sort sont premier\n  clip \u00ab Gangster du Ghetto \u00bb qu\u2019il d\u00e9finit \u00ab comme les chiens enrag\u00e9s \u00bb. Il d\u00e9croche plus de 115 000 vues sur le site\n  de r\u00e9f\u00e9rence Booska-p.com et re\u00e7oit les \u00e9loges d\u2019artistes comme Mokob\u00e9n Jok\u2019Air, Canardo, Kalash Criminel et Fred\n  Musa.\n&lt;/p&gt;\n&lt;p&gt;Son rap est lourd, puissant et ses textes r\u00e9v\u00e8lent son quotidien. Dockbled souhaite faire connaitre les difficult\u00e9s\n  de la vie \u00e0 travers sa musique et faire comprendre \u00e0 quel point il est facile d\u2019\u00e9lire domicile dans le ghetto.&lt;/p&gt;\n&lt;p&gt;Il enchainera entre 2017 et 2018 diff\u00e9rents showcases au Boucan et Air Force One, ainsi que plusieurs festivals\n  Hip-hop comme le One love ou encore Double-balle-Douala-Cameroun.&lt;/p&gt;\n&lt;p&gt;2019 : \u00ab Salet\u00e9 Sal\u00e9e \u00bb&lt;/p&gt;\n&lt;p&gt;Enregistr\u00e9 et mix\u00e9 au Cameroun, le nouveau titre du rappeur s\u2019intitule \u00ab Salet\u00e9 Sal\u00e9e \u00bb \u00e9dit\u00e9 sous le label Kofton\n  Music. Son flow est toujours aussi brut et ses textes dur. Son th\u00e8me de pr\u00e9dilection est pr\u00e9sent m\u00eame si ce titre se\n  veut plus grave, voir plus sombre, en rapport avec l\u2019actualit\u00e9 souvent violente du monde. Il est en featuring avec le\n  rappeur Lunik Drago.&lt;/p&gt;",
+      "images": {
+        "artiste": "assets/Artistes/Dockbled/images/artiste.png",
+        "bio": "assets/Artistes/Dockbled/images/bio.png",
+        "name": "assets/Artistes/Dockbled/images/name.png",
+        "titre": "assets/Artistes/Dockbled/images/titre.png"
       },
-      "titre": "Salet\u00e9 Sal\u00e9e"
-    }
-  },
-  "Enfant Calme": {
-    "bio": "&lt;p&gt;\u00ab De nos jours, les musiciens font de la musique pour les projecteurs et ils oublient l\u2019essence m\u00eame de cet art. Ils\n  se\n  ressemblent pratiquement tous, avec cette m\u00eame fausse m\u00e9lancolie, des chansons copi\u00e9/coll\u00e9e, et ils transmettent les\n  m\u00eames id\u00e9es. On peut les comparer \u00e0 Google ou Microsoft. Mon but est de me concentrer sur ma passion, ma musique.\n  Enfant\n  Calme m\u2019am\u00e8ne cette libert\u00e9. \u00bb&lt;/p&gt;\n&lt;p&gt;Originaire de Nantes, le DJ et producteur de musique Electro \u00e0 influence tropicale, est une d\u00e9couverte Kofton Music.\n&lt;/p&gt;\n&lt;p&gt;\u00ab My Mind \u00bb&lt;/p&gt;\n&lt;p&gt;Avant de prendre le premier r\u00f4le, Enfant Calme a patiemment pr\u00e9f\u00e9r\u00e9 rester dans l\u2019ombre afin de minutieusement\n  analyser,\n  absorber, scruter le publique des sons qu&#x27;il a mix\u00e9. Il s\u2019est accapar\u00e9 toutes les id\u00e9es jusqu\u2019au moment o\u00f9 il a\n  ressenti\n  le besoin physique insoutenable d\u2019ext\u00e9rioriser ses pens\u00e9es.&lt;/p&gt;\n&lt;p&gt;Sa premi\u00e8re inspiration artistique est \u00ab My Mind \u00bb, premier single d\u00e9voil\u00e9 en avril 2019 sous le label Kofton\n  Music. Il\n  nous transmet toute sa cr\u00e9ativit\u00e9, des beats afro, une guitare en toute l\u00e9g\u00e8ret\u00e9 et une voix \u00e9nergique indocile\u2026\n  l\u2019avant-go\u00fbt parfait pour un premier ep.&lt;/p&gt;",
-    "images": {
-      "artiste": "assets/Artistes/Enfant Calme/images/artiste.png",
-      "bio": "assets/Artistes/Enfant Calme/images/artiste.png",
-      "name": "assets/Artistes/Enfant Calme/images/name.png",
-      "titre": "assets/Artistes/Enfant Calme/images/titre.png"
-    },
-    "social": { "instagram": "https://www.instagram.com/enfantcalme.off/" },
-    "sortie": {
-      "artiste": "Enfant Calme",
-      "date": "8 Avril 2019",
-      "date_to_sort": "08/04/2019",
-      "platform": {
-        "amazon": "https://www.amazon.fr/My-Mind-Original/dp/B07QHHH2YL/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=enfant+calme+%C3%B9y+mind&amp;qid=1554720972&amp;s=gateway&amp;sr=8-1-spell",
-        "deezer": "https://www.deezer.com/album/92336532?utm_source=deezer&amp;utm_content=album-92336532&amp;utm_term=4205667_1554721299&amp;utm_medium=web",
-        "google music": "https://play.google.com/store/music/album/Enfant_Calme_My_Mind?id=Bo77ibg6ejldm3smxbljcj2nn4u",
-        "spotify": "https://open.spotify.com/album/4GlCcigqLzIPYwx22fLxBr?si=uIkWZSBFTRCHOJBExuLbVg"
+      "social": {
+        "facebook": "https://www.facebook.com/DockbedPageOfficielle/",
+        "instagram": "https://www.instagram.com/dockbled_vraie_page/",
+        "twitter": "https://twitter.com/RappeurDockbled"
       },
-      "titre": "My Mind"
-    }
-  },
-  "HezCut": {
-    "bio": "&lt;p&gt;Sylvain Pedrosa est n\u00e9 en 1982 \u00e0 Besan\u00e7on. Lorsque nous lui posons la question, \u00ab Ou allez-vous ? \u00bb voici ce qu\u2019il\n  nous\n  r\u00e9pond : \u00ab Je dirais, vise au-del\u00e0 de la lune et si tu te casses la gueule, tu tomberas dans les \u00e9toiles \u00bb. Hez Cut\n  est\n  de cette g\u00e9n\u00e9ration d\u2019artistes du XXIe si\u00e8cle qui s\u2019est construit en s\u2019\u00e9mancipant d\u2019un r\u00e9pertoire d\u2019inspiration\n  traditionnelle, mais ne l\u2019oublie jamais en s\u2019inscrivant dans le moment pr\u00e9sent.&lt;/p&gt;\n&lt;p&gt;\u00c0 19 ans, il ach\u00e8te ses premi\u00e8res platines vinyles. De cet univers, il d\u00e9couvre le domaine de la \u00ab MAO \u00bb.\n  Boulimique\n  d\u2019enregistrement r\u00e9cents, c\u2019est le rap qui le m\u00e8ne vers l\u2019univers peupl\u00e9 de machines diverses o\u00f9 le sample est roi.\n  Il\n  est d\u2019abord tr\u00e8s influenc\u00e9 par le film \u00ab la Haine \u00bb de Mathieu Kassovitz. Il regarde en boucle se passage culte o\u00f9\n  Cut\n  Killer enchaine les Pass-Pass tout en inondant la cit\u00e9 de son talent. Hez Cut se fait vite rep\u00e9r\u00e9 est int\u00e9gr\u00e9 en\n  tant\n  que Dj l\u2019association organisatrice de soir\u00e9e Mix\u2019Cit\u00e9.&lt;/p&gt;\n&lt;p&gt;Les 10 ann\u00e9es qui suivent vont lui permettre de d\u00e9velopper son art et de porter son attention sur le d\u00e9tail qui\n  fait la\n  diff\u00e9rence. Il devient le Dj embl\u00e9matique de l\u2019association Res\u2019KP de Besan\u00e7on et fait bouger les break-danseurs de\n  sa\n  r\u00e9gion. Il sera amen\u00e9 \u00e0 faire la premi\u00e8re partie de Dj Missil et de Ol Kainry. Sa passion pour la musique l\u2019am\u00e8ne \u00e0\n  faire les interviews d\u2019artistes internationaux comme Dj Netik, D Atom des C2C ou encore les grands Birdy Nam Nam.\n&lt;/p&gt;\n&lt;p&gt;2016 n\u2019est pas en reste, il sera dipl\u00f4m\u00e9 de l\u2019EANOV School, atteindra la 5eme place du championnat de France DMC et\n  participera au record du monde de scratch de la plus grande r\u00e9union de Dj. Ce qui lui pousse \u00e0 aller toujours plus\n  loin,\n  c\u2019est l\u2019envie, le ressenti, l\u2019\u00e9motion et plus que tout le partage.&lt;/p&gt;\n&lt;p&gt;Mais Hez Cut est un investigateur sonore et il ne fige pas son \u0153uvre dans un style. D\u2019ailleurs, c\u2019est du c\u00f4t\u00e9 de la\n  musique \u00e9lectronique qu\u2019il va dor\u00e9navant chercher son inspiration. Compl\u00e8tement conquis par ce genre et sa culture,\n  le\n  musicien en fait la base de ses nouvelles compositions et va se d\u00e9doubler en cr\u00e9ant WHOII. Il ne s\u2019arr\u00eate pas \u00e0 \u00e7a\n  et\n  cr\u00e9e son entreprise Buzz\u2019Hack Sound, un studio de productions musicales de Hip Hop \u00e0 l\u2019electro-funk en passant par\n  des\n  ambiances, de l\u2019exp\u00e9rimentale voir m\u00eame des musiques destin\u00e9es \u00e0 la synchronisation. Avec cette incursion dans\n  l\u2019univers\n  du surnaturel, Hez Cut s\u2019\u00e9loigne un peu plus de ses coll\u00e8gues DJ.&lt;/p&gt;\n&lt;p&gt;\u00ab Have a Good Time \u00bb&lt;/p&gt;\n&lt;p&gt;En d\u00e9finitive, l\u2019\u00e9tiquette importe peu. Avec une instrumentalisation regroupant trompettes, guitares, basse et voix\n  puissantes, Hez Cut, principal compositeur du single, a invent\u00e9 un monde sonore ludique et exp\u00e9rimental. Il cr\u00e9e un\n  son\n  magn\u00e9tique, analogue, mais particuli\u00e8rement \u00e9lectronique. Encore une fois, l\u2019artiste n\u2019oublie pas ses traditions et\n  permet au jazz de regagner ses terrains de jeux. Le morceau sort avec la collaboration du fameux Tchou Kabam\u2019s en\n  avril\n  2019, chez Kofton Music.&lt;/p&gt;",
-    "images": {
-      "artiste": "assets/Artistes/HezCut/images/bio.png",
-      "bio": "assets/Artistes/HezCut/images/bio.png",
-      "name": "assets/Artistes/HezCut/images/name.png",
-      "titre": "assets/Artistes/HezCut/images/titre.png"
+      "sortie": {
+        "artiste": "Dockbled ft. Lunik Drago",
+        "date": "6 Mars 2019",
+        "date_to_sort": "06/03/2019",
+        "platform": {
+          "amazon": "https://www.amazon.fr/Salet%C3%A9-sal%C3%A9e/dp/B07P6N4JGR/ref=sr_1_1?ie=UTF8&amp;qid=1551857662&amp;sr=8-1&amp;keywords=dockbled+salet%C3%A9+sal%C3%A9e",
+          "deezer": "https://www.deezer.com/album/88685172?utm_source=deezer&amp;utm_content=album-88685172&amp;utm_term=4205667_1551853046&amp;utm_medium=web",
+          "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
+          "itunes": "https://itunes.apple.com/fr/album//1454699163",
+          "spotify": "https://open.spotify.com/album/0neMz74aGyBwXGPbyhiFoX?si=neM_7kXMR32AMPJEFuHzfA"
+        },
+        "titre": "Salet\u00e9 Sal\u00e9e"
+      }
     },
-    "social": {
-      "facebook": "https://www.facebook.com/buzzhacksound/",
-      "instagram": "https://www.instagram.com/buzzhacksound/?hl=fr",
-      "soundcloud": "https://soundcloud.com/user-165977556",
-      "youtube": "https://www.youtube.com/channel/UCUu-HN83zuoLBQZJEY4hRsg"
-    },
-    "sortie": {
-      "artiste": "Hez Cut & Tchou Kabam's ",
-      "date": "13 Avril 2019",
-      "date_to_sort": "13/04/2019",
-      "platform": {
-        "amazon": "https://www.amazon.fr/Have-a-Good-Time/dp/B07QFFZKP5/ref=sr_1_2?keywords=DJ+Hez+Cut+%26+Tchou+Kabam%27s&amp;qid=1555228249&amp;s=dmusic&amp;search-type=ss&amp;sr=1-2-spell",
-        "deezer": "https://www.deezer.com/fr/track/660748242",
-        "google music": "https://play.google.com/store/music/album/DJ_Hez_Cut_Have_a_Good_Time?id=Bjvip7hlnflqxqmsgj7oa5rwu6u",
-        "spotify": "https://open.spotify.com/album/3cnNZxLAuF9M0G7NERQybr?si=Sz2D1mBKQc2pPRBYeO9XmA"
+    "Enfant Calme": {
+      "bio": "&lt;p&gt;\u00ab De nos jours, les musiciens font de la musique pour les projecteurs et ils oublient l\u2019essence m\u00eame de cet art. Ils\n  se\n  ressemblent pratiquement tous, avec cette m\u00eame fausse m\u00e9lancolie, des chansons copi\u00e9/coll\u00e9e, et ils transmettent les\n  m\u00eames id\u00e9es. On peut les comparer \u00e0 Google ou Microsoft. Mon but est de me concentrer sur ma passion, ma musique.\n  Enfant\n  Calme m\u2019am\u00e8ne cette libert\u00e9. \u00bb&lt;/p&gt;\n&lt;p&gt;Originaire de Nantes, le DJ et producteur de musique Electro \u00e0 influence tropicale, est une d\u00e9couverte Kofton Music.\n&lt;/p&gt;\n&lt;p&gt;\u00ab My Mind \u00bb&lt;/p&gt;\n&lt;p&gt;Avant de prendre le premier r\u00f4le, Enfant Calme a patiemment pr\u00e9f\u00e9r\u00e9 rester dans l\u2019ombre afin de minutieusement\n  analyser,\n  absorber, scruter le publique des sons qu&#x27;il a mix\u00e9. Il s\u2019est accapar\u00e9 toutes les id\u00e9es jusqu\u2019au moment o\u00f9 il a\n  ressenti\n  le besoin physique insoutenable d\u2019ext\u00e9rioriser ses pens\u00e9es.&lt;/p&gt;\n&lt;p&gt;Sa premi\u00e8re inspiration artistique est \u00ab My Mind \u00bb, premier single d\u00e9voil\u00e9 en avril 2019 sous le label Kofton\n  Music. Il\n  nous transmet toute sa cr\u00e9ativit\u00e9, des beats afro, une guitare en toute l\u00e9g\u00e8ret\u00e9 et une voix \u00e9nergique indocile\u2026\n  l\u2019avant-go\u00fbt parfait pour un premier ep.&lt;/p&gt;",
+      "images": {
+        "artiste": "assets/Artistes/Enfant Calme/images/artiste.png",
+        "bio": "assets/Artistes/Enfant Calme/images/artiste.png",
+        "name": "assets/Artistes/Enfant Calme/images/name.png",
+        "titre": "assets/Artistes/Enfant Calme/images/titre.png"
       },
-      "titre": "Have a Good Time"
-    }
-  },
-  "K-Johnson": {
-    "bio": "&lt;p&gt;Ce qui d\u00e9finit le style de K-Johnson, c\u2019est l\u2019humour. Plus qu\u2019un simple plaisantin, K-Johnson d\u00e9voile \u00e0 travers sa\n  musique les probl\u00e8mes et blessures de son pays. Gr\u00e2ce \u00e0 la rigolade et au sarcasme, il nous fait parvenir un message\n  de\n  v\u00e9rit\u00e9 et enracin\u00e9 dans son \u00e9poque.&lt;/p&gt;\n&lt;p&gt;C\u2019est le 23 octobre 1995 que na\u00eet Idriss Fofie Tiotsop \u00e0 Bangang, dans le d\u00e9partement des Bamboutous \u00e0 l\u2019ouest du\n  Cameroun. Il a \u00e9t\u00e9 tr\u00e8s jeune adepte de la musique puisque ses parents sont des grands fans de Bikutsi, un genre\n  musical\n  tr\u00e8s populaire autour de Yaound\u00e9. Au coll\u00e8ge, il ne s\u2019attarde pas sur ses devoirs, plut\u00f4t int\u00e9ress\u00e9 par l\u2019\u00e9criture et\n  la\n  pratique des langues \u00e9trang\u00e8res. Il se trouve une passion pour l\u2019espagnol, ce qui influencera grandement ses futures\n  compositions. L\u2019ann\u00e9e de son baccalaur\u00e9at sera un moment tr\u00e8s difficile pour Idriss, il sera m\u00eame renvoy\u00e9 de son lyc\u00e9e\n  juste avant de passer son examen. Malgr\u00e9 cela, il obtiendra son dipl\u00f4me en candidat libre l\u2019ann\u00e9e suivante.&lt;/p&gt;\n&lt;p&gt;2017 : \u00ab Zeleto \u00bb&lt;/p&gt;\n&lt;p&gt;K-Johnson avoue ne pas avoir de style musical pr\u00e9cis mais plut\u00f4t un m\u00e9lange entre l\u2019afro et le rap. Lorsqu\u2019il \u00e9crit\n  ses\n  paroles, tout comme sa musique, il aime m\u00e9langer le fran\u00e7ais, l\u2019espagnol ou encore sa langue maternelle, le Ngiemboon.\n  Zeleto est une collaboration avec Mabelle Zang. Le r\u00e9sultat est nu, sec, effervescent, port\u00e9 \u00e0 \u00e9bullition par un\n  m\u00e9lange\n  afro pop synth\u00e9tique et un magnifique hommage \u00e0 la ville de Mbouda. Se titre sortira avec le label Kofton Music.&lt;/p&gt;\n&lt;p&gt;En 2018, K-Johnson revient avec son titre \u00ab Critiquez \u00bb. L\u2019artiste nous propose un titre acidul\u00e9 qui nous donne\n  l\u2019envie\n  de taper \u00ab le pied au sol \u00bb, de bestialement nous secouer \u00ab un peu la t\u00eate \u00bb, comme par une alt\u00e9ration transitoire de\n  la\n  conscience de soi, nous rentrons en trance, tout notre \u00ab corps d\u00e9colle \u00bb et puis nous devenons \u00ab b\u00eates \u00bb , voici la\n  d\u00e9finition de la f\u00eate. Pour K-Johnson, la critique c\u2019est quelqu\u2019un qui conna\u00eet la danse mais qui ne sait pas danser.\n  Encore une fois, nous retrouvons le trait de la plaisanterie et de l\u2019ironie sur un sujet qui peut toucher tout le\n  monde.&lt;/p&gt;\n&lt;p&gt;\u00ab Hola Hola \u00bb&lt;/p&gt;\n&lt;p&gt;Il retrouve sa verve pour un nouveau titre sorti sous le label Kofton Music et enregistr\u00e9 \u00e0 Yaound\u00e9 au Cameroun en\n  2019.\n  Dans cette musique, sign\u00e9 par le producteur I.V.O, on retrouve une m\u00e9lodie ent\u00eatante, des beats afro et le jeu de la\n  s\u00e9duction, histoire de faire grimper, un peu plus, la temp\u00e9rature\u2026 C\u2019est un titre calibr\u00e9 pour le dancefloor !&lt;/p&gt;",
-    "images": {
-      "artiste": "assets/Artistes/K-Johnson/images/artiste.png",
-      "bio": "assets/Artistes/K-Johnson/images/bio.png",
-      "name": "assets/Artistes/K-Johnson/images/name.png",
-      "titre": "assets/Artistes/K-Johnson/images/titre.png"
+      "social": { "instagram": "https://www.instagram.com/enfantcalme.off/" },
+      "sortie": {
+        "artiste": "Enfant Calme",
+        "date": "8 Avril 2019",
+        "date_to_sort": "08/04/2019",
+        "platform": {
+          "amazon": "https://www.amazon.fr/My-Mind-Original/dp/B07QHHH2YL/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=enfant+calme+%C3%B9y+mind&amp;qid=1554720972&amp;s=gateway&amp;sr=8-1-spell",
+          "deezer": "https://www.deezer.com/album/92336532?utm_source=deezer&amp;utm_content=album-92336532&amp;utm_term=4205667_1554721299&amp;utm_medium=web",
+          "google music": "https://play.google.com/store/music/album/Enfant_Calme_My_Mind?id=Bo77ibg6ejldm3smxbljcj2nn4u",
+          "spotify": "https://open.spotify.com/album/4GlCcigqLzIPYwx22fLxBr?si=uIkWZSBFTRCHOJBExuLbVg"
+        },
+        "titre": "My Mind"
+      }
     },
-    "social": {
-      "facebook": "https://www.facebook.com/johnson.fofie",
-      "youtube": "https://www.youtube.com/channel/UCkY1n2BqHpUUfvq62YswozA"
-    },
-    "sortie": {
-      "artiste": "K-Johnson & I.V.O",
-      "date": "11 Mars 2019",
-      "date_to_sort": "11/03/2019",
-      "platform": {
-        "amazon": "https://www.amazon.fr/Hola-K-Johnson-I-V/dp/B07P9BXDMQ/ref=sr_1_1?ie=UTF8&amp;qid=1552324630&amp;sr=8-1&amp;keywords=k-johnson+hola+hola",
-        "deezer": "https://www.deezer.com/album/89102402?utm_source=deezer&amp;utm_content=album-89102402&amp;utm_term=4205667_1552324806&amp;utm_medium=web",
-        "google music": "https://play.google.com/store/music/album/K_Johnson_Hola_Hola?id=Bw4bgpawfisxy4ecoewsnibonim&amp;hl=fr",
-        "spotify": "https://open.spotify.com/album/436q3dVrMatcuqp2eEMH2s?si=uW64EcEkRdO6LYIWHGLdew"
+    "HezCut": {
+      "bio": "&lt;p&gt;Sylvain Pedrosa est n\u00e9 en 1982 \u00e0 Besan\u00e7on. Lorsque nous lui posons la question, \u00ab Ou allez-vous ? \u00bb voici ce qu\u2019il\n  nous\n  r\u00e9pond : \u00ab Je dirais, vise au-del\u00e0 de la lune et si tu te casses la gueule, tu tomberas dans les \u00e9toiles \u00bb. Hez Cut\n  est\n  de cette g\u00e9n\u00e9ration d\u2019artistes du XXIe si\u00e8cle qui s\u2019est construit en s\u2019\u00e9mancipant d\u2019un r\u00e9pertoire d\u2019inspiration\n  traditionnelle, mais ne l\u2019oublie jamais en s\u2019inscrivant dans le moment pr\u00e9sent.&lt;/p&gt;\n&lt;p&gt;\u00c0 19 ans, il ach\u00e8te ses premi\u00e8res platines vinyles. De cet univers, il d\u00e9couvre le domaine de la \u00ab MAO \u00bb.\n  Boulimique\n  d\u2019enregistrement r\u00e9cents, c\u2019est le rap qui le m\u00e8ne vers l\u2019univers peupl\u00e9 de machines diverses o\u00f9 le sample est roi.\n  Il\n  est d\u2019abord tr\u00e8s influenc\u00e9 par le film \u00ab la Haine \u00bb de Mathieu Kassovitz. Il regarde en boucle se passage culte o\u00f9\n  Cut\n  Killer enchaine les Pass-Pass tout en inondant la cit\u00e9 de son talent. Hez Cut se fait vite rep\u00e9r\u00e9 est int\u00e9gr\u00e9 en\n  tant\n  que Dj l\u2019association organisatrice de soir\u00e9e Mix\u2019Cit\u00e9.&lt;/p&gt;\n&lt;p&gt;Les 10 ann\u00e9es qui suivent vont lui permettre de d\u00e9velopper son art et de porter son attention sur le d\u00e9tail qui\n  fait la\n  diff\u00e9rence. Il devient le Dj embl\u00e9matique de l\u2019association Res\u2019KP de Besan\u00e7on et fait bouger les break-danseurs de\n  sa\n  r\u00e9gion. Il sera amen\u00e9 \u00e0 faire la premi\u00e8re partie de Dj Missil et de Ol Kainry. Sa passion pour la musique l\u2019am\u00e8ne \u00e0\n  faire les interviews d\u2019artistes internationaux comme Dj Netik, D Atom des C2C ou encore les grands Birdy Nam Nam.\n&lt;/p&gt;\n&lt;p&gt;2016 n\u2019est pas en reste, il sera dipl\u00f4m\u00e9 de l\u2019EANOV School, atteindra la 5eme place du championnat de France DMC et\n  participera au record du monde de scratch de la plus grande r\u00e9union de Dj. Ce qui lui pousse \u00e0 aller toujours plus\n  loin,\n  c\u2019est l\u2019envie, le ressenti, l\u2019\u00e9motion et plus que tout le partage.&lt;/p&gt;\n&lt;p&gt;Mais Hez Cut est un investigateur sonore et il ne fige pas son \u0153uvre dans un style. D\u2019ailleurs, c\u2019est du c\u00f4t\u00e9 de la\n  musique \u00e9lectronique qu\u2019il va dor\u00e9navant chercher son inspiration. Compl\u00e8tement conquis par ce genre et sa culture,\n  le\n  musicien en fait la base de ses nouvelles compositions et va se d\u00e9doubler en cr\u00e9ant WHOII. Il ne s\u2019arr\u00eate pas \u00e0 \u00e7a\n  et\n  cr\u00e9e son entreprise Buzz\u2019Hack Sound, un studio de productions musicales de Hip Hop \u00e0 l\u2019electro-funk en passant par\n  des\n  ambiances, de l\u2019exp\u00e9rimentale voir m\u00eame des musiques destin\u00e9es \u00e0 la synchronisation. Avec cette incursion dans\n  l\u2019univers\n  du surnaturel, Hez Cut s\u2019\u00e9loigne un peu plus de ses coll\u00e8gues DJ.&lt;/p&gt;\n&lt;p&gt;\u00ab Have a Good Time \u00bb&lt;/p&gt;\n&lt;p&gt;En d\u00e9finitive, l\u2019\u00e9tiquette importe peu. Avec une instrumentalisation regroupant trompettes, guitares, basse et voix\n  puissantes, Hez Cut, principal compositeur du single, a invent\u00e9 un monde sonore ludique et exp\u00e9rimental. Il cr\u00e9e un\n  son\n  magn\u00e9tique, analogue, mais particuli\u00e8rement \u00e9lectronique. Encore une fois, l\u2019artiste n\u2019oublie pas ses traditions et\n  permet au jazz de regagner ses terrains de jeux. Le morceau sort avec la collaboration du fameux Tchou Kabam\u2019s en\n  avril\n  2019, chez Kofton Music.&lt;/p&gt;",
+      "images": {
+        "artiste": "assets/Artistes/HezCut/images/bio.png",
+        "bio": "assets/Artistes/HezCut/images/bio.png",
+        "name": "assets/Artistes/HezCut/images/name.png",
+        "titre": "assets/Artistes/HezCut/images/titre.png"
       },
-      "titre": "Hola Hola"
-    }
-  },
-  "Launch Machine": {
-    "bio": "&lt;p&gt;PARLE-NOUS DE TOI : LaunchMachine&lt;/p&gt;\n&lt;p&gt;Launchmachine est un producteur fran\u00e7ais de 16 ans, qui s\u2019est fait remarquer avec son titre \u00ab In My Head \u00bb. Enfant de\n  la\n  musique electro, il est le premier d\u2019une nouvelle g\u00e9n\u00e9ration d\u2019artistes, \u00e0 la fois compositeurs, scientifique et\n  prince\n  des DAW\u2019s. L\u2019avenir quoi !&lt;/p&gt;\n&lt;p&gt;Parle-nous de toi LaunchMachine ?&lt;/p&gt;\n&lt;p&gt;Je m\u2019appelle Bastien Riviere, j\u2019ai 16 ans, je viens de Montpellier, sur internet et dans ma chambre, je suis\n  LaunchMachine. J\u2019aime me d\u00e9signer comme artiste \u00e9lectronique et du WWW.&lt;/p&gt;\n&lt;p&gt;WWW ?&lt;/p&gt;\n&lt;p&gt;Oui, pour World Wild Web, je n\u2019ai pas de formation musicale ou suivi des cours d\u2019instrument\u2026 mais je suis de cette\n  g\u00e9n\u00e9ration qui est n\u00e9e avec internet et pour moi c\u2019est une source infinie d\u2019apprentissage. Je suis un autodidacte pur\n  et\n  dur, surtout pour les DAW\u2019s, et je cherche \u00e0 aller toujours plus loin.&lt;/p&gt;\n&lt;p&gt;D\u2019o\u00f9 la progression vers le monde de l\u2019\u00e9lectronique ?&lt;/p&gt;\n&lt;p&gt;Gr\u00e2ce \u00e0 des artistes comme Martin Garrix, AVICII et Virtual Riot. J\u2019ai \u00e9cout\u00e9 leurs remix et morceaux, je me suis\n  directement abonn\u00e9 \u00e0 leurs pages. SoundClound est un v\u00e9ritable moteur de recherche pour la musique, tu d\u00e9couvres tous\n  les jours des nouveaux artistes avec des influences rock, pop, moombahton, etc. Je chillais sur la charte nouveaut\u00e9 \u00e0\n  chaque fois que j\u2019avais un petit moment, et j\u2019ai fini par me dire pourquoi pas moi.&lt;/p&gt;\n&lt;p&gt;\u00ab Mon premier contact avec la musique \u00e9tait \u00e0 mes 10 ans. Mes parents m\u2019avaient offert un Launchpad et je m\u2019\u00e9clater \u00e0\n  faire des remix. La composition est venue avec Ableton Live qui \u00e9tait fourni avec le pad\u2026 Et voil\u00e0 comment ma chambre\n  s\u2019est transform\u00e9e en terrain d\u2019exp\u00e9rimentation. \u00bb LaunchMachine&lt;/p&gt;\n&lt;p&gt;C\u2019est le m\u00eame principe que pour commencer un projet. Il y a une pens\u00e9e abstraite qui te traverse l\u2019esprit, et tu n\u2019as\n  pas encore toute l\u2019architecture technique mais uniquement la vision cr\u00e9ative. C\u2019est incroyable.&lt;/p&gt;\n&lt;p&gt;Dans ta musique tu travailles beaucoup sur la texture.&lt;/p&gt;\n&lt;p&gt;J\u2019ai un go\u00fbt prononc\u00e9 pour le num\u00e9rique, mais progressivement, j\u2019int\u00e8gre de la chaleur \u00e0 mes morceaux. Je veux aller\n  au-del\u00e0 d\u2019un genre musical, rajouter des guitares, des instruments \u00e0 vent et des rythmiques hip-hop, quelque chose\n  d\u2019assez hybride. Le rapport humain et machine me correspond bien. On retrouve cette identit\u00e9 dans AVICII ou Virtual\n  Riot.&lt;/p&gt;\n&lt;p&gt;D\u2019autres artistes ?&lt;/p&gt;\n&lt;p&gt;Je m\u2019inspire beaucoup des r\u00e9f\u00e9rences de mes parents, Queen, U2, et de la musique Jazz ou classique. Mais je dois\n  avouer\n  que Martin Garrix reste ma plus grande source d&#x27;inspiration.&lt;/p&gt;\n&lt;p&gt;Explique-nous comment tu es pass\u00e9 de l\u2019ado dans sa chambre \u00e0 LaunchMachine ?&lt;/p&gt;\n&lt;p&gt;C\u2019est lorsque j\u2019ai fait \u00e9couter pour la premi\u00e8re fois, autour de moi, \u00e0 mes potes et ma famille le titre \u00ab Jungle \u00bb.\n  J\u2019ai compris que ma musique pouvait plaire.&lt;/p&gt;\n&lt;p&gt;\u00ab Lors du divorce de mes parents, je me suis r\u00e9fugi\u00e9 dans l\u2019univers que je ma\u00eetrise, la musique. Puis j\u2019ai cr\u00e9\u00e9\n  LaunchMachine il y a 2 ans. Simplement pour le plaisir de transmettre mes \u00e9motions gr\u00e2ce \u00e0 mes titres. \u00bb&lt;/p&gt;\n&lt;p&gt;J\u2019ai ensuite post\u00e9 sur SoundCloud le titre, et le nombre de lecture \u00e0 doucement mont\u00e9. Cet \u00e9t\u00e9-l\u00e0, j\u2019ai eu la chance\n  de\n  pouvoir \u00eatre playlist\u00e9 dans quelques clubs de ma r\u00e9gion et j\u2019ai pu rencontrer d\u2019autres artistes. Ainsi, j\u2019ai fait la\n  connaissance de Pablo, un compositeur grenoblois avec qui nous avons d\u00e9cid\u00e9 de cr\u00e9er le collectif The Kondors. En\n  parall\u00e8le, j\u2019ai d\u00e9cid\u00e9 de m\u2019auto-produire pour sortir l\u2019EP \u00ab Jungle \u00bb. J\u2019ai rapidement encha\u00een\u00e9 avec 9 titres dont 2\n  sous le pseudo The Kondors et aujourd\u2019hui je sors mon tout premier titre avec un label \u00ab In My Head \u00bb chez Kofton\n  Music.&lt;/p&gt;\n&lt;p&gt;Pourquoi le nom LaunchMachine ?&lt;/p&gt;\n&lt;p&gt;Tout naturellement de mon premier contact avec un instrument de musique, mon Launchpad et du rapport que j\u2019ai avec la\n  musique. Je voulais rester simple et avoir quelque chose en anglais.&lt;/p&gt;\n&lt;p&gt;Quel est ton style ?&lt;/p&gt;\n&lt;p&gt;Je pense qu&#x27;il est toujours difficile pour beaucoup d&#x27;artistes de r\u00e9pondre \u00e0 cette question. Maintenant on ne peut\n  plus\n  dire, je fais uniquement de l&#x27;EDM, de l\u2019electro ou de la house, il est n\u00e9cessaire de se renouveler. De plus, cela\n  m\u2019emp\u00eache de d\u00e9finir ma mani\u00e8re de composer ou dire si mon titre ressemble plus \u00e0 se titre l\u00e0 ou \u00e0 un autre. \u00ab In My\n  Head \u00bb est une \u00e9volution par rapport \u00e0 mes pr\u00e9c\u00e9dentes musiques, je d\u00e9voile mes sentiments les plus profond et les\n  plus\n  brut. Apr\u00e8s, si je sors un EP, je suis persuad\u00e9 qu\u2019il sera encore diff\u00e9rent, car sinon j\u2019aurai l\u2019impression de tourner\n  en rond\u2026&lt;/p&gt;\n&lt;p&gt;Quels sont tes projets ?&lt;/p&gt;\n&lt;p&gt;La sortie du single avec un label est d\u00e9j\u00e0 un accomplissement pour moi. Je vais continuer \u00e0 travailler pour sortir\n  encore des singles, mais je r\u00e9fl\u00e9chis \u00e0 l\u2019album. Pouvoir collaborer avec des chanteurs, des producteurs ou m\u00eame un\n  orchestre, enfin bref faire quelque chose de surprenant. Je m\u2019exerce en parall\u00e8le sur mon live, qui sera pour moi une\n  grande premi\u00e8re et surtout un bon moyen d\u2019aller plus loin avec LaunchMachine.&lt;/p&gt;",
-    "images": {
-      "artiste": "assets/Artistes/Launch Machine/images/artiste.png",
-      "bio": "assets/Artistes/Launch Machine/images/bio.png",
-      "name": "assets/Artistes/Launch Machine/images/name.png",
-      "titre": "assets/Artistes/Launch Machine/images/titre.png"
-    },
-    "social": {
-      "facebook": "https://www.facebook.com/LaunchmachineOfficial",
-      "instagram": "https://www.instagram.com/launchmachine/",
-      "soundcloud": "https://soundcloud.com/launchmachine",
-      "youtube": "https://www.youtube.com/channel/UCvOa4WJ3dMcqazYjXttcGPg"
-    },
-    "sortie": {
-      "artiste": "LaunchMachine",
-      "date": "1er Avril 2019",
-      "date_to_sort": "01/04/2019",
-      "platform": {
-        "deezer": "https://www.deezer.com/en/track/656809122",
-        "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
-        "juno": "https://www.junodownload.com/products/launchmachine-in-my-head/4098959-02/",
-        "spotify": "https://open.spotify.com/track/2cSgFd2L8yeaQqZ6rHKjA5?si=EsNnIv42Rj6hCPrXbJqJ7A"
+      "social": {
+        "facebook": "https://www.facebook.com/buzzhacksound/",
+        "instagram": "https://www.instagram.com/buzzhacksound/?hl=fr",
+        "soundcloud": "https://soundcloud.com/user-165977556",
+        "youtube": "https://www.youtube.com/channel/UCUu-HN83zuoLBQZJEY4hRsg"
       },
-      "titre": "In My Head"
-    }
-  },
-  "M_A_Dyne": {
-    "bio": "&lt;p&gt;Ce musicien \u00e0 l\u2019univers \u00e9lectrique et s\u00e9millant \u00e0 la fois semble se caract\u00e9riser par la musique dance des ann\u00e9es 80.\n    Et\n    pourtant, il peut tirer son inspiration aussi bien de Bach, comme Yellow Magic Orchestra en passant par Major Lazer.\n    Cela fait de lui un artiste savant, pris\u00e9 pour son modernisme musical : arrangeur, compositeur, producteur,\n    remixeur,\n    dj, M_A_Dyne est un authentique b\u00e2tisseur.&lt;/p&gt;\n&lt;p&gt;De son vrai nom Chelal Kiptoo Leonard est n\u00e9 le 30 septembre 1992 \u00e0 Nairobi au Kenya. Son enfance et adolescence\n    seront\n    marqu\u00e9es par l\u2019histoire de son pays et des conflits interethniques, mais le souvenir de l\u2019attentat contre le centre\n    commercial de Nairobi en septembre 2013 sera grav\u00e9 \u00e0 jamais dans sa m\u00e9moire. Il d\u00e9cide de ne vivre plus que pour la\n    musique et d\u00e8s ce jour, sa curiosit\u00e9 de m\u00e9lomane est en permanence en \u00e9veil, pr\u00eate \u00e0 absorber toutes influences.&lt;/p&gt;\n&lt;p&gt;Son entr\u00e9e dans la musique&lt;/p&gt;\n&lt;p&gt;Au cours des ann\u00e9es 2010, c\u2019est gr\u00e2ce au deejaying qu\u2019il se fait remarquer. M_A_Dyne prend un chemin particulier en\n    d\u00e9veloppant sa signature de mix, il combine des sous-genres de EDM, Afro-music, reggae et dancehall. Il envahit les\n    platines des boites \u00e0 la mode, et il devient l\u2019un des premiers \u00e0 ins\u00e9rer l\u2019EDM \u00e0 ses mix afro. Tr\u00e8s vite, son nom\n    suffit\n    \u00e0 attirer la foule des clubs de Nairobi o\u00f9 il fera ses premi\u00e8res apparitions au Terminal 2 de YAYA centre avec son\n    mentor Dj Rach.&lt;/p&gt;\n&lt;p&gt;Des platines \u00e0 la production&lt;/p&gt;\n&lt;p&gt;\u00c0 partir de 2016, on peut citer son travail de production avec les remix de AMANY, Brenda, Sauti Nonini Ft Didge ou\n    la\n    star du Kenya Fena Gitu. Il commence \u00e0 faire ses propres arrangements Bright Light, Run Di track et Mask on my face,\n    m\u00eame dans ses compositions il emploie une m\u00e9thode de deejay. Sa singularit\u00e9 vient du fait qu\u2019il joue de tout et sait\n    s\u2019adapter simplement, aux nuances musicales qui arrivent en force dans son pays. Dubstep, Big Room, Futur Bounce,\n    Reggaeton, Moonbahton sans oublier la Dance Music, il aime tout et m\u00e9lange tout avec brio.&lt;/p&gt;\n&lt;p&gt;2017 : \u00ab Bring that shit up \u00bb&lt;/p&gt;\n&lt;p&gt;Mais apr\u00e8s des ann\u00e9es \u00e0 travailler ses remix, M_A_Dyne se d\u00e9cide en 2017 \u00e0 sortir son premier titre \u00ab Bring that shit\n    up\n    \u00bb, sous son seul nom. Ce morceau renferme toute l\u2019essence de l\u2019artiste. On y retrouve ses grandes inspirations, la\n    culture dubstep, une touche de folie, de l\u2019electro, un vocal hip-hop, une fl\u00fbte synth\u00e9tiques, un profond sens de la\n    m\u00e9lodie, un m\u00e9lange qui en fait une fois de plus un artiste ayant la volont\u00e9 de donner une image moderne \u00e0 l\u2019electro\n    Africaine.&lt;/p&gt;\n&lt;p&gt;De ce fait, il sortira 8 titres suppl\u00e9mentaires, parfois m\u00e9langeant la Dance et l\u2019EDM, mais il portera aussi son\n    inspiration dans l\u2019 Afro-Bass house, avec le titre \u00ab On your feet \u00bb. Il marie \u00e0 merveille les sonorit\u00e9s parfois\n    agressives des deux styles et nous prouve encore une fois que le berceau de la musique \u00e9lectronique vient bien de\n    son\n    continent.&lt;/p&gt;\n&lt;p&gt;Le meilleur&lt;/p&gt;\n&lt;p&gt;En Mars 2019 sort le titre afro-pop-big Room Serereka en featuring avec le chanteur Kenyan Sejo Di Dakta. Rep\u00e9r\u00e9 par\n    Kofton Music, c\u2019est alors le premier label \u00e0 sortir M_A_Dyne en France . La singularit\u00e9 de ce titre vient du fait\n    que,\n    conscients des limites du genre, l\u2019artiste n\u2019h\u00e9site pas \u00e0 int\u00e9grer dans son Afro-Pop, des sons types big room comme\n    le \u00ab\n    Kenyan Genge \u00bb, dancehall ou afro-electro et se revendique autant de Major Lazer et de Diplo, que des pionniers\n    comme\n    Frankie Knuckles et Keith Farley.&lt;/p&gt;",
-    "images": {
-      "artiste": "assets/Artistes/M_A_Dyne/images/artiste.png",
-      "bio": "assets/Artistes/M_A_Dyne/images/bio.png",
-      "name": "assets/Artistes/M_A_Dyne/images/name.png",
-      "titre": "assets/Artistes/M_A_Dyne/images/titre.png"
+      "sortie": {
+        "artiste": "Hez Cut & Tchou Kabam's ",
+        "date": "13 Avril 2019",
+        "date_to_sort": "13/04/2019",
+        "platform": {
+          "amazon": "https://www.amazon.fr/Have-a-Good-Time/dp/B07QFFZKP5/ref=sr_1_2?keywords=DJ+Hez+Cut+%26+Tchou+Kabam%27s&amp;qid=1555228249&amp;s=dmusic&amp;search-type=ss&amp;sr=1-2-spell",
+          "deezer": "https://www.deezer.com/fr/track/660748242",
+          "google music": "https://play.google.com/store/music/album/DJ_Hez_Cut_Have_a_Good_Time?id=Bjvip7hlnflqxqmsgj7oa5rwu6u",
+          "spotify": "https://open.spotify.com/album/3cnNZxLAuF9M0G7NERQybr?si=Sz2D1mBKQc2pPRBYeO9XmA"
+        },
+        "titre": "Have a Good Time"
+      }
     },
-    "social": {
-      "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
-      "instagram": "https://www.instagram.com/koftonmusic/",
-      "soundcloud": "https://soundcloud.com/user-90892428",
-      "twitter": "https://twitter.com/KoftonMusic",
-      "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
-    },
-    "sortie": {
-      "artiste": "M_A_Dyne ft Sejo_Di_Dakta",
-      "date": "19 Mars 2019",
-      "date_to_sort": "19/03/2019",
-      "platform": {
-        "amazon": "https://www.amazon.fr/Serereka-Original-M_A_Dyne-feat-Sejo_Di_Dakta/dp/B07PNK85DK/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=M_A_Dyne&amp;qid=1552987671&amp;s=gateway&amp;sr=8-5",
-        "deezer": "https://www.deezer.com/album/90412782?utm_source=deezer&amp;utm_content=album-90412782&amp;utm_term=4205667_1552987795&amp;utm_medium=web",
-        "google music": "https://play.google.com/store/music/album/M_A_Dyne_Serereka?id=Bbs7tph7g7rujm3go5gzkextghi",
-        "spotify": "https://open.spotify.com/track/2vvOFjSwXoDWisjnAwTBq7?si=KnmUzNviSqalEuRNibQDGw"
+    "K-Johnson": {
+      "bio": "&lt;p&gt;Ce qui d\u00e9finit le style de K-Johnson, c\u2019est l\u2019humour. Plus qu\u2019un simple plaisantin, K-Johnson d\u00e9voile \u00e0 travers sa\n  musique les probl\u00e8mes et blessures de son pays. Gr\u00e2ce \u00e0 la rigolade et au sarcasme, il nous fait parvenir un message\n  de\n  v\u00e9rit\u00e9 et enracin\u00e9 dans son \u00e9poque.&lt;/p&gt;\n&lt;p&gt;C\u2019est le 23 octobre 1995 que na\u00eet Idriss Fofie Tiotsop \u00e0 Bangang, dans le d\u00e9partement des Bamboutous \u00e0 l\u2019ouest du\n  Cameroun. Il a \u00e9t\u00e9 tr\u00e8s jeune adepte de la musique puisque ses parents sont des grands fans de Bikutsi, un genre\n  musical\n  tr\u00e8s populaire autour de Yaound\u00e9. Au coll\u00e8ge, il ne s\u2019attarde pas sur ses devoirs, plut\u00f4t int\u00e9ress\u00e9 par l\u2019\u00e9criture et\n  la\n  pratique des langues \u00e9trang\u00e8res. Il se trouve une passion pour l\u2019espagnol, ce qui influencera grandement ses futures\n  compositions. L\u2019ann\u00e9e de son baccalaur\u00e9at sera un moment tr\u00e8s difficile pour Idriss, il sera m\u00eame renvoy\u00e9 de son lyc\u00e9e\n  juste avant de passer son examen. Malgr\u00e9 cela, il obtiendra son dipl\u00f4me en candidat libre l\u2019ann\u00e9e suivante.&lt;/p&gt;\n&lt;p&gt;2017 : \u00ab Zeleto \u00bb&lt;/p&gt;\n&lt;p&gt;K-Johnson avoue ne pas avoir de style musical pr\u00e9cis mais plut\u00f4t un m\u00e9lange entre l\u2019afro et le rap. Lorsqu\u2019il \u00e9crit\n  ses\n  paroles, tout comme sa musique, il aime m\u00e9langer le fran\u00e7ais, l\u2019espagnol ou encore sa langue maternelle, le Ngiemboon.\n  Zeleto est une collaboration avec Mabelle Zang. Le r\u00e9sultat est nu, sec, effervescent, port\u00e9 \u00e0 \u00e9bullition par un\n  m\u00e9lange\n  afro pop synth\u00e9tique et un magnifique hommage \u00e0 la ville de Mbouda. Se titre sortira avec le label Kofton Music.&lt;/p&gt;\n&lt;p&gt;En 2018, K-Johnson revient avec son titre \u00ab Critiquez \u00bb. L\u2019artiste nous propose un titre acidul\u00e9 qui nous donne\n  l\u2019envie\n  de taper \u00ab le pied au sol \u00bb, de bestialement nous secouer \u00ab un peu la t\u00eate \u00bb, comme par une alt\u00e9ration transitoire de\n  la\n  conscience de soi, nous rentrons en trance, tout notre \u00ab corps d\u00e9colle \u00bb et puis nous devenons \u00ab b\u00eates \u00bb , voici la\n  d\u00e9finition de la f\u00eate. Pour K-Johnson, la critique c\u2019est quelqu\u2019un qui conna\u00eet la danse mais qui ne sait pas danser.\n  Encore une fois, nous retrouvons le trait de la plaisanterie et de l\u2019ironie sur un sujet qui peut toucher tout le\n  monde.&lt;/p&gt;\n&lt;p&gt;\u00ab Hola Hola \u00bb&lt;/p&gt;\n&lt;p&gt;Il retrouve sa verve pour un nouveau titre sorti sous le label Kofton Music et enregistr\u00e9 \u00e0 Yaound\u00e9 au Cameroun en\n  2019.\n  Dans cette musique, sign\u00e9 par le producteur I.V.O, on retrouve une m\u00e9lodie ent\u00eatante, des beats afro et le jeu de la\n  s\u00e9duction, histoire de faire grimper, un peu plus, la temp\u00e9rature\u2026 C\u2019est un titre calibr\u00e9 pour le dancefloor !&lt;/p&gt;",
+      "images": {
+        "artiste": "assets/Artistes/K-Johnson/images/artiste.png",
+        "bio": "assets/Artistes/K-Johnson/images/bio.png",
+        "name": "assets/Artistes/K-Johnson/images/name.png",
+        "titre": "assets/Artistes/K-Johnson/images/titre.png"
       },
-      "titre": "Serereka"
-    }
-  },
-  "Paul Carrera": {
-    "bio": "&lt;p&gt;Entretien avec Paul Carrera :&lt;/p&gt;\n&lt;p&gt;Kofton Music : \u00ab pourquoi vouloir garder l\u2019anonymat ? \u00bb&lt;/p&gt;\n&lt;p&gt;Paul Carrera : \u00ab La seule chose qui me pla\u00eet est de pouvoir faire danser les gens et faire des bons titres. Je ne\n    pense\n    pas qu\u2019il soit important de connaitre mon v\u00e9ritable nom. \u00bb&lt;/p&gt;\n&lt;p&gt;L\u2019artiste impose ses r\u00e8gles : La Musique avec un grand M.&lt;/p&gt;\n&lt;p&gt;Premier musicien faisant partie du pool Kofton Discovers, Paul Carrera est un jeune talent. Peu d\u2019informations\n    concernant son identit\u00e9 et ses origines, sa biographie sera alors donc musicale.&lt;/p&gt;\n&lt;p&gt;2019 : \u00ab Burning Love \u00bb&lt;/p&gt;\n&lt;p&gt;Son genre musical de pr\u00e9dilection est la Deep House / Future House. Il nous avoue avoir \u00e9tudi\u00e9 pendant son enfance le\n    solf\u00e8ge et la pratique d\u2019instruments comme le piano, la guitare ainsi que la batterie dans une \u00e9cole de Jazz. Cette\n    culture de la musique le marquera dans la production de ses titres.&lt;/p&gt;\n&lt;p&gt;\u00ab Burning Love \u00bb est inspir\u00e9 par l\u2019influence d\u2019Herbie Hancock et Bix Beiderbecke, \u00e0 la fois l\u00e9g\u00e8re et sophistiqu\u00e9,\n    mixant subtilement \u00e9lectronique et instruments acoustiques, effleurant par moments la dance musique en beat\n    envoutant,\n    tout en gardant cette atmosph\u00e8re Jazz/Blues, qui permet de mettre en avant le jeu entre la trompette et le piano.\n    Paul\n    Carrera, avec cette volont\u00e9 d\u2019aller toujours vers plus de d\u00e9possession et d\u2019anonymat, profile d\u2019immenses continents\n    musicaux inexplor\u00e9s.&lt;/p&gt;",
-    "images": {
-      "artiste": "assets/Artistes/Paul Carrera/images/artiste.png",
-      "bio": "assets/Artistes/Paul Carrera/images/bio.png",
-      "name": "assets/Artistes/Paul Carrera/images/name.png",
-      "titre": "assets/Artistes/Paul Carrera/images/titre.png"
-    },
-    "social": {
-      "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
-      "instagram": "https://www.instagram.com/koftonmusic/",
-      "soundcloud": "https://soundcloud.com/user-90892428",
-      "twitter": "https://twitter.com/KoftonMusic",
-      "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
-    },
-    "sortie": {
-      "artiste": "Paul Carrera",
-      "date": "8 Mars 2019",
-      "date_to_sort": "08/03/2019",
-      "platform": {
-        "amazon": "https://www.amazon.fr/Burning-Love-Original-Paul-Carrera/dp/B07PB51P1N/ref=sr_1_1?ie=UTF8&amp;qid=1552035925&amp;sr=8-1&amp;keywords=paul+carrera+burning+love",
-        "deezer": "https://www.deezer.com/album/88788652?utm_source=deezer&amp;utm_content=album-88788652&amp;utm_term=4205667_1552036213&amp;utm_medium=web",
-        "google music": "https://play.google.com/store/music/album/Paul_Carrera_Burning_Love?id=Bo6sg2vhezrw5sp3cpx4imvksey",
-        "itunes": "https://itunes.apple.com/fr/album/burning-love-single/1454808976",
-        "spotify": "https://open.spotify.com/track/2NPypUeh4CZnkOCfGMKUXN?si=D1751HAsQt-EWZ6pHyn1ag"
+      "social": {
+        "facebook": "https://www.facebook.com/johnson.fofie",
+        "youtube": "https://www.youtube.com/channel/UCkY1n2BqHpUUfvq62YswozA"
       },
-      "titre": "Burning Love"
-    }
-  },
-  "ROMWEY": {
-    "bio": "&lt;p&gt;Ce jeune homme orchestre, pr\u00e9curseur d\u2019une musique \u00e9lectronique \u00e0 la fran\u00e7aise, est aujourd\u2019hui une valeur montante\n    de\n    la French touch.&lt;/p&gt;\n&lt;p&gt;N\u00e9 \u00e0 l\u2019aube des ann\u00e9es 2000, ROMWEY grandit dans le petit village de Saints-Branchs pr\u00e8s de Tours. Avant la musique,\n    sa\n    premi\u00e8re passion est pour les math\u00e9matiques. Mais tr\u00e8s vite, il d\u00e9laisse les calculs complexes de sa licence pour\n    son\n    r\u00eave d\u2019enfant, la musique. C\u2019est en bidouillant les sons avec son ordinateur qu\u2019il d\u00e9couvre les possibilit\u00e9s\n    musicales\n    qui lui sont offertes. Nous sommes en 2016, avec les succ\u00e8s d\u2019artistes comme Martin Garrix ou David Guetta. C\u2019est\n    une\n    r\u00e9v\u00e9lation.&lt;/p&gt;\n&lt;p&gt;La composition, il la commence petit \u00e0 petit en regardant les tutos de Avicii in the studio. Puis, progressivement il\n    commence \u00e0 analyser les musiques de ses artistes favoris, jusqu\u2019\u00e0 se fabriquer une vaste culture musicale qui sera\n    le\n    fondement de ses futurs projets.&lt;/p&gt;\n&lt;p&gt;Electro Maison&lt;/p&gt;\n&lt;p&gt;C\u2019est tout naturellement dans l\u2019electro house qu\u2019il commence sa carri\u00e8re. Entre 2016 et 2017, il exploite la d\u00e9mo de\n    son\n    logiciel de pr\u00e9dilection Fruity Loops, mariant diverses influences musicales dans un montage electro house\n    particuli\u00e8rement inventif. Il aime l\u2019id\u00e9e de concr\u00e9tiser une pens\u00e9e abstraire en projet musical. Le travail de\n    ROMWEY\n    s\u2019inspire alors de ce qu\u2019il se fait dans le milieu du genre, au USA pour l\u2019 EDM et en Europe pour l\u2019electro.&lt;/p&gt;\n&lt;p&gt;2018&lt;/p&gt;\n&lt;p&gt;C\u2019est pour lui le moment de se confronter \u00e0 son public, il d\u00e9cide de diffuser ses morceaux exclusivement sur\n    Soonvibes,\n    un site tremplin permettant de se faire rep\u00e9rer. Les f\u00e9licitations sont r\u00e9guli\u00e8res et proviennent du monde entier,\n    m\u00eame\n    des terres cr\u00e9atrices am\u00e9ricaines. C\u2019est une ann\u00e9e de forte production pour ROMWAEY, puisqu\u2019il proposera pas moins\n    de 14\n    titres / remix, et \u00e0 chaque fois les \u00e9loges sont de l\u00e9gions.&lt;/p&gt;\n&lt;p&gt;L\u2019artiste cherche aussi sa singularit\u00e9 dans son image. Soucieux de garder son anonymat, il ne souhaite pas que l\u2019on\n    s\u2019attache \u00e0 une photo ou visage, mais plut\u00f4t \u00e0 l\u2019\u00e9motion musicale de ses titres.&lt;/p&gt;\n&lt;p&gt;2019 : \u00ab Boot \u00bb&lt;/p&gt;\n&lt;p&gt;En mars 2019, il sort \u00ab Boot \u00bb sous le label Kofton Music. ROMWEY n\u2019est pas du genre \u00e0 se r\u00e9p\u00e9ter d\u2019un titre \u00e0\n    l\u2019autre.\n    Il nous propose un son \u00e9lectro-dance m\u00e9lodieux, qui sugg\u00e8re l\u2019exotisme et rel\u00e8ve davantage du chillwave associ\u00e9 \u00e0\n    une\n    grosse basse accompagn\u00e9e d\u2019un malin m\u00e9lange de riffs \u00e9lectriques, plut\u00f4t qu\u2019un EDM pesant et brutal. M\u00eame si\n    l\u2019artiste\n    derri\u00e8re reste bien myst\u00e9rieux pour l\u2019instant. Pas de nom, pas de visage, pas d\u2019interviews. Mais un gros succ\u00e8s en\n    pr\u00e9vision.&lt;/p&gt;",
-    "images": {
-      "artiste": "assets/Artistes/ROMWEY/images/artiste.png",
-      "bio": "assets/Artistes/ROMWEY/images/artiste.png",
-      "name": "assets/Artistes/ROMWEY/images/name.png",
-      "titre": "assets/Artistes/ROMWEY/images/titre.png"
+      "sortie": {
+        "artiste": "K-Johnson & I.V.O",
+        "date": "11 Mars 2019",
+        "date_to_sort": "11/03/2019",
+        "platform": {
+          "amazon": "https://www.amazon.fr/Hola-K-Johnson-I-V/dp/B07P9BXDMQ/ref=sr_1_1?ie=UTF8&amp;qid=1552324630&amp;sr=8-1&amp;keywords=k-johnson+hola+hola",
+          "deezer": "https://www.deezer.com/album/89102402?utm_source=deezer&amp;utm_content=album-89102402&amp;utm_term=4205667_1552324806&amp;utm_medium=web",
+          "google music": "https://play.google.com/store/music/album/K_Johnson_Hola_Hola?id=Bw4bgpawfisxy4ecoewsnibonim&amp;hl=fr",
+          "spotify": "https://open.spotify.com/album/436q3dVrMatcuqp2eEMH2s?si=uW64EcEkRdO6LYIWHGLdew"
+        },
+        "titre": "Hola Hola"
+      }
     },
-    "social": {
-      "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
-      "instagram": "https://www.instagram.com/koftonmusic/",
-      "soundcloud": "https://soundcloud.com/user-90892428",
-      "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
-    },
-    "sortie": {
-      "artiste": "ROMWEY",
-      "date": "30 Mars 2019",
-      "date_to_sort": "30/03/2019",
-      "platform": {
-        "beatport": "https://www.beatport.com/track/boot-original-mix/11794430",
-        "deezer": "http://www.deezer.com/track/655144332",
-        "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
-        "itunes": "https://itunes.apple.com/fr/album/burning-love-single/1454808976",
-        "qobuz": "https://www.qobuz.com/gb-en/album/boot-romwey/qjmb780h6fiub",
-        "spotify": "https://open.spotify.com/album/1vRjXtqB6YWCHyYk7r94Mr?si=NR0xvJyKS7Ctc3U5Ap3VsA"
+    "Launch Machine": {
+      "bio": "&lt;p&gt;PARLE-NOUS DE TOI : LaunchMachine&lt;/p&gt;\n&lt;p&gt;Launchmachine est un producteur fran\u00e7ais de 16 ans, qui s\u2019est fait remarquer avec son titre \u00ab In My Head \u00bb. Enfant de\n  la\n  musique electro, il est le premier d\u2019une nouvelle g\u00e9n\u00e9ration d\u2019artistes, \u00e0 la fois compositeurs, scientifique et\n  prince\n  des DAW\u2019s. L\u2019avenir quoi !&lt;/p&gt;\n&lt;p&gt;Parle-nous de toi LaunchMachine ?&lt;/p&gt;\n&lt;p&gt;Je m\u2019appelle Bastien Riviere, j\u2019ai 16 ans, je viens de Montpellier, sur internet et dans ma chambre, je suis\n  LaunchMachine. J\u2019aime me d\u00e9signer comme artiste \u00e9lectronique et du WWW.&lt;/p&gt;\n&lt;p&gt;WWW ?&lt;/p&gt;\n&lt;p&gt;Oui, pour World Wild Web, je n\u2019ai pas de formation musicale ou suivi des cours d\u2019instrument\u2026 mais je suis de cette\n  g\u00e9n\u00e9ration qui est n\u00e9e avec internet et pour moi c\u2019est une source infinie d\u2019apprentissage. Je suis un autodidacte pur\n  et\n  dur, surtout pour les DAW\u2019s, et je cherche \u00e0 aller toujours plus loin.&lt;/p&gt;\n&lt;p&gt;D\u2019o\u00f9 la progression vers le monde de l\u2019\u00e9lectronique ?&lt;/p&gt;\n&lt;p&gt;Gr\u00e2ce \u00e0 des artistes comme Martin Garrix, AVICII et Virtual Riot. J\u2019ai \u00e9cout\u00e9 leurs remix et morceaux, je me suis\n  directement abonn\u00e9 \u00e0 leurs pages. SoundClound est un v\u00e9ritable moteur de recherche pour la musique, tu d\u00e9couvres tous\n  les jours des nouveaux artistes avec des influences rock, pop, moombahton, etc. Je chillais sur la charte nouveaut\u00e9 \u00e0\n  chaque fois que j\u2019avais un petit moment, et j\u2019ai fini par me dire pourquoi pas moi.&lt;/p&gt;\n&lt;p&gt;\u00ab Mon premier contact avec la musique \u00e9tait \u00e0 mes 10 ans. Mes parents m\u2019avaient offert un Launchpad et je m\u2019\u00e9clater \u00e0\n  faire des remix. La composition est venue avec Ableton Live qui \u00e9tait fourni avec le pad\u2026 Et voil\u00e0 comment ma chambre\n  s\u2019est transform\u00e9e en terrain d\u2019exp\u00e9rimentation. \u00bb LaunchMachine&lt;/p&gt;\n&lt;p&gt;C\u2019est le m\u00eame principe que pour commencer un projet. Il y a une pens\u00e9e abstraite qui te traverse l\u2019esprit, et tu n\u2019as\n  pas encore toute l\u2019architecture technique mais uniquement la vision cr\u00e9ative. C\u2019est incroyable.&lt;/p&gt;\n&lt;p&gt;Dans ta musique tu travailles beaucoup sur la texture.&lt;/p&gt;\n&lt;p&gt;J\u2019ai un go\u00fbt prononc\u00e9 pour le num\u00e9rique, mais progressivement, j\u2019int\u00e8gre de la chaleur \u00e0 mes morceaux. Je veux aller\n  au-del\u00e0 d\u2019un genre musical, rajouter des guitares, des instruments \u00e0 vent et des rythmiques hip-hop, quelque chose\n  d\u2019assez hybride. Le rapport humain et machine me correspond bien. On retrouve cette identit\u00e9 dans AVICII ou Virtual\n  Riot.&lt;/p&gt;\n&lt;p&gt;D\u2019autres artistes ?&lt;/p&gt;\n&lt;p&gt;Je m\u2019inspire beaucoup des r\u00e9f\u00e9rences de mes parents, Queen, U2, et de la musique Jazz ou classique. Mais je dois\n  avouer\n  que Martin Garrix reste ma plus grande source d&#x27;inspiration.&lt;/p&gt;\n&lt;p&gt;Explique-nous comment tu es pass\u00e9 de l\u2019ado dans sa chambre \u00e0 LaunchMachine ?&lt;/p&gt;\n&lt;p&gt;C\u2019est lorsque j\u2019ai fait \u00e9couter pour la premi\u00e8re fois, autour de moi, \u00e0 mes potes et ma famille le titre \u00ab Jungle \u00bb.\n  J\u2019ai compris que ma musique pouvait plaire.&lt;/p&gt;\n&lt;p&gt;\u00ab Lors du divorce de mes parents, je me suis r\u00e9fugi\u00e9 dans l\u2019univers que je ma\u00eetrise, la musique. Puis j\u2019ai cr\u00e9\u00e9\n  LaunchMachine il y a 2 ans. Simplement pour le plaisir de transmettre mes \u00e9motions gr\u00e2ce \u00e0 mes titres. \u00bb&lt;/p&gt;\n&lt;p&gt;J\u2019ai ensuite post\u00e9 sur SoundCloud le titre, et le nombre de lecture \u00e0 doucement mont\u00e9. Cet \u00e9t\u00e9-l\u00e0, j\u2019ai eu la chance\n  de\n  pouvoir \u00eatre playlist\u00e9 dans quelques clubs de ma r\u00e9gion et j\u2019ai pu rencontrer d\u2019autres artistes. Ainsi, j\u2019ai fait la\n  connaissance de Pablo, un compositeur grenoblois avec qui nous avons d\u00e9cid\u00e9 de cr\u00e9er le collectif The Kondors. En\n  parall\u00e8le, j\u2019ai d\u00e9cid\u00e9 de m\u2019auto-produire pour sortir l\u2019EP \u00ab Jungle \u00bb. J\u2019ai rapidement encha\u00een\u00e9 avec 9 titres dont 2\n  sous le pseudo The Kondors et aujourd\u2019hui je sors mon tout premier titre avec un label \u00ab In My Head \u00bb chez Kofton\n  Music.&lt;/p&gt;\n&lt;p&gt;Pourquoi le nom LaunchMachine ?&lt;/p&gt;\n&lt;p&gt;Tout naturellement de mon premier contact avec un instrument de musique, mon Launchpad et du rapport que j\u2019ai avec la\n  musique. Je voulais rester simple et avoir quelque chose en anglais.&lt;/p&gt;\n&lt;p&gt;Quel est ton style ?&lt;/p&gt;\n&lt;p&gt;Je pense qu&#x27;il est toujours difficile pour beaucoup d&#x27;artistes de r\u00e9pondre \u00e0 cette question. Maintenant on ne peut\n  plus\n  dire, je fais uniquement de l&#x27;EDM, de l\u2019electro ou de la house, il est n\u00e9cessaire de se renouveler. De plus, cela\n  m\u2019emp\u00eache de d\u00e9finir ma mani\u00e8re de composer ou dire si mon titre ressemble plus \u00e0 se titre l\u00e0 ou \u00e0 un autre. \u00ab In My\n  Head \u00bb est une \u00e9volution par rapport \u00e0 mes pr\u00e9c\u00e9dentes musiques, je d\u00e9voile mes sentiments les plus profond et les\n  plus\n  brut. Apr\u00e8s, si je sors un EP, je suis persuad\u00e9 qu\u2019il sera encore diff\u00e9rent, car sinon j\u2019aurai l\u2019impression de tourner\n  en rond\u2026&lt;/p&gt;\n&lt;p&gt;Quels sont tes projets ?&lt;/p&gt;\n&lt;p&gt;La sortie du single avec un label est d\u00e9j\u00e0 un accomplissement pour moi. Je vais continuer \u00e0 travailler pour sortir\n  encore des singles, mais je r\u00e9fl\u00e9chis \u00e0 l\u2019album. Pouvoir collaborer avec des chanteurs, des producteurs ou m\u00eame un\n  orchestre, enfin bref faire quelque chose de surprenant. Je m\u2019exerce en parall\u00e8le sur mon live, qui sera pour moi une\n  grande premi\u00e8re et surtout un bon moyen d\u2019aller plus loin avec LaunchMachine.&lt;/p&gt;",
+      "images": {
+        "artiste": "assets/Artistes/Launch Machine/images/artiste.png",
+        "bio": "assets/Artistes/Launch Machine/images/bio.png",
+        "name": "assets/Artistes/Launch Machine/images/name.png",
+        "titre": "assets/Artistes/Launch Machine/images/titre.png"
       },
-      "titre": "Boot"
-    }
-  },
-  "Sylvain Laurent": {
-    "bio": "&lt;p&gt;Originaire de Biarritz en France, Sylvain Laurent mixe depuis les ann\u00e9es 2000. Il s&#x27;est vite rendu compte qu&#x27;il avait\n    l&#x27;enthousiasme et la d\u00e9termination n\u00e9cessaire pour poursuivre. Il ne le sait pas encore, mais de cette envie na\u00eetra\n    une\n    passion.&lt;/p&gt;\n&lt;p&gt;Son int\u00e9r\u00eat initial pour la House Musique a commenc\u00e9 en 1998 quand il d\u00e9couvre les clubs, il a d\u00e9clar\u00e9 : \u00abC&#x27;\u00e9tait\n    incroyable !!! \u00bb&lt;/p&gt;\n&lt;p&gt;Depuis un certain temps, Sylvain Laurent d\u00e9veloppe un go\u00fbt prononc\u00e9 pour la sc\u00e8ne underground. De part ses\n    connaissances, il d\u00e9cide de professionnaliser ses comp\u00e9tences et de les mettre \u00e0 contribution d\u2019une entreprise.&lt;/p&gt;\n&lt;p&gt;Gr\u00e2ce, a sa d\u00e9termination et son amour pour la musique, il construit les bases de sa carri\u00e8re de DJ. Etapes apr\u00e8s\n    \u00e9tapes, il gagne en confiance et atteint le niveau lui permettant de jouer lors d&#x27;\u00e9v\u00e9nements particuliers. Sylvain\n    Laurent a l\u2019intelligence d\u2019adapter ses mix en fonction de son public.&lt;/p&gt;\n&lt;p&gt;L\u2019envie de se d\u00e9passer l\u2019am\u00e8ne \u00e0 Londres, o\u00f9 il participera \u00e0 de nombreuses promotions comme Imsomnia, Frantic,\n    Fevah.\n    Il se produira \u00e9galement dans les c\u00e9l\u00e8bres salles du Royaume-Uni : Brixton Academy, Camden Palace et Heaven, au c\u00f4t\u00e9\n    de\n    talents comme : BK, ED Real, Karim, Phil Reynolds, Matt Clarke, Roosta, Skol, James Lawson, Dean Peters. Sylvain\n    Laurent\n    puise l\u2019inspiration de part son exp\u00e9rience. Sa rencontre avec Matt Clarke le marquera profond\u00e9ment et son envie de\n    toujours progresser dans ses sets et \u00e0 aller encore plus loin dans les techniques de mixages ne le quittera jamais.\n&lt;/p&gt;\n&lt;p&gt;\u00ab How We Do \u00bb&lt;/p&gt;\n&lt;p&gt;Il d\u00e9cide de franchir le pas et passe du monde de la sc\u00e8ne underground \u00e0 la production. Sylvain Laurent veut\n    apprendre\n    vite et bien. Avec sa formation de MAO en poche et les conseils de Friends, il sortira en 2014, sous le label\n    Wolfrage\n    Recordings, son tout premier titre \u00ab How We Do \u00bb. Pour l\u2019\u00e9poque, l\u2019artiste est bien en avance et comprend vite que\n    l\u2019EDM\n    est un mouvement en cours d\u2019explosion qui prendra la place principale des festivals. Son morceau est puissant et sa\n    m\u00e9lodie reprend les codes du genre.&lt;/p&gt;\n&lt;p&gt;2015 / 2016&lt;/p&gt;\n&lt;p&gt;Une nouvelle ann\u00e9e pour Sylvain Laurent rime avec nouvelle sortie. L\u2019artiste sort deux titres toujours chez Wolfrage\n    Recordings, \u00ab Countdown \u00bb et \u00ab Jump \u00bb, il encha\u00eene avec une sortie chez 5howtime Music pour le titre \u00ab FlashBack \u00bb.\n    Il\n    continuera \u00e0 se faire remarquer en sortant sous Matrix Music Records, son excellent titre \u00ab Serious Love \u00bb. Sa\n    marque de\n    fabrique est toujours bien pr\u00e9sente, la m\u00e9lodie avant tout. Pour ce titre, il sera en collaboration avec le chanteur\n    Mickael Auneil.&lt;/p&gt;\n&lt;p&gt;D\u00e9s lors, Sylvain Laurent se concentre sur la confection de son studio pour toujours franchir un nouveau cap.&lt;/p&gt;\n&lt;p&gt;Aujourd\u2019hui\u2026&lt;/p&gt;\n&lt;p&gt;L\u2019artiste transforme sa mani\u00e8re d\u2019entendre et de produire. Il nous propose d\u00e9sormais des sonorit\u00e9s passant de la deep\n    house \u00e0 l\u2019electro, mais nous rattrape toujours avec ses m\u00e9lodies et son harmonisation. Sylvain Laurent est du genre\n    \u00e0 ne\n    pas se r\u00e9p\u00e9ter d\u2019une ann\u00e9e \u00e0 l\u2019autre et sort \u00ab Together \u00bb avec Ace Face Records.&lt;/p&gt;\n&lt;p&gt;\u00ab Funky Time \u00bb&lt;/p&gt;\n&lt;p&gt;Depuis plus de dix ans, Sylvain Laurent fait son bonhomme de chemin dans la musique \u00e9lectronique, bien avant que tout\n    le\n    monde s\u2019engouffre dans l\u2019EDM avec grande gourmandise. Avec la sortie de \u00ab Funky Time \u00bb, le musicien nous livrent une\n    chronique groove de son nouvel univers musical. Un m\u00e9lange de disco, d\u2019electro, de pop groovy, de synth-wave, le\n    titre\n    nous transporte dans la mutation m\u00e9lodique de l\u2019artiste. Sans surprise, le label Kofton Music ne pouvait passer\n    outre\n    l\u2019envie de sortir cette oeuvre. Nous ne pouvons que le conseiller \u00e0 tous, en attendant une future sortie de Sylvain\n    Laurent.&lt;/p&gt;",
-    "images": {
-      "artiste": "assets/Artistes/Sylvain Laurent/images/artiste.png",
-      "bio": "assets/Artistes/Sylvain Laurent/images/bio.png",
-      "name": "assets/Artistes/Sylvain Laurent/images/name.png",
-      "titre": "assets/Artistes/Sylvain Laurent/images/titre.png"
-    },
-    "social": {
-      "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/"
-    },
-    "sortie": {
-      "artiste": "Sylvain Laurent",
-      "date": "24 Avril 2019",
-      "date_to_sort": "24/04/2019",
-      "platform": {
-        "deezer": "http://www.deezer.com/album/94145872",
-        "google music": "https://play.google.com/store/music/album?id=Berp7ibvdsi52i7zwvjpk25klwa&amp;tid=song-T4joiuyhzkxgziazj2b2s3huvia",
-        "spotify": "https://open.spotify.com/album/3m6KGbZ6W7w1HTm6PiT5uy?si=eU8fHrMkQv-kgZEiLYjh3A"
+      "social": {
+        "facebook": "https://www.facebook.com/LaunchmachineOfficial",
+        "instagram": "https://www.instagram.com/launchmachine/",
+        "soundcloud": "https://soundcloud.com/launchmachine",
+        "youtube": "https://www.youtube.com/channel/UCvOa4WJ3dMcqazYjXttcGPg"
       },
-      "titre": "Funky Time"
+      "sortie": {
+        "artiste": "LaunchMachine",
+        "date": "1er Avril 2019",
+        "date_to_sort": "01/04/2019",
+        "platform": {
+          "deezer": "https://www.deezer.com/en/track/656809122",
+          "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
+          "juno": "https://www.junodownload.com/products/launchmachine-in-my-head/4098959-02/",
+          "spotify": "https://open.spotify.com/track/2cSgFd2L8yeaQqZ6rHKjA5?si=EsNnIv42Rj6hCPrXbJqJ7A"
+        },
+        "titre": "In My Head"
+      }
+    },
+    "M_A_Dyne": {
+      "bio": "&lt;p&gt;Ce musicien \u00e0 l\u2019univers \u00e9lectrique et s\u00e9millant \u00e0 la fois semble se caract\u00e9riser par la musique dance des ann\u00e9es 80.\n    Et\n    pourtant, il peut tirer son inspiration aussi bien de Bach, comme Yellow Magic Orchestra en passant par Major Lazer.\n    Cela fait de lui un artiste savant, pris\u00e9 pour son modernisme musical : arrangeur, compositeur, producteur,\n    remixeur,\n    dj, M_A_Dyne est un authentique b\u00e2tisseur.&lt;/p&gt;\n&lt;p&gt;De son vrai nom Chelal Kiptoo Leonard est n\u00e9 le 30 septembre 1992 \u00e0 Nairobi au Kenya. Son enfance et adolescence\n    seront\n    marqu\u00e9es par l\u2019histoire de son pays et des conflits interethniques, mais le souvenir de l\u2019attentat contre le centre\n    commercial de Nairobi en septembre 2013 sera grav\u00e9 \u00e0 jamais dans sa m\u00e9moire. Il d\u00e9cide de ne vivre plus que pour la\n    musique et d\u00e8s ce jour, sa curiosit\u00e9 de m\u00e9lomane est en permanence en \u00e9veil, pr\u00eate \u00e0 absorber toutes influences.&lt;/p&gt;\n&lt;p&gt;Son entr\u00e9e dans la musique&lt;/p&gt;\n&lt;p&gt;Au cours des ann\u00e9es 2010, c\u2019est gr\u00e2ce au deejaying qu\u2019il se fait remarquer. M_A_Dyne prend un chemin particulier en\n    d\u00e9veloppant sa signature de mix, il combine des sous-genres de EDM, Afro-music, reggae et dancehall. Il envahit les\n    platines des boites \u00e0 la mode, et il devient l\u2019un des premiers \u00e0 ins\u00e9rer l\u2019EDM \u00e0 ses mix afro. Tr\u00e8s vite, son nom\n    suffit\n    \u00e0 attirer la foule des clubs de Nairobi o\u00f9 il fera ses premi\u00e8res apparitions au Terminal 2 de YAYA centre avec son\n    mentor Dj Rach.&lt;/p&gt;\n&lt;p&gt;Des platines \u00e0 la production&lt;/p&gt;\n&lt;p&gt;\u00c0 partir de 2016, on peut citer son travail de production avec les remix de AMANY, Brenda, Sauti Nonini Ft Didge ou\n    la\n    star du Kenya Fena Gitu. Il commence \u00e0 faire ses propres arrangements Bright Light, Run Di track et Mask on my face,\n    m\u00eame dans ses compositions il emploie une m\u00e9thode de deejay. Sa singularit\u00e9 vient du fait qu\u2019il joue de tout et sait\n    s\u2019adapter simplement, aux nuances musicales qui arrivent en force dans son pays. Dubstep, Big Room, Futur Bounce,\n    Reggaeton, Moonbahton sans oublier la Dance Music, il aime tout et m\u00e9lange tout avec brio.&lt;/p&gt;\n&lt;p&gt;2017 : \u00ab Bring that shit up \u00bb&lt;/p&gt;\n&lt;p&gt;Mais apr\u00e8s des ann\u00e9es \u00e0 travailler ses remix, M_A_Dyne se d\u00e9cide en 2017 \u00e0 sortir son premier titre \u00ab Bring that shit\n    up\n    \u00bb, sous son seul nom. Ce morceau renferme toute l\u2019essence de l\u2019artiste. On y retrouve ses grandes inspirations, la\n    culture dubstep, une touche de folie, de l\u2019electro, un vocal hip-hop, une fl\u00fbte synth\u00e9tiques, un profond sens de la\n    m\u00e9lodie, un m\u00e9lange qui en fait une fois de plus un artiste ayant la volont\u00e9 de donner une image moderne \u00e0 l\u2019electro\n    Africaine.&lt;/p&gt;\n&lt;p&gt;De ce fait, il sortira 8 titres suppl\u00e9mentaires, parfois m\u00e9langeant la Dance et l\u2019EDM, mais il portera aussi son\n    inspiration dans l\u2019 Afro-Bass house, avec le titre \u00ab On your feet \u00bb. Il marie \u00e0 merveille les sonorit\u00e9s parfois\n    agressives des deux styles et nous prouve encore une fois que le berceau de la musique \u00e9lectronique vient bien de\n    son\n    continent.&lt;/p&gt;\n&lt;p&gt;Le meilleur&lt;/p&gt;\n&lt;p&gt;En Mars 2019 sort le titre afro-pop-big Room Serereka en featuring avec le chanteur Kenyan Sejo Di Dakta. Rep\u00e9r\u00e9 par\n    Kofton Music, c\u2019est alors le premier label \u00e0 sortir M_A_Dyne en France . La singularit\u00e9 de ce titre vient du fait\n    que,\n    conscients des limites du genre, l\u2019artiste n\u2019h\u00e9site pas \u00e0 int\u00e9grer dans son Afro-Pop, des sons types big room comme\n    le \u00ab\n    Kenyan Genge \u00bb, dancehall ou afro-electro et se revendique autant de Major Lazer et de Diplo, que des pionniers\n    comme\n    Frankie Knuckles et Keith Farley.&lt;/p&gt;",
+      "images": {
+        "artiste": "assets/Artistes/M_A_Dyne/images/artiste.png",
+        "bio": "assets/Artistes/M_A_Dyne/images/bio.png",
+        "name": "assets/Artistes/M_A_Dyne/images/name.png",
+        "titre": "assets/Artistes/M_A_Dyne/images/titre.png"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
+        "instagram": "https://www.instagram.com/koftonmusic/",
+        "soundcloud": "https://soundcloud.com/user-90892428",
+        "twitter": "https://twitter.com/KoftonMusic",
+        "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
+      },
+      "sortie": {
+        "artiste": "M_A_Dyne ft Sejo_Di_Dakta",
+        "date": "19 Mars 2019",
+        "date_to_sort": "19/03/2019",
+        "platform": {
+          "amazon": "https://www.amazon.fr/Serereka-Original-M_A_Dyne-feat-Sejo_Di_Dakta/dp/B07PNK85DK/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=M_A_Dyne&amp;qid=1552987671&amp;s=gateway&amp;sr=8-5",
+          "deezer": "https://www.deezer.com/album/90412782?utm_source=deezer&amp;utm_content=album-90412782&amp;utm_term=4205667_1552987795&amp;utm_medium=web",
+          "google music": "https://play.google.com/store/music/album/M_A_Dyne_Serereka?id=Bbs7tph7g7rujm3go5gzkextghi",
+          "spotify": "https://open.spotify.com/track/2vvOFjSwXoDWisjnAwTBq7?si=KnmUzNviSqalEuRNibQDGw"
+        },
+        "titre": "Serereka"
+      }
+    },
+    "Paul Carrera": {
+      "bio": "&lt;p&gt;Entretien avec Paul Carrera :&lt;/p&gt;\n&lt;p&gt;Kofton Music : \u00ab pourquoi vouloir garder l\u2019anonymat ? \u00bb&lt;/p&gt;\n&lt;p&gt;Paul Carrera : \u00ab La seule chose qui me pla\u00eet est de pouvoir faire danser les gens et faire des bons titres. Je ne\n    pense\n    pas qu\u2019il soit important de connaitre mon v\u00e9ritable nom. \u00bb&lt;/p&gt;\n&lt;p&gt;L\u2019artiste impose ses r\u00e8gles : La Musique avec un grand M.&lt;/p&gt;\n&lt;p&gt;Premier musicien faisant partie du pool Kofton Discovers, Paul Carrera est un jeune talent. Peu d\u2019informations\n    concernant son identit\u00e9 et ses origines, sa biographie sera alors donc musicale.&lt;/p&gt;\n&lt;p&gt;2019 : \u00ab Burning Love \u00bb&lt;/p&gt;\n&lt;p&gt;Son genre musical de pr\u00e9dilection est la Deep House / Future House. Il nous avoue avoir \u00e9tudi\u00e9 pendant son enfance le\n    solf\u00e8ge et la pratique d\u2019instruments comme le piano, la guitare ainsi que la batterie dans une \u00e9cole de Jazz. Cette\n    culture de la musique le marquera dans la production de ses titres.&lt;/p&gt;\n&lt;p&gt;\u00ab Burning Love \u00bb est inspir\u00e9 par l\u2019influence d\u2019Herbie Hancock et Bix Beiderbecke, \u00e0 la fois l\u00e9g\u00e8re et sophistiqu\u00e9,\n    mixant subtilement \u00e9lectronique et instruments acoustiques, effleurant par moments la dance musique en beat\n    envoutant,\n    tout en gardant cette atmosph\u00e8re Jazz/Blues, qui permet de mettre en avant le jeu entre la trompette et le piano.\n    Paul\n    Carrera, avec cette volont\u00e9 d\u2019aller toujours vers plus de d\u00e9possession et d\u2019anonymat, profile d\u2019immenses continents\n    musicaux inexplor\u00e9s.&lt;/p&gt;",
+      "images": {
+        "artiste": "assets/Artistes/Paul Carrera/images/artiste.png",
+        "bio": "assets/Artistes/Paul Carrera/images/bio.png",
+        "name": "assets/Artistes/Paul Carrera/images/name.png",
+        "titre": "assets/Artistes/Paul Carrera/images/titre.png"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
+        "instagram": "https://www.instagram.com/koftonmusic/",
+        "soundcloud": "https://soundcloud.com/user-90892428",
+        "twitter": "https://twitter.com/KoftonMusic",
+        "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
+      },
+      "sortie": {
+        "artiste": "Paul Carrera",
+        "date": "8 Mars 2019",
+        "date_to_sort": "08/03/2019",
+        "platform": {
+          "amazon": "https://www.amazon.fr/Burning-Love-Original-Paul-Carrera/dp/B07PB51P1N/ref=sr_1_1?ie=UTF8&amp;qid=1552035925&amp;sr=8-1&amp;keywords=paul+carrera+burning+love",
+          "deezer": "https://www.deezer.com/album/88788652?utm_source=deezer&amp;utm_content=album-88788652&amp;utm_term=4205667_1552036213&amp;utm_medium=web",
+          "google music": "https://play.google.com/store/music/album/Paul_Carrera_Burning_Love?id=Bo6sg2vhezrw5sp3cpx4imvksey",
+          "itunes": "https://itunes.apple.com/fr/album/burning-love-single/1454808976",
+          "spotify": "https://open.spotify.com/track/2NPypUeh4CZnkOCfGMKUXN?si=D1751HAsQt-EWZ6pHyn1ag"
+        },
+        "titre": "Burning Love"
+      }
+    },
+    "ROMWEY": {
+      "bio": "&lt;p&gt;Ce jeune homme orchestre, pr\u00e9curseur d\u2019une musique \u00e9lectronique \u00e0 la fran\u00e7aise, est aujourd\u2019hui une valeur montante\n    de\n    la French touch.&lt;/p&gt;\n&lt;p&gt;N\u00e9 \u00e0 l\u2019aube des ann\u00e9es 2000, ROMWEY grandit dans le petit village de Saints-Branchs pr\u00e8s de Tours. Avant la musique,\n    sa\n    premi\u00e8re passion est pour les math\u00e9matiques. Mais tr\u00e8s vite, il d\u00e9laisse les calculs complexes de sa licence pour\n    son\n    r\u00eave d\u2019enfant, la musique. C\u2019est en bidouillant les sons avec son ordinateur qu\u2019il d\u00e9couvre les possibilit\u00e9s\n    musicales\n    qui lui sont offertes. Nous sommes en 2016, avec les succ\u00e8s d\u2019artistes comme Martin Garrix ou David Guetta. C\u2019est\n    une\n    r\u00e9v\u00e9lation.&lt;/p&gt;\n&lt;p&gt;La composition, il la commence petit \u00e0 petit en regardant les tutos de Avicii in the studio. Puis, progressivement il\n    commence \u00e0 analyser les musiques de ses artistes favoris, jusqu\u2019\u00e0 se fabriquer une vaste culture musicale qui sera\n    le\n    fondement de ses futurs projets.&lt;/p&gt;\n&lt;p&gt;Electro Maison&lt;/p&gt;\n&lt;p&gt;C\u2019est tout naturellement dans l\u2019electro house qu\u2019il commence sa carri\u00e8re. Entre 2016 et 2017, il exploite la d\u00e9mo de\n    son\n    logiciel de pr\u00e9dilection Fruity Loops, mariant diverses influences musicales dans un montage electro house\n    particuli\u00e8rement inventif. Il aime l\u2019id\u00e9e de concr\u00e9tiser une pens\u00e9e abstraire en projet musical. Le travail de\n    ROMWEY\n    s\u2019inspire alors de ce qu\u2019il se fait dans le milieu du genre, au USA pour l\u2019 EDM et en Europe pour l\u2019electro.&lt;/p&gt;\n&lt;p&gt;2018&lt;/p&gt;\n&lt;p&gt;C\u2019est pour lui le moment de se confronter \u00e0 son public, il d\u00e9cide de diffuser ses morceaux exclusivement sur\n    Soonvibes,\n    un site tremplin permettant de se faire rep\u00e9rer. Les f\u00e9licitations sont r\u00e9guli\u00e8res et proviennent du monde entier,\n    m\u00eame\n    des terres cr\u00e9atrices am\u00e9ricaines. C\u2019est une ann\u00e9e de forte production pour ROMWAEY, puisqu\u2019il proposera pas moins\n    de 14\n    titres / remix, et \u00e0 chaque fois les \u00e9loges sont de l\u00e9gions.&lt;/p&gt;\n&lt;p&gt;L\u2019artiste cherche aussi sa singularit\u00e9 dans son image. Soucieux de garder son anonymat, il ne souhaite pas que l\u2019on\n    s\u2019attache \u00e0 une photo ou visage, mais plut\u00f4t \u00e0 l\u2019\u00e9motion musicale de ses titres.&lt;/p&gt;\n&lt;p&gt;2019 : \u00ab Boot \u00bb&lt;/p&gt;\n&lt;p&gt;En mars 2019, il sort \u00ab Boot \u00bb sous le label Kofton Music. ROMWEY n\u2019est pas du genre \u00e0 se r\u00e9p\u00e9ter d\u2019un titre \u00e0\n    l\u2019autre.\n    Il nous propose un son \u00e9lectro-dance m\u00e9lodieux, qui sugg\u00e8re l\u2019exotisme et rel\u00e8ve davantage du chillwave associ\u00e9 \u00e0\n    une\n    grosse basse accompagn\u00e9e d\u2019un malin m\u00e9lange de riffs \u00e9lectriques, plut\u00f4t qu\u2019un EDM pesant et brutal. M\u00eame si\n    l\u2019artiste\n    derri\u00e8re reste bien myst\u00e9rieux pour l\u2019instant. Pas de nom, pas de visage, pas d\u2019interviews. Mais un gros succ\u00e8s en\n    pr\u00e9vision.&lt;/p&gt;",
+      "images": {
+        "artiste": "assets/Artistes/ROMWEY/images/artiste.png",
+        "bio": "assets/Artistes/ROMWEY/images/artiste.png",
+        "name": "assets/Artistes/ROMWEY/images/name.png",
+        "titre": "assets/Artistes/ROMWEY/images/titre.png"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/",
+        "instagram": "https://www.instagram.com/koftonmusic/",
+        "soundcloud": "https://soundcloud.com/user-90892428",
+        "youtube": "https://www.youtube.com/channel/UC_sVcEw4a9mZX2omxdDRhkA"
+      },
+      "sortie": {
+        "artiste": "ROMWEY",
+        "date": "30 Mars 2019",
+        "date_to_sort": "30/03/2019",
+        "platform": {
+          "beatport": "https://www.beatport.com/track/boot-original-mix/11794430",
+          "deezer": "http://www.deezer.com/track/655144332",
+          "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
+          "itunes": "https://itunes.apple.com/fr/album/burning-love-single/1454808976",
+          "qobuz": "https://www.qobuz.com/gb-en/album/boot-romwey/qjmb780h6fiub",
+          "spotify": "https://open.spotify.com/album/1vRjXtqB6YWCHyYk7r94Mr?si=NR0xvJyKS7Ctc3U5Ap3VsA"
+        },
+        "titre": "Boot"
+      }
+    },
+    "Sylvain Laurent": {
+      "bio": "&lt;p&gt;Originaire de Biarritz en France, Sylvain Laurent mixe depuis les ann\u00e9es 2000. Il s&#x27;est vite rendu compte qu&#x27;il avait\n    l&#x27;enthousiasme et la d\u00e9termination n\u00e9cessaire pour poursuivre. Il ne le sait pas encore, mais de cette envie na\u00eetra\n    une\n    passion.&lt;/p&gt;\n&lt;p&gt;Son int\u00e9r\u00eat initial pour la House Musique a commenc\u00e9 en 1998 quand il d\u00e9couvre les clubs, il a d\u00e9clar\u00e9 : \u00abC&#x27;\u00e9tait\n    incroyable !!! \u00bb&lt;/p&gt;\n&lt;p&gt;Depuis un certain temps, Sylvain Laurent d\u00e9veloppe un go\u00fbt prononc\u00e9 pour la sc\u00e8ne underground. De part ses\n    connaissances, il d\u00e9cide de professionnaliser ses comp\u00e9tences et de les mettre \u00e0 contribution d\u2019une entreprise.&lt;/p&gt;\n&lt;p&gt;Gr\u00e2ce, a sa d\u00e9termination et son amour pour la musique, il construit les bases de sa carri\u00e8re de DJ. Etapes apr\u00e8s\n    \u00e9tapes, il gagne en confiance et atteint le niveau lui permettant de jouer lors d&#x27;\u00e9v\u00e9nements particuliers. Sylvain\n    Laurent a l\u2019intelligence d\u2019adapter ses mix en fonction de son public.&lt;/p&gt;\n&lt;p&gt;L\u2019envie de se d\u00e9passer l\u2019am\u00e8ne \u00e0 Londres, o\u00f9 il participera \u00e0 de nombreuses promotions comme Imsomnia, Frantic,\n    Fevah.\n    Il se produira \u00e9galement dans les c\u00e9l\u00e8bres salles du Royaume-Uni : Brixton Academy, Camden Palace et Heaven, au c\u00f4t\u00e9\n    de\n    talents comme : BK, ED Real, Karim, Phil Reynolds, Matt Clarke, Roosta, Skol, James Lawson, Dean Peters. Sylvain\n    Laurent\n    puise l\u2019inspiration de part son exp\u00e9rience. Sa rencontre avec Matt Clarke le marquera profond\u00e9ment et son envie de\n    toujours progresser dans ses sets et \u00e0 aller encore plus loin dans les techniques de mixages ne le quittera jamais.\n&lt;/p&gt;\n&lt;p&gt;\u00ab How We Do \u00bb&lt;/p&gt;\n&lt;p&gt;Il d\u00e9cide de franchir le pas et passe du monde de la sc\u00e8ne underground \u00e0 la production. Sylvain Laurent veut\n    apprendre\n    vite et bien. Avec sa formation de MAO en poche et les conseils de Friends, il sortira en 2014, sous le label\n    Wolfrage\n    Recordings, son tout premier titre \u00ab How We Do \u00bb. Pour l\u2019\u00e9poque, l\u2019artiste est bien en avance et comprend vite que\n    l\u2019EDM\n    est un mouvement en cours d\u2019explosion qui prendra la place principale des festivals. Son morceau est puissant et sa\n    m\u00e9lodie reprend les codes du genre.&lt;/p&gt;\n&lt;p&gt;2015 / 2016&lt;/p&gt;\n&lt;p&gt;Une nouvelle ann\u00e9e pour Sylvain Laurent rime avec nouvelle sortie. L\u2019artiste sort deux titres toujours chez Wolfrage\n    Recordings, \u00ab Countdown \u00bb et \u00ab Jump \u00bb, il encha\u00eene avec une sortie chez 5howtime Music pour le titre \u00ab FlashBack \u00bb.\n    Il\n    continuera \u00e0 se faire remarquer en sortant sous Matrix Music Records, son excellent titre \u00ab Serious Love \u00bb. Sa\n    marque de\n    fabrique est toujours bien pr\u00e9sente, la m\u00e9lodie avant tout. Pour ce titre, il sera en collaboration avec le chanteur\n    Mickael Auneil.&lt;/p&gt;\n&lt;p&gt;D\u00e9s lors, Sylvain Laurent se concentre sur la confection de son studio pour toujours franchir un nouveau cap.&lt;/p&gt;\n&lt;p&gt;Aujourd\u2019hui\u2026&lt;/p&gt;\n&lt;p&gt;L\u2019artiste transforme sa mani\u00e8re d\u2019entendre et de produire. Il nous propose d\u00e9sormais des sonorit\u00e9s passant de la deep\n    house \u00e0 l\u2019electro, mais nous rattrape toujours avec ses m\u00e9lodies et son harmonisation. Sylvain Laurent est du genre\n    \u00e0 ne\n    pas se r\u00e9p\u00e9ter d\u2019une ann\u00e9e \u00e0 l\u2019autre et sort \u00ab Together \u00bb avec Ace Face Records.&lt;/p&gt;\n&lt;p&gt;\u00ab Funky Time \u00bb&lt;/p&gt;\n&lt;p&gt;Depuis plus de dix ans, Sylvain Laurent fait son bonhomme de chemin dans la musique \u00e9lectronique, bien avant que tout\n    le\n    monde s\u2019engouffre dans l\u2019EDM avec grande gourmandise. Avec la sortie de \u00ab Funky Time \u00bb, le musicien nous livrent une\n    chronique groove de son nouvel univers musical. Un m\u00e9lange de disco, d\u2019electro, de pop groovy, de synth-wave, le\n    titre\n    nous transporte dans la mutation m\u00e9lodique de l\u2019artiste. Sans surprise, le label Kofton Music ne pouvait passer\n    outre\n    l\u2019envie de sortir cette oeuvre. Nous ne pouvons que le conseiller \u00e0 tous, en attendant une future sortie de Sylvain\n    Laurent.&lt;/p&gt;",
+      "images": {
+        "artiste": "assets/Artistes/Sylvain Laurent/images/artiste.png",
+        "bio": "assets/Artistes/Sylvain Laurent/images/bio.png",
+        "name": "assets/Artistes/Sylvain Laurent/images/name.png",
+        "titre": "assets/Artistes/Sylvain Laurent/images/titre.png"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/Kofton-Music-564846887288717/"
+      },
+      "sortie": {
+        "artiste": "Sylvain Laurent",
+        "date": "24 Avril 2019",
+        "date_to_sort": "24/04/2019",
+        "platform": {
+          "deezer": "http://www.deezer.com/album/94145872",
+          "google music": "https://play.google.com/store/music/album?id=Berp7ibvdsi52i7zwvjpk25klwa&amp;tid=song-T4joiuyhzkxgziazj2b2s3huvia",
+          "spotify": "https://open.spotify.com/album/3m6KGbZ6W7w1HTm6PiT5uy?si=eU8fHrMkQv-kgZEiLYjh3A"
+        },
+        "titre": "Funky Time"
+      }
     }
   },
   "sorties": [
