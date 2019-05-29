@@ -4,13 +4,13 @@
       <v-card flat>
         <v-container fluid grid-list-md>
           <v-layout column nowrap>
-            <v-flex v-for="key in jsonData.sorties" :key="key">
+            <v-flex v-for="{artiste} in jsonData.sorties" :key="artiste">
               <v-card>
-                <v-img aspect-ratio="1.5" contain :src="jsonData.artistes[key.artiste].images.titre"></v-img>
+                <v-img aspect-ratio="1.5" contain :src="jsonData.artistes[artiste].images.titre"></v-img>
                 <v-divider light></v-divider>
                 <v-card-actions>
                   <v-flex
-                    v-for="(value, key) in jsonData.artistes[key.artiste].sortie.platform"
+                    v-for="(value, key) in jsonData.artistes[artiste].sortie.platform"
                     :key="key"
                     xs4
                     d-flex
