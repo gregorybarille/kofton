@@ -5,7 +5,7 @@
         <v-container fluid grid-list-md>
           <v-layout column nowrap>
             <v-flex v-for="{artiste} in jsonData.sorties" :key="artiste">
-              <v-card>
+              <v-card :to="{path: `/artistes/${artiste}/media`}">
                 <v-img aspect-ratio="1.5" contain :src="jsonData.artistes[artiste].images.titre"></v-img>
                 <v-divider light></v-divider>
                 <v-card-actions>

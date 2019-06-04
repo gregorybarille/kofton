@@ -2,7 +2,11 @@
   <v-layout>
     <v-flex xs12 sm6 offset-sm3>
       <v-card flat>
-        <v-img class="white--text" height="200px" :src="`/${this.jsonData.artistes[this.name].images.bio}`">
+        <v-img
+          class="white--text"
+          height="200px"
+          :src="`/${this.jsonData.artistes[this.name].images.bio}`"
+        >
           <v-container fill-height fluid>
             <v-layout fill-height>
               <v-flex xs12 align-end flexbox>
@@ -13,8 +17,7 @@
         </v-img>
         <v-tabs v-model="active" color="primary" dark slider-color="yellow">
           <v-tab :to="{path: `/artistes/${name}/bio`}">Biographie</v-tab>
-          <v-tab :to="{path: `/artistes/${name}/titre`}">Titre</v-tab>
-          <v-tab :to="{path: `/artistes/${name}/videos`}">Videos</v-tab>
+          <v-tab :to="{path: `/artistes/${name}/media`}">Titre</v-tab>
           <v-tab :to="{path: `/artistes/${name}/social`}">Social</v-tab>
         </v-tabs>
         <router-view :artist="this.jsonData.artistes[this.name]"></router-view>

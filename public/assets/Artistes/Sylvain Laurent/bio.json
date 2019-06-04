@@ -17,7 +17,8 @@
     "platform": {
       "spotify": "https://open.spotify.com/album/3m6KGbZ6W7w1HTm6PiT5uy?si=eU8fHrMkQv-kgZEiLYjh3A",
       "deezer": "http://www.deezer.com/album/94145872",
-      "google music": "https://play.google.com/store/music/album?id=Berp7ibvdsi52i7zwvjpk25klwa&amp;tid=song-T4joiuyhzkxgziazj2b2s3huvia"
+      "google music": "https://play.google.com/store/music/album?id=Berp7ibvdsi52i7zwvjpk25klwa&amp;tid=song-T4joiuyhzkxgziazj2b2s3huvia",
+      "itunes": "https://music.apple.com/fr/album/funky-time/1460801264?i=1460801265"
     }
   }
 }

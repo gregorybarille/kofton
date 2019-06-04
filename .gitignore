@@ -2,6 +2,7 @@
 node_modules
 /dist
 .mypy_cache
+.history
 
 # local env files
 .env.local

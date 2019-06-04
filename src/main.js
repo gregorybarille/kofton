@@ -8,9 +8,7 @@ Vue.use(VueRouter);
 Vue.config.productionTip = false;
 
 import AppArtistes from "./components/AppArtistes";
-import AppContest from "./components/AppContest";
 import AppDemo from "./components/AppDemo";
-import AppPlaylists from "./components/AppPlaylists";
 import AppMedia from "./components/AppMedia";
 import AppHome from "./components/AppHome";
 import AppConditions from "./components/AppConditions";
@@ -20,8 +18,7 @@ import AppDetailsFromArtistes from "./components/AppDetailsFromArtistes";
 import AppContact from "./components/AppContact";
 import AppBioFromDetails from "./components/AppBioFromDetails";
 import AppSocialFromBio from "./components/AppSocialFromBio";
-import AppTitleFromDetails from "./components/AppTitleFromDetails";
-import AppVideosFromDetails from "./components/AppVideosFromDetails";
+import AppMediaFromDetails from "./components/AppMediaFromDetails";
 
 let router = new VueRouter({
   mode: "history",
@@ -50,15 +47,9 @@ let router = new VueRouter({
           props: true
         },
         {
-          path: "titre",
-          name: "Titre",
-          component: AppTitleFromDetails,
-          props: true
-        },
-        {
-          path: "videos",
-          name: "Videos de l'artiste",
-          component: AppVideosFromDetails,
+          path: "media",
+          name: "media",
+          component: AppMediaFromDetails,
           props: true
         },
         {
@@ -70,20 +61,10 @@ let router = new VueRouter({
       ]
     },
     {
-      path: "/contest",
-      name: "Contest",
-      component: AppContest
-    },
-    {
       path: "/demo",
       name: "Demo",
       component: AppDemo,
       props: true
-    },
-    {
-      path: "/playlists",
-      name: "Playlists",
-      component: AppPlaylists
     },
     {
       path: "/sorties",
