@@ -19,10 +19,11 @@
     "date": "19 Mars 2019",
     "date_to_sort": "19/03/2019",
     "platform": {
-      "spotify": "https://open.spotify.com/track/2vvOFjSwXoDWisjnAwTBq7?si=KnmUzNviSqalEuRNibQDGw",
+      "spotify": "0IsBRJuJ8X1MwNwlEMrYVH",
       "deezer": "album&id=90412782",
       "google music": "https://play.google.com/store/music/album/M_A_Dyne_Serereka?id=Bbs7tph7g7rujm3go5gzkextghi",
-      "amazon": "https://www.amazon.fr/Serereka-Original-M_A_Dyne-feat-Sejo_Di_Dakta/dp/B07PNK85DK/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=M_A_Dyne&amp;qid=1552987671&amp;s=gateway&amp;sr=8-5"
+      "amazon": "https://www.amazon.fr/Serereka-Original-M_A_Dyne-feat-Sejo_Di_Dakta/dp/B07PNK85DK/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=M_A_Dyne&amp;qid=1552987671&amp;s=gateway&amp;sr=8-5",
+      "soundcloud": "592474281"
     }
   }
 }

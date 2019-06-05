@@ -6,17 +6,34 @@
           <v-layout column nowrap>
             <v-flex v-for="{artiste} in jsonData.sorties" :key="artiste">
               <v-card :to="{path: `/artistes/${artiste}/media`}">
-                <!-- <v-card flat> -->
-                <iframe
-                  scrolling="no"
-                  frameborder="0"
-                  allowtransparency="true"
-                  :src="`https://www.deezer.com/plugins/player?format=square&autoplay=false&playlist=false&width=300&height=300&color=ff0000&layout=dark&size=medium&type=${jsonData.artistes[artiste].sortie.platform.deezer}&app_id=1`"
-                  width="300"
-                  height="300"
-                ></iframe>
+                <v-img aspect-ratio="1.5" contain :src="jsonData.artistes[artiste].images.titre"></v-img>
+                <v-divider light></v-divider>
+                <v-card-actions>
+                  <v-layout>
+                    <v-flex xs12 sm8 offset-sm2 v-if="artiste == 'HezCut'">
+                      <iframe
+                        scrolling="no"
+                        frameborder="0"
+                        allowtransparency="true"
+                        src="https://www.deezer.com/plugins/player?format=classic&autoplay=false&playlist=true&width=700&height=350&color=ff0000&layout=&size=medium&type=tracks&id=660748242&app_id=1"
+                        width="100%"
+                        height="166"
+                      ></iframe>
+                    </v-flex>
+
+                    <v-flex xs12 sm8 offset-sm2 v-else>
+                      <iframe
+                        width="100%"
+                        height="166"
+                        scrolling="no"
+                        frameborder="no"
+                        allow="autoplay"
+                        :src="`https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/${jsonData.artistes[artiste].sortie.platform.soundcloud}&color=%23007eff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true`"
+                      ></iframe>
+                    </v-flex>
+                  </v-layout>
+                </v-card-actions>
               </v-card>
-              <v-divider></v-divider>
             </v-flex>
           </v-layout>
         </v-container>
@@ -56,5 +73,8 @@ export default {
 }
 .v-btn {
   padding: 0;
+}
+
+iframe {
 }
 </style>

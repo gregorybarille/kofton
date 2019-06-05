@@ -15,10 +15,11 @@
     "date": "24 Avril 2019",
     "date_to_sort": "24/04/2019",
     "platform": {
-      "spotify": "https://open.spotify.com/album/3m6KGbZ6W7w1HTm6PiT5uy?si=eU8fHrMkQv-kgZEiLYjh3A",
+      "spotify": "3m6KGbZ6W7w1HTm6PiT5uy",
       "deezer": "album&id=94145872",
       "google music": "https://play.google.com/store/music/album?id=Berp7ibvdsi52i7zwvjpk25klwa&amp;tid=song-T4joiuyhzkxgziazj2b2s3huvia",
-      "itunes": "https://music.apple.com/fr/album/funky-time/1460801264?i=1460801265"
+      "itunes": "https://music.apple.com/fr/album/funky-time/1460801264?i=1460801265",
+      "soundcloud": "610780071"
     }
   }
 }
