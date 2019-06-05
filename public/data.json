@@ -19,9 +19,9 @@
         "date_to_sort": "06/03/2019",
         "platform": {
           "amazon": "https://www.amazon.fr/Salet%C3%A9-sal%C3%A9e/dp/B07P6N4JGR/ref=sr_1_1?ie=UTF8&amp;qid=1551857662&amp;sr=8-1&amp;keywords=dockbled+salet%C3%A9+sal%C3%A9e",
-          "deezer": "https://www.deezer.com/album/88685172?utm_source=deezer&amp;utm_content=album-88685172&amp;utm_term=4205667_1551853046&amp;utm_medium=web",
+          "deezer": "album&id=88685172",
           "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
-          "itunes": "https://itunes.apple.com/fr/album//1454699163",
+          "itunes": "https://music.apple.com/fr/album/salet%C3%A9-sal%C3%A9e-feat-lunik-drago/1454699163?i=1454699168",
           "spotify": "https://open.spotify.com/album/0neMz74aGyBwXGPbyhiFoX?si=neM_7kXMR32AMPJEFuHzfA"
         },
         "titre": "Salet\u00e9 Sal\u00e9e"
@@ -42,8 +42,9 @@
         "date_to_sort": "08/04/2019",
         "platform": {
           "amazon": "https://www.amazon.fr/My-Mind-Original/dp/B07QHHH2YL/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=enfant+calme+%C3%B9y+mind&amp;qid=1554720972&amp;s=gateway&amp;sr=8-1-spell",
-          "deezer": "https://www.deezer.com/album/92336532?utm_source=deezer&amp;utm_content=album-92336532&amp;utm_term=4205667_1554721299&amp;utm_medium=web",
+          "deezer": "album&id=92336532",
           "google music": "https://play.google.com/store/music/album/Enfant_Calme_My_Mind?id=Bo77ibg6ejldm3smxbljcj2nn4u",
+          "itunes": "https://music.apple.com/fr/album/my-mind-single/1458722054",
           "spotify": "https://open.spotify.com/album/4GlCcigqLzIPYwx22fLxBr?si=uIkWZSBFTRCHOJBExuLbVg"
         },
         "titre": "My Mind"
@@ -69,8 +70,9 @@
         "date_to_sort": "13/04/2019",
         "platform": {
           "amazon": "https://www.amazon.fr/Have-a-Good-Time/dp/B07QFFZKP5/ref=sr_1_2?keywords=DJ+Hez+Cut+%26+Tchou+Kabam%27s&amp;qid=1555228249&amp;s=dmusic&amp;search-type=ss&amp;sr=1-2-spell",
-          "deezer": "https://www.deezer.com/fr/track/660748242",
+          "deezer": "tracks&id=660748242",
           "google music": "https://play.google.com/store/music/album/DJ_Hez_Cut_Have_a_Good_Time?id=Bjvip7hlnflqxqmsgj7oa5rwu6u",
+          "itunes": "https://music.apple.com/fr/album/have-a-good-time-single/1458875473",
           "spotify": "https://open.spotify.com/album/3cnNZxLAuF9M0G7NERQybr?si=Sz2D1mBKQc2pPRBYeO9XmA"
         },
         "titre": "Have a Good Time"
@@ -94,8 +96,9 @@
         "date_to_sort": "11/03/2019",
         "platform": {
           "amazon": "https://www.amazon.fr/Hola-K-Johnson-I-V/dp/B07P9BXDMQ/ref=sr_1_1?ie=UTF8&amp;qid=1552324630&amp;sr=8-1&amp;keywords=k-johnson+hola+hola",
-          "deezer": "https://www.deezer.com/album/89102402?utm_source=deezer&amp;utm_content=album-89102402&amp;utm_term=4205667_1552324806&amp;utm_medium=web",
+          "deezer": "album&id=89102402",
           "google music": "https://play.google.com/store/music/album/K_Johnson_Hola_Hola?id=Bw4bgpawfisxy4ecoewsnibonim&amp;hl=fr",
+          "itunes": "https://music.apple.com/fr/album/hola-hola-single/1455655180",
           "spotify": "https://open.spotify.com/album/436q3dVrMatcuqp2eEMH2s?si=uW64EcEkRdO6LYIWHGLdew"
         },
         "titre": "Hola Hola"
@@ -120,8 +123,9 @@
         "date": "1er Avril 2019",
         "date_to_sort": "01/04/2019",
         "platform": {
-          "deezer": "https://www.deezer.com/en/track/656809122",
+          "deezer": "tracks&id=656809122",
           "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
+          "itunes": "https://music.apple.com/fr/album/serereka-feat-sejo-di-dakta-single/1456604030",
           "juno": "https://www.junodownload.com/products/launchmachine-in-my-head/4098959-02/",
           "spotify": "https://open.spotify.com/track/2cSgFd2L8yeaQqZ6rHKjA5?si=EsNnIv42Rj6hCPrXbJqJ7A"
         },
@@ -149,7 +153,7 @@
         "date_to_sort": "19/03/2019",
         "platform": {
           "amazon": "https://www.amazon.fr/Serereka-Original-M_A_Dyne-feat-Sejo_Di_Dakta/dp/B07PNK85DK/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=M_A_Dyne&amp;qid=1552987671&amp;s=gateway&amp;sr=8-5",
-          "deezer": "https://www.deezer.com/album/90412782?utm_source=deezer&amp;utm_content=album-90412782&amp;utm_term=4205667_1552987795&amp;utm_medium=web",
+          "deezer": "album&id=90412782",
           "google music": "https://play.google.com/store/music/album/M_A_Dyne_Serereka?id=Bbs7tph7g7rujm3go5gzkextghi",
           "spotify": "https://open.spotify.com/track/2vvOFjSwXoDWisjnAwTBq7?si=KnmUzNviSqalEuRNibQDGw"
         },
@@ -177,9 +181,9 @@
         "date_to_sort": "08/03/2019",
         "platform": {
           "amazon": "https://www.amazon.fr/Burning-Love-Original-Paul-Carrera/dp/B07PB51P1N/ref=sr_1_1?ie=UTF8&amp;qid=1552035925&amp;sr=8-1&amp;keywords=paul+carrera+burning+love",
-          "deezer": "https://www.deezer.com/album/88788652?utm_source=deezer&amp;utm_content=album-88788652&amp;utm_term=4205667_1552036213&amp;utm_medium=web",
+          "deezer": "album&id=88788652",
           "google music": "https://play.google.com/store/music/album/Paul_Carrera_Burning_Love?id=Bo6sg2vhezrw5sp3cpx4imvksey",
-          "itunes": "https://itunes.apple.com/fr/album/burning-love-single/1454808976",
+          "itunes": "https://music.apple.com/fr/album/burning-love/1454808976?i=1454808978",
           "spotify": "https://open.spotify.com/track/2NPypUeh4CZnkOCfGMKUXN?si=D1751HAsQt-EWZ6pHyn1ag"
         },
         "titre": "Burning Love"
@@ -205,9 +209,9 @@
         "date_to_sort": "30/03/2019",
         "platform": {
           "beatport": "https://www.beatport.com/track/boot-original-mix/11794430",
-          "deezer": "http://www.deezer.com/track/655144332",
+          "deezer": "tracks&id=655144332",
           "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
-          "itunes": "https://itunes.apple.com/fr/album/burning-love-single/1454808976",
+          "itunes": "https://music.apple.com/fr/album/boot-single/1458009367",
           "qobuz": "https://www.qobuz.com/gb-en/album/boot-romwey/qjmb780h6fiub",
           "spotify": "https://open.spotify.com/album/1vRjXtqB6YWCHyYk7r94Mr?si=NR0xvJyKS7Ctc3U5Ap3VsA"
         },
@@ -230,8 +234,9 @@
         "date": "24 Avril 2019",
         "date_to_sort": "24/04/2019",
         "platform": {
-          "deezer": "http://www.deezer.com/album/94145872",
+          "deezer": "album&id=94145872",
           "google music": "https://play.google.com/store/music/album?id=Berp7ibvdsi52i7zwvjpk25klwa&amp;tid=song-T4joiuyhzkxgziazj2b2s3huvia",
+          "itunes": "https://music.apple.com/fr/album/funky-time/1460801264?i=1460801265",
           "spotify": "https://open.spotify.com/album/3m6KGbZ6W7w1HTm6PiT5uy?si=eU8fHrMkQv-kgZEiLYjh3A"
         },
         "titre": "Funky Time"

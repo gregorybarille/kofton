@@ -6,22 +6,17 @@
           <v-layout column nowrap>
             <v-flex v-for="{artiste} in jsonData.sorties" :key="artiste">
               <v-card :to="{path: `/artistes/${artiste}/media`}">
-                <v-img aspect-ratio="1.5" contain :src="jsonData.artistes[artiste].images.titre"></v-img>
-                <v-divider light></v-divider>
-                <v-card-actions>
-                  <v-flex
-                    v-for="(value, key) in jsonData.artistes[artiste].sortie.platform"
-                    :key="key"
-                    xs4
-                    d-flex
-                    justify-space-around
-                  >
-                    <v-btn flat small :href="value" target="_blank">
-                      <v-icon>{{icons[key]}}</v-icon>
-                    </v-btn>
-                  </v-flex>
-                </v-card-actions>
+                <!-- <v-card flat> -->
+                <iframe
+                  scrolling="no"
+                  frameborder="0"
+                  allowtransparency="true"
+                  :src="`https://www.deezer.com/plugins/player?format=square&autoplay=false&playlist=false&width=300&height=300&color=ff0000&layout=dark&size=medium&type=${jsonData.artistes[artiste].sortie.platform.deezer}&app_id=1`"
+                  width="300"
+                  height="300"
+                ></iframe>
               </v-card>
+              <v-divider></v-divider>
             </v-flex>
           </v-layout>
         </v-container>

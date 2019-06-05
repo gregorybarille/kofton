@@ -17,7 +17,7 @@
     "date_to_sort": "11/03/2019",
     "platform": {
       "spotify": "https://open.spotify.com/album/436q3dVrMatcuqp2eEMH2s?si=uW64EcEkRdO6LYIWHGLdew",
-      "deezer": "https://www.deezer.com/album/89102402?utm_source=deezer&amp;utm_content=album-89102402&amp;utm_term=4205667_1552324806&amp;utm_medium=web",
+      "deezer": "album&id=89102402",
       "google music": "https://play.google.com/store/music/album/K_Johnson_Hola_Hola?id=Bw4bgpawfisxy4ecoewsnibonim&amp;hl=fr",
       "amazon": "https://www.amazon.fr/Hola-K-Johnson-I-V/dp/B07P9BXDMQ/ref=sr_1_1?ie=UTF8&amp;qid=1552324630&amp;sr=8-1&amp;keywords=k-johnson+hola+hola",
       "itunes": "https://music.apple.com/fr/album/hola-hola-single/1455655180"
