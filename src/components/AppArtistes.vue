@@ -2,9 +2,9 @@
   <v-layout>
     <v-flex xs12 sm8 offset-sm2>
       <v-card flat>
-        <v-container grid-list-sm fluid>
+        <v-container grid-list-xs fluid>
           <v-layout row wrap>
-            <v-flex v-for="(value, key) in jsonData.artistes" :key="key" xs12 md4 d-flex pa-2>
+            <v-flex v-for="(value, key) in jsonData.artistes" :key="key" xs12 md4 d-flex>
               <v-hover>
                 <v-card
                   slot-scope="{ hover }"

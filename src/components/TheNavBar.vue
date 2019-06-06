@@ -28,6 +28,7 @@
       <v-toolbar-items class="hidden-sm-and-down">
         <v-btn flat :to="{path: '/artistes'}">Artistes</v-btn>
         <v-btn flat :to="{path: '/demo' }">Demo</v-btn>
+        <v-btn flat :to="{path: '/playlist' }">Playlist</v-btn>
         <v-btn flat :to="{path: '/sorties' }">Sorties</v-btn>
         <v-btn flat :to="{path: '/contact' }">Contact</v-btn>
       </v-toolbar-items>
