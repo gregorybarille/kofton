@@ -3,7 +3,7 @@
     <v-flex xs12 sm8 offset-sm2>
       <v-card flat>
         <v-container grid-list-xs fluid>
-          <v-layout row wrap>
+          <v-layout column align-center>
             <v-flex v-for="(value, key) in jsonData.artistes" :key="key" xs12 md4 d-flex>
               <v-hover>
                 <v-card
