@@ -56,4 +56,11 @@ img {
   margin-top: 5px;
   height: 60px;
 }
+.v-toolbar {
+  background-color: #305b9e;
+  color: white;
+}
+.v-btn {
+  color: white;
+}
 </style>

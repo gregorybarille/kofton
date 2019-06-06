@@ -10,7 +10,7 @@
                   slot-scope="{ hover }"
                   flat
                   tile
-                  :class="`d-flex elevation-${hover ? 20 : 0}`"
+                  :class="`d-flex elevation-${hover ? 5 : 0}`"
                   :to="{path: `/artistes/${key}/bio`}"
                 >
                   <v-img :src="value.images.artiste" aspect-ratio="1" class="grey lighten-2"></v-img>

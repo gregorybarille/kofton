@@ -15,7 +15,7 @@
             </v-layout>
           </v-container>
         </v-img>
-        <v-tabs v-model="active" color="primary" dark slider-color="yellow">
+        <v-tabs v-model="active" color="grey lighten-5" light slider-color="yellow">
           <v-tab :to="{path: `/artistes/${name}/bio`}">Biographie</v-tab>
           <v-tab :to="{path: `/artistes/${name}/media`}">Titre</v-tab>
           <v-tab :to="{path: `/artistes/${name}/social`}">Social</v-tab>

@@ -1,6 +1,12 @@
   <template>
-  <v-footer dark height="auto">
-    <v-card flat tile class="primary accent-3 lighten-1 white--text text-xs-center" width="100%">
+  <v-footer height="auto">
+    <v-card
+      id="footer"
+      flat
+      tile
+      class="accent-3 lighten-1 white--text text-xs-center"
+      width="100%"
+    >
       <v-btn href="https://www.facebook.com/KoftonMusic/" target="_blank" icon>
         <i class="fab fa-facebook-square fa-2x"></i>
       </v-btn>
@@ -20,11 +26,27 @@
       <v-divider></v-divider>
 
       <v-card-text class="white--text py-0">
-        &copy;2019 —
-        <strong>Kofton Music</strong>
-        <v-btn flat depressed :to="{path: '/mentions-legales' }">Mentions Légales</v-btn>
-        <v-btn flat depressed :to="{path: '/politique-traitement' }">Politique de traitement</v-btn>
-        <v-btn flat depressed :to="{path: '/conditions-generales' }">Conditions générales</v-btn>
+        Design by
+        <a id="credit" href>Gregory Barille</a> for &copy;2019 —
+        <strong class="white--text">Kofton Music</strong>
+        <v-btn
+          class="white--text"
+          flat
+          depressed
+          :to="{path: '/mentions-legales' }"
+        >Mentions Légales</v-btn>
+        <v-btn
+          class="white--text"
+          flat
+          depressed
+          :to="{path: '/politique-traitement' }"
+        >Politique de traitement</v-btn>
+        <v-btn
+          class="white--text"
+          flat
+          depressed
+          :to="{path: '/conditions-generales' }"
+        >Conditions générales</v-btn>
       </v-card-text>
     </v-card>
   </v-footer>
@@ -34,5 +56,14 @@
 export default {};
 </script>
 
-  <style scoped>
+<style scoped>
+#credit {
+  color: white;
+}
+#footer {
+  background-color: #305b9e;
+}
+i {
+  color: white;
+}
 </style>

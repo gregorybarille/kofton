@@ -2,8 +2,7 @@
   <v-layout>
     <v-flex xs12 sm8 offset-sm2>
       <v-card flat>
-        <v-img src="/assets/images/unclesam.png" contain></v-img>
-
+        <v-img contain aspect-ratio="1.5" src="/assets/images/unclesam.png"></v-img>
         <v-card-title primary-title>
           <v-card-text>
             <v-icon>fas fa-feather-alt</v-icon>

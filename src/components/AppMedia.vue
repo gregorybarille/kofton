@@ -5,10 +5,14 @@
         <v-container fluid grid-list-md>
           <v-layout column nowrap>
             <v-flex v-for="{artiste} in jsonData.sorties" :key="artiste">
-              <v-card :to="{path: `/artistes/${artiste}/media`}">
-                <v-img aspect-ratio="1.5" contain :src="jsonData.artistes[artiste].images.titre"></v-img>
-                <v-divider light></v-divider>
-                <v-layout>
+              <v-card flat :to="{path: `/artistes/${artiste}/media`}">
+                <v-img
+                  aspect-ratio="1.5"
+                  class="mb-2"
+                  contain
+                  :src="jsonData.artistes[artiste].images.titre"
+                ></v-img>
+                <v-layout class="mb-4">
                   <v-flex xs12 sm8 offset-sm2 v-if="artiste == 'HezCut'">
                     <iframe
                       scrolling="no"
@@ -16,10 +20,9 @@
                       allowtransparency="true"
                       src="https://www.deezer.com/plugins/player?format=classic&autoplay=false&playlist=true&width=700&height=350&color=ff0000&layout=&size=medium&type=tracks&id=660748242&app_id=1"
                       width="100%"
-                      height="166"
+                      height="90"
                     ></iframe>
                   </v-flex>
-
                   <v-flex xs12 sm8 offset-sm2 v-else>
                     <iframe
                       width="100%"
