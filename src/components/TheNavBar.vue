@@ -2,7 +2,7 @@
   <v-card>
     <v-navigation-drawer class="hidden-md-and-up" v-model="drawer" width="150px" left app>
       <v-layout>
-        <v-flex align-end>
+        <v-flex>
           <v-list>
             <v-list-tile>
               <v-btn flat :to="{path: '/artistes'}">Artistes</v-btn>
@@ -26,11 +26,11 @@
         <img src="/assets/images/logo_kofton.png">
       </v-toolbar-title>
       <v-toolbar-items class="hidden-sm-and-down">
-        <v-btn flat :to="{path: '/artistes'}">Artistes</v-btn>
-        <v-btn flat :to="{path: '/demo' }">Demo</v-btn>
-        <v-btn flat :to="{path: '/playlist' }">Playlist</v-btn>
-        <v-btn flat :to="{path: '/sorties' }">Sorties</v-btn>
-        <v-btn flat :to="{path: '/contact' }">Contact</v-btn>
+        <v-btn class="white-button" flat :to="{path: '/artistes'}">Artistes</v-btn>
+        <v-btn class="white-button" flat :to="{path: '/demo' }">Demo</v-btn>
+        <v-btn class="white-button" flat :to="{path: '/playlist' }">Playlist</v-btn>
+        <v-btn class="white-button" flat :to="{path: '/sorties' }">Sorties</v-btn>
+        <v-btn class="white-button" flat :to="{path: '/contact' }">Contact</v-btn>
       </v-toolbar-items>
     </v-toolbar>
   </v-card>
@@ -59,9 +59,8 @@ img {
 }
 .v-toolbar {
   background-color: #305b9e;
-  color: white;
 }
-.v-btn {
+.white-button {
   color: white;
 }
 </style>
