@@ -2,7 +2,7 @@
   <v-layout>
     <v-flex xs12 sm8 offset-sm2>
       <v-card flat>
-        <v-carousel height="75vh" hide-delimiters>
+        <v-carousel height="84vh" hide-delimiters>
           <v-carousel-item
             v-for="{artiste} in jsonData.sorties"
             :key="artiste"
