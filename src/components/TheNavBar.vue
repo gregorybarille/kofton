@@ -22,16 +22,20 @@
     </v-navigation-drawer>
     <v-toolbar app fixed flat>
       <v-toolbar-side-icon class="hidden-md-and-up" @click.stop="drawer = !drawer"></v-toolbar-side-icon>
-      <v-toolbar-title>
-        <img src="/assets/images/logo_kofton.png">
-      </v-toolbar-title>
-      <v-toolbar-items class="hidden-sm-and-down">
-        <v-btn class="white-button" flat :to="{path: '/artistes'}">Artistes</v-btn>
-        <v-btn class="white-button" flat :to="{path: '/demo' }">Demo</v-btn>
-        <v-btn class="white-button" flat :to="{path: '/playlist' }">Playlist</v-btn>
-        <v-btn class="white-button" flat :to="{path: '/sorties' }">Sorties</v-btn>
-        <v-btn class="white-button" flat :to="{path: '/contact' }">Contact</v-btn>
-      </v-toolbar-items>
+      <v-layout>
+        <v-flex d-inline-flex xs10 sm8 md8 offset-xs2 offset-sm4 offset-md2>
+          <v-toolbar-title>
+            <img src="/assets/images/logo_kofton.png">
+          </v-toolbar-title>
+          <v-toolbar-items class="hidden-sm-and-down">
+            <v-btn class="white-button" flat :to="{path: '/artistes'}">Artistes</v-btn>
+            <v-btn class="white-button" flat :to="{path: '/demo' }">Demo</v-btn>
+            <v-btn class="white-button" flat :to="{path: '/playlist' }">Playlist</v-btn>
+            <v-btn class="white-button" flat :to="{path: '/sorties' }">Sorties</v-btn>
+            <v-btn class="white-button" flat :to="{path: '/contact' }">Contact</v-btn>
+          </v-toolbar-items>
+        </v-flex>
+      </v-layout>
     </v-toolbar>
   </v-card>
 </template>
@@ -45,14 +49,6 @@ export default {
 </script>
 
 <style scoped>
-.v-toolbar__title {
-  margin-left: 25%;
-}
-.v-toolbar__items {
-  /* margin-left: auto; */
-  /* margin-left: auto; */
-}
-
 img {
   margin-top: 5px;
   height: 60px;
