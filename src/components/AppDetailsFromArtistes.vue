@@ -21,7 +21,6 @@
                 target="_blank"
                 icon
               >
-                <i class="fab fa-{facebook}-square fa-2x"></i>
                 <v-icon>{{icons[key]}}</v-icon>
               </v-btn>
             </v-card-actions>
@@ -60,3 +59,6 @@ export default {
   }
 };
 </script>
+<style scoped>
+
+</style>

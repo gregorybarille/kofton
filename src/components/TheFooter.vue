@@ -61,7 +61,7 @@ export default {};
   color: white;
 }
 #footer {
-  background-color: #305b9e;
+  background-color: #357ab7;
 }
 i {
   color: white;

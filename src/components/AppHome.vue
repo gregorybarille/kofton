@@ -14,7 +14,7 @@
                 :title="`${artiste} - ${jsonData.artistes[artiste].sortie.titre}`"
                 contain
                 flat
-                height="65vh"
+                height="63vh"
               ></v-img>
             </v-card>
           </slide>

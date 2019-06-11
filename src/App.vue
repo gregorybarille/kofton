@@ -35,6 +35,7 @@ export default {
 <style>
 h1,
 strong {
-  color: #458aab;
+  color: #357ab7;
 }
+
 </style>

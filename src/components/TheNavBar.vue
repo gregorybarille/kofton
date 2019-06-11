@@ -60,7 +60,7 @@ img {
   height: 60px;
 }
 .v-toolbar {
-  background-color: #305b9e;
+  background-color: #357ab7;
 }
 .white-button {
   color: white;
