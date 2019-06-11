@@ -13,7 +13,13 @@
                   :class="`d-flex elevation-${hover ? 5 : 0}`"
                   :to="{path: `/artistes/${key}/bio`}"
                 >
-                  <v-img :src="value.images.artiste" aspect-ratio="1" class="grey lighten-2"></v-img>
+                  <v-img
+                    :src="value.images.artiste"
+                    :alt="key"
+                    aspect-ratio="1"
+                    class="grey lighten-2"
+                    :title="key"
+                  ></v-img>
                 </v-card>
               </v-hover>
             </v-flex>

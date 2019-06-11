@@ -46,12 +46,7 @@ export default {
         instagram: "fab fa-instagram fa-2x",
         twitter: "fab fa-twitter fa-2x",
         youtube: "fab fa-youtube fa-2x",
-        soundcloud: "fab fa-soundcloud fa-2x",
-        spotify: "fab fa-spotify fa-2x",
-        amazon: "fab fa-amazon fa-2x",
-        itunes: "fab fa-itunes fa-2x",
-        "google music": "fab fa-google-play fa-2x",
-        deezer: "fab fa-music fa-2x"
+        soundcloud: "fab fa-soundcloud fa-2x"
       }
     };
   },

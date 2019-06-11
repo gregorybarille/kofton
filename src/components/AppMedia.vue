@@ -11,6 +11,8 @@
                   class="mb-2"
                   contain
                   :src="jsonData.artistes[artiste].images.titre"
+                  :alt="`${artiste} - ${jsonData.artistes[artiste].sortie.titre} `"
+                  :title="`${artiste} - ${jsonData.artistes[artiste].sortie.titre}`"
                 ></v-img>
               </v-card>
             </v-flex>
