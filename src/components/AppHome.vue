@@ -2,20 +2,29 @@
   <v-layout>
     <v-flex xs12 sm8 offset-sm2>
       <v-card flat>
-        <v-carousel height="84vh" hide-delimiters>
-          <v-carousel-item
-            v-for="{artiste} in jsonData.sorties"
-            :key="artiste"
-            :src="jsonData.artistes[artiste].images.titre"
-          ></v-carousel-item>
-        </v-carousel>
+        <v-card-text class="text-xs-center">
+          <h1 primary-title>Dernières Sorties</h1>
+        </v-card-text>
+        <carousel :autoplay="true" :centerMode="true" :loop="true" :perPage="1">
+          <slide v-for="{artiste} in jsonData.sorties.slice(0,3)" :key="artiste">
+            <v-card flat :to="{path: `/artistes/${artiste}/media`}">
+              <v-img :src="jsonData.artistes[artiste].images.titre" contain flat height="70vh"></v-img>
+            </v-card>
+          </slide>
+        </carousel>
       </v-card>
     </v-flex>
   </v-layout>
 </template>
 
 <script>
+import { Carousel, Slide } from "vue-carousel";
+
 export default {
+  components: {
+    Carousel,
+    Slide
+  },
   props: {
     jsonData: {
       type: Object
@@ -24,4 +33,8 @@ export default {
 };
 </script>
 <style scoped>
+.carrousel_click {
+  width: "100%";
+  height: "100%";
+}
 </style>

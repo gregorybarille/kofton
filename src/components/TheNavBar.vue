@@ -25,7 +25,9 @@
       <v-layout>
         <v-flex d-inline-flex xs10 sm8 md8 offset-xs2 offset-sm4 offset-md2>
           <v-toolbar-title>
-            <img src="/assets/images/logo_kofton.png">
+            <v-btn flat class="logo_button" :to="{path: '/home'}">
+              <img src="/assets/images/logo_kofton.png">
+            </v-btn>
           </v-toolbar-title>
           <v-toolbar-items class="hidden-sm-and-down">
             <v-btn class="white-button" flat :to="{path: '/artistes'}">Artistes</v-btn>
@@ -49,8 +51,12 @@ export default {
 </script>
 
 <style scoped>
+.logo_button {
+  height: 100%;
+  margin: 0;
+}
 img {
-  margin-top: 5px;
+  margin: 0;
   height: 60px;
 }
 .v-toolbar {
