@@ -8,7 +8,7 @@
         <carousel :autoplay="true" :centerMode="true" :loop="true" :perPage="1">
           <slide v-for="{artiste} in jsonData.sorties.slice(0,3)" :key="artiste">
             <v-card flat :to="{path: `/artistes/${artiste}/media`}">
-              <v-img :src="jsonData.artistes[artiste].images.titre" contain flat height="70vh"></v-img>
+              <v-img :src="jsonData.artistes[artiste].images.titre" contain flat height="65vh"></v-img>
             </v-card>
           </slide>
         </carousel>
