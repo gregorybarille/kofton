@@ -1,18 +1,11 @@
 <template>
   <v-layout>
     <v-flex xs12 sm8 offset-sm2>
-      <v-card flat>
+      <v-card flat :img="`/${this.jsonData.artistes[this.name].images.bio}`">
         <v-flex xs12>
-          <v-card :img="`/${this.jsonData.artistes[this.name].images.bio}`" class="white--text">
-            <v-card-title primary-title>
-              <div>
-                <span class="headline">{{ $route.params.name }}</span>
-              </div>
-            </v-card-title>
-            <v-layout>
-              <v-flex xs2 offset-xs5></v-flex>
-            </v-layout>
-            <v-card-actions class="pa-3">
+          <v-card class="black--text">
+            <v-card-title primary-title class="py-0 artisteInfo">
+              <span class="headline">{{ $route.params.name }}</span>
               <v-spacer></v-spacer>
               <v-btn
                 v-for="(value, key) in this.jsonData.artistes[this.name].social"
@@ -23,7 +16,10 @@
               >
                 <v-icon>{{icons[key]}}</v-icon>
               </v-btn>
-            </v-card-actions>
+            </v-card-title>
+            <v-layout>
+              <v-flex xs2 offset-xs5></v-flex>
+            </v-layout>
           </v-card>
         </v-flex>
         <v-tabs v-model="active" color="grey lighten-5" light slider-color="yellow">
@@ -60,5 +56,8 @@ export default {
 };
 </script>
 <style scoped>
-
+.artisteInfo {
+  background-color: white;
+  opacity: 0.8;
+}
 </style>
