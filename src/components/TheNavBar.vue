@@ -1,6 +1,6 @@
 <template>
   <v-card>
-    <v-navigation-drawer class="hidden-md-and-up" v-model="drawer" width="150px" left app>
+    <v-navigation-drawer class="hidden-md-and-up" v-model="drawer" width="150px" right app>
       <v-layout>
         <v-flex>
           <v-list>
@@ -24,7 +24,6 @@
       </v-layout>
     </v-navigation-drawer>
     <v-toolbar app fixed flat>
-      <v-toolbar-side-icon class="hidden-md-and-up" @click.stop="drawer = !drawer"></v-toolbar-side-icon>
       <v-layout>
         <v-flex d-inline-flex xs10 sm8 md8 offset-xs2 offset-sm4 offset-md2>
           <v-toolbar-title>
@@ -41,6 +40,7 @@
           </v-toolbar-items>
         </v-flex>
       </v-layout>
+      <v-toolbar-side-icon class="hidden-md-and-up" @click.stop="drawer = !drawer"></v-toolbar-side-icon>
     </v-toolbar>
   </v-card>
 </template>
