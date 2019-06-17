@@ -1,6 +1,13 @@
 <template>
   <v-card>
-    <v-navigation-drawer class="hidden-md-and-up" v-model="drawer" width="150px" right app>
+    <v-navigation-drawer
+      class="hidden-md-and-up temporary"
+      disable-resize-watcher
+      v-model="drawer"
+      width="150vw"
+      right
+      app
+    >
       <v-layout>
         <v-flex>
           <v-list>
