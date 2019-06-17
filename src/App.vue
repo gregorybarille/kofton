@@ -37,5 +37,4 @@ h1,
 strong {
   color: #357ab7;
 }
-
 </style>

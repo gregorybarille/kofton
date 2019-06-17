@@ -1,9 +1,9 @@
 <template>
   <v-layout>
     <v-flex xs12 sm8 offset-sm2>
-      <v-card flat :img="`/${this.jsonData.artistes[this.name].images.bio}`">
+      <v-card flat>
         <v-flex xs12>
-          <v-card class="black--text">
+          <v-card flat class="black--text">
             <v-card-title primary-title class="py-0 artisteInfo">
               <span class="headline">{{ $route.params.name }}</span>
               <v-spacer></v-spacer>
@@ -17,10 +17,8 @@
                 <v-icon>{{icons[key]}}</v-icon>
               </v-btn>
             </v-card-title>
-            <v-layout>
-              <v-flex xs2 offset-xs5></v-flex>
-            </v-layout>
           </v-card>
+          <v-img :src="`/${this.jsonData.artistes[this.name].images.bio}`" height="200px"></v-img>
         </v-flex>
         <v-tabs v-model="active" color="grey lighten-5" light slider-color="yellow">
           <v-tab :to="{path: `/artistes/${name}/bio`}">Biographie</v-tab>

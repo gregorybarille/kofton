@@ -20,6 +20,7 @@
                 <li>En cas de non-acceptation des conditions générales d'utilisation stipulées dans le présent contrat, l'Utilisateur se doit de renoncer à l'accès des services proposés par le site.</li>
                 <li>&copy;Kofton music se réserve le droit de modifier unilatéralement et à tout moment le contenu des présentes conditions générales d’utilisation.</li>
               </ul>
+              <br>
             </div>
             <v-divider></v-divider>
             <br>
@@ -59,6 +60,7 @@
                 <li>Membre : l'Utilisateur devient membre lorsqu'il est identifié sur le site.</li>
                 <li>Identifiant et mot de passe : c'est l'ensemble des informations nécessaires à l'identification d'un Utilisateur sur le site. L'identifiant et le mot de passe permettent à l'Utilisateur d'accéder à des services réservés aux membres du site. Le mot de passe est confidentiel.</li>
               </ul>
+              <br>
             </div>
             <v-divider></v-divider>
             <br>

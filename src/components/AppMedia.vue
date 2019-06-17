@@ -2,19 +2,26 @@
   <v-layout>
     <v-flex xs12 sm8 offset-sm2>
       <v-card flat>
-        <v-container fluid grid-list-md>
-          <v-layout column nowrap>
-            <v-flex v-for="{artiste} in jsonData.sorties" :key="artiste">
-              <v-card flat :to="{path: `/artistes/${artiste}/media`}">
-                <v-img
-                  aspect-ratio="1.5"
-                  class="mb-2"
-                  contain
-                  :src="jsonData.artistes[artiste].images.titre"
-                  :alt="`${artiste} - ${jsonData.artistes[artiste].sortie.titre} `"
-                  :title="`${artiste} - ${jsonData.artistes[artiste].sortie.titre}`"
-                ></v-img>
-              </v-card>
+        <v-container grid-list-xs fluid>
+          <v-layout row wrap>
+            <v-flex v-for="{artiste} in jsonData.sorties" :key="artiste" xs12 md4 d-flex>
+              <v-hover>
+                <v-card
+                  slot-scope="{ hover }"
+                  flat
+                  tile
+                  :class="`d-flex elevation-${hover ? 5 : 0}`"
+                  :to="{path: `/artistes/${artiste}/media`}"
+                >
+                  <v-img
+                    :src="jsonData.artistes[artiste].images.titre"
+                    :alt="`${artiste} - ${jsonData.artistes[artiste].sortie.titre} `"
+                    aspect-ratio="1"
+                    class="grey lighten-2"
+                    :title="`${artiste} - ${jsonData.artistes[artiste].sortie.titre}`"
+                  ></v-img>
+                </v-card>
+              </v-hover>
             </v-flex>
           </v-layout>
         </v-container>
@@ -25,22 +32,6 @@
 
 <script>
 export default {
-  data() {
-    return {
-      icons: {
-        facebook: "fab fa-facebook-square fa-2x",
-        instagram: "fab fa-instagram fa-2x",
-        twitter: "fab fa-twitter fa-2x",
-        youtube: "fab fa-youtube fa-2x",
-        soundcloud: "fab fa-soundcloud fa-2x",
-        spotify: "fab fa-spotify fa-2x",
-        amazon: "fab fa-amazon fa-2x",
-        itunes: "fab fa-itunes fa-2x",
-        "google music": "fab fa-google-play fa-2x",
-        deezer: "fab fa-music fa-2x"
-      }
-    };
-  },
   props: {
     jsonData: {
       type: Object
@@ -54,8 +45,5 @@ export default {
 }
 .v-btn {
   padding: 0;
-}
-
-iframe {
 }
 </style>
