@@ -11,6 +11,9 @@
               <v-btn flat :to="{path: '/demo' }">Demo</v-btn>
             </v-list-tile>
             <v-list-tile>
+              <v-btn flat :to="{path: '/playlist' }">Playlist</v-btn>
+            </v-list-tile>
+            <v-list-tile>
               <v-btn flat :to="{path: '/sorties' }">Sorties</v-btn>
             </v-list-tile>
             <v-list-tile>
