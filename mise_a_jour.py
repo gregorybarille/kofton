@@ -11,7 +11,6 @@ def read_artistes_directory(artistes_informations):
     for directory in directory_list:
         if directory.name != '.DS_Store':
             artiste_name = directory.name
-            print(artiste_name)
             if Path(f'{directory}/bio.json').is_file:
                 with open(Path(f'{directory}/bio.json'), 'r') as json_file:
                     json_data = json.load(json_file)
@@ -26,24 +25,16 @@ def read_artistes_directory(artistes_informations):
             else:
                 print(f'The bio.html file is missing for {artiste_name}')
             if Path(f'{directory}/images').is_dir():
-                if Path(f'{directory}/images/artiste.png').is_file():
-                    artistes_informations["artistes"][artiste_name]['images']['artiste'] = f'assets/Artistes/{artiste_name}/images/artiste.png'
-                else:
-                    print(f'The artiste.png file is missing for {artiste_name}')
-                    artistes_informations["artistes"][artiste_name]['images']['artiste'] = f'assets/Artistes/{artiste_name}/images/bio.png'
-                if Path(f'{directory}/images/bio.png').is_file():
-                    artistes_informations["artistes"][artiste_name]['images']['bio'] = f'assets/Artistes/{artiste_name}/images/bio.png'
-                else:
-                    print(f'The bio.png file is missing for {artiste_name}')
-                    artistes_informations["artistes"][artiste_name]['images']['bio'] = f'assets/Artistes/{artiste_name}/images/artiste.png'
-                if Path(f'{directory}/images/name.png').is_file():
-                    artistes_informations["artistes"][artiste_name]['images']['name'] = f'assets/Artistes/{artiste_name}/images/name.png'
-                else:
-                    print(f'The artiste.png file is missing for {artiste_name}')
-                if Path(f'{directory}/images/titre.png').is_file():
-                    artistes_informations["artistes"][artiste_name]['images']['titre'] = f'assets/Artistes/{artiste_name}/images/titre.png'
-                else:
-                    print(f'The titre.png file is missing for {artiste_name}')
+                for file_name in Path(f'{directory}/images').iterdir():
+                    if "_artiste.png" in file_name.name:
+                        artistes_informations["artistes"][artiste_name]['images'][
+                            'artiste'] = f'assets/Artistes/{artiste_name}/images/{file_name.name}'
+                    elif "_bio.png" in file_name.name:
+                        artistes_informations["artistes"][artiste_name]['images'][
+                            'bio'] = f'assets/Artistes/{artiste_name}/images/{file_name.name}'
+                    elif "titre_" in file_name.name:
+                        artistes_informations["artistes"][artiste_name]['images'][
+                            'titre'] = f'assets/Artistes/{artiste_name}/images/{file_name.name}'
             else:
                 print(f'The images folder is missing for {artiste_name}')
 

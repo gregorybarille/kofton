@@ -38,7 +38,7 @@
               <img src="/assets/images/logo_kofton.png">
             </v-btn>
           </v-toolbar-title>
-          <v-toolbar-items class="hidden-sm-and-down">
+          <v-toolbar-items class="hidden-sm-and-down py-0">
             <v-btn class="white-button" flat :to="{path: '/artistes'}" height="100%">Artistes</v-btn>
             <v-btn class="white-button" flat :to="{path: '/demo' }">Demo</v-btn>
             <v-btn class="white-button" flat :to="{path: '/playlist' }">Playlist</v-btn>
