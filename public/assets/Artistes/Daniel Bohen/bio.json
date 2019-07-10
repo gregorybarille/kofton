@@ -1,0 +1,25 @@
+{
+  "images": {
+    "artiste": "",
+    "bio": "",
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/danialbohen/",
+    "instagram": "https://www.instagram.com/danielbohen/",
+    "twitter": "https://twitter.com/danialbohen",
+    "soundcloud": "https://soundcloud.com/danielbohen"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "Daniel Bohen",
+    "titre": "Closure",
+    "date": "3 Juin 2019",
+    "date_to_sort": "03/06/2019",
+    "platform": {
+      "soundcloud": "https://soundcloud.com/koftonmusic/daniel-bohen-closure",
+      "youtube": "https://youtu.be/EF2P-pWUX3g"
+    }
+  }
+}

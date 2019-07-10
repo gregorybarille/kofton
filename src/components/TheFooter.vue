@@ -26,12 +26,20 @@
       <v-divider></v-divider>
 
       <v-card-text class="white--text py-0">
-        Design by
-        <a id="credit" href>Gregory Barille</a> for &copy;2019 —
-        <strong class="white--text">Kofton Music</strong>
+        <span>
+          Copyright &copy; 2019 —
+          <a>
+            <strong class="white--text">Kofton Music</strong>
+          </a>
+        </span>
+        <span>
+          Made by
+          <a id="credit" href>Gregory Barille</a>
+        </span>
         <v-btn
           class="white--text"
           flat
+          small
           depressed
           :to="{path: '/mentions-legales' }"
         >Mentions Légales</v-btn>
@@ -39,12 +47,14 @@
           class="white--text"
           flat
           depressed
+          small
           :to="{path: '/politique-traitement' }"
         >Politique de traitement</v-btn>
         <v-btn
           class="white--text"
           flat
           depressed
+          small
           :to="{path: '/conditions-generales' }"
         >Conditions générales</v-btn>
       </v-card-text>

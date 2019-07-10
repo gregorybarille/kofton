@@ -1,0 +1,24 @@
+{
+  "images": {
+    "artiste": "",
+    "bio": "",
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/haitchagal/",
+    "instagram": "https://www.instagram.com/haitchagal/",
+    "twitter": "https://twitter.com/haitchagal"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "Haïtchagal",
+    "titre": "Touche à rien",
+    "date": "22 Mai 2019",
+    "date_to_sort": "22/05/2019",
+    "platform": {
+      "soundcloud": "https://soundcloud.com/koftonmusic/haitchagal-touche-a-rien",
+      "youtube": "https://youtu.be/W5SCYgDOQNs"
+    }
+  }
+}
