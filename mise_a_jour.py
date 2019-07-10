@@ -27,10 +27,10 @@ def read_artistes_directory(artistes_informations):
                 print(f'The bio.html file is missing for {artiste_name}')
             if Path(f'{directory}/images').is_dir():
                 for file_name in Path(f'{directory}/images').iterdir():
-                    if "_artiste.png" in file_name.name:
+                    if "_artiste." in file_name.name:
                         artistes_informations["artistes"][artiste_name]['images'][
                             'artiste'] = f'assets/Artistes/{artiste_name}/images/{file_name.name}'
-                    elif "_bio.png" in file_name.name:
+                    elif "_bio." in file_name.name:
                         artistes_informations["artistes"][artiste_name]['images'][
                             'bio'] = f'assets/Artistes/{artiste_name}/images/{file_name.name}'
                     elif "titre_" in file_name.name:
