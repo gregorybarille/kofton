@@ -48,7 +48,7 @@ def sort_releases_by_dates(artistes_informations):
 
 def write_json(artistes_informations):
     with open('./public/data.json', 'w+') as file_json:
-        json.dump(artistes_informations, file_json, sort_keys=True)
+        json.dump(artistes_informations, file_json, sort_keys=True, ensure_ascii=False)
 
 
 def main():
