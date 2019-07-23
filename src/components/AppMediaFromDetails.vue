@@ -29,7 +29,7 @@
               </div>
             </v-flex>
             <v-divider></v-divider>
-            <v-flex>
+            <v-flex v-if="artist.sortie.platform.youtube !== ''">
               <div class="video-container">
                 <iframe
                   width="600"
