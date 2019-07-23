@@ -34,8 +34,10 @@ def read_artistes_directory(artistes_informations):
                         artistes_informations["artistes"][artiste_name]['images'][
                             'bio'] = f'assets/Artistes/{artiste_name}/images/{file_name.name}'
                     elif "titre_" in file_name.name:
-                        artistes_informations["artistes"][artiste_name]['images'][
-                            'titre'] = f'assets/Artistes/{artiste_name}/images/{file_name.name}'
+                        if "500" not in file_name.name:
+                            if "1500" not in file_name.name:
+                                artistes_informations["artistes"][artiste_name]['images'][
+                                    'titre'] = f'assets/Artistes/{artiste_name}/images/{file_name.name}'
             else:
                 print(f'The images folder is missing for {artiste_name}')
 
