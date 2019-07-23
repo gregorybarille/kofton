@@ -27,14 +27,14 @@
 
       <v-card-text class="white--text py-0">
         <span>
-          Copyright &copy; 2019 —
+          &copy; 2019 —
           <a>
             <strong class="white--text">Kofton Music</strong>
           </a>
         </span>
         <span>
           Made by
-          <a id="credit" href>Gregory Barille</a>
+          <a id="credit" href="mailto:contact@gregorybarille.io">Gregory Barille</a>
         </span>
         <v-btn
           class="white--text"

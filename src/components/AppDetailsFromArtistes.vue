@@ -18,7 +18,7 @@
               </v-btn>
             </v-card-title>
           </v-card>
-          <v-img :src="`/${this.jsonData.artistes[this.name].images.bio}`" height="200px"></v-img>
+          <v-img :src="`/${this.jsonData.artistes[this.name].images.bio}`" contain></v-img>
         </v-flex>
         <v-tabs v-model="active" light slider-color="yellow">
           <v-tab :to="{path: `/artistes/${name}/bio`}">Biographie</v-tab>
