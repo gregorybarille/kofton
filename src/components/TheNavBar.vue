@@ -107,6 +107,6 @@ img {
 }
 
 .active {
-  color: black;
+  color: #282828;
 }
 </style>
