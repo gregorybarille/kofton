@@ -1,0 +1,29 @@
+{
+  "images": {
+    "artiste": "",
+    "bio": "",
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/MagIsMusiK/",
+    "instagram":"https://www.instagram.com/magis_music/",
+    "soundcloud": "https://soundcloud.com/valentino-rossi-10?fbclid=IwAR146AhqCF-xwWTfSSwifvXJbbQYzhjAUSMX7KUtC808oEsbLK1POl18GcM",
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "",
+    "titre": "",
+    "date": "",
+    "date_to_sort": "",
+    "platform": {
+      "spotify": "",
+      "deezer": "",
+      "google music": "",
+      "amazon": "",
+      "itunes": "",
+      "soundcloud": "",
+      "youtube": ""
+    }
+  }
+}

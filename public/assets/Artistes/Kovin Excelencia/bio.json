@@ -1,0 +1,30 @@
+{
+    "images": {
+      "artiste": "",
+      "bio": "",
+      "name": "",
+      "titre": ""
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/KovinExcelenciaa/",
+      "instagram":"https://www.instagram.com/kovinexcelencia/",
+      "twitter": "https://twitter.com/KovinExcelencia",
+      "youtube": "https://www.youtube.com/user/KovinExcelencia"
+    },
+    "bio": "",
+    "sortie": {
+      "artiste": "",
+      "titre": "",
+      "date": "",
+      "date_to_sort": "",
+      "platform": {
+        "spotify": "",
+        "deezer": "",
+        "google music": "",
+        "amazon": "",
+        "itunes": "",
+        "soundcloud": "",
+        "youtube": ""
+      }
+    }
+  }
