@@ -44,7 +44,10 @@ def read_artistes_directory(artistes_informations):
 
 def sort_releases_by_dates(artistes_informations):
     print(artistes_informations["sorties"])
-    artistes_informations["sorties"].sort(key=lambda x: datetime.strptime(x['date'], '%d/%m/%Y'), reverse=True)
+    try:
+        artistes_informations["sorties"].sort(key=lambda x: datetime.strptime(x['date'], '%d/%m/%Y'), reverse=True)
+    except ValueError:
+        pass
     print(artistes_informations["sorties"])
 
 
