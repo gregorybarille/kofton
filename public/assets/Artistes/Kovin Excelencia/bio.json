@@ -1,30 +1,30 @@
 {
-    "images": {
-      "artiste": "",
-      "bio": "",
-      "name": "",
-      "titre": ""
-    },
-    "social": {
-      "facebook": "https://www.facebook.com/KovinExcelenciaa/",
-      "instagram":"https://www.instagram.com/kovinexcelencia/",
-      "twitter": "https://twitter.com/KovinExcelencia",
-      "youtube": "https://www.youtube.com/user/KovinExcelencia"
-    },
+  "images": {
+    "artiste": "",
     "bio": "",
-    "sortie": {
-      "artiste": "",
-      "titre": "",
-      "date": "",
-      "date_to_sort": "",
-      "platform": {
-        "spotify": "",
-        "deezer": "",
-        "google music": "",
-        "amazon": "",
-        "itunes": "",
-        "soundcloud": "",
-        "youtube": ""
-      }
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/KovinExcelenciaa/",
+    "instagram": "https://www.instagram.com/kovinexcelencia/",
+    "twitter": "https://twitter.com/KovinExcelencia",
+    "youtube": "https://www.youtube.com/user/KovinExcelencia"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "",
+    "titre": "",
+    "date": "",
+    "date_to_sort": "01/01/2019",
+    "platform": {
+      "spotify": "",
+      "deezer": "",
+      "google music": "",
+      "amazon": "",
+      "itunes": "",
+      "soundcloud": "",
+      "youtube": ""
     }
   }
+}

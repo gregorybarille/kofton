@@ -1,16 +1,13 @@
 import html
 import json
-import os
 from pathlib import Path
 from datetime import datetime
 
 
 def read_artistes_directory(artistes_informations):
-    artiste_directory = './public/assets/Artistes'
     directory_list = Path('./public/assets/Artistes').iterdir()
     for directory in directory_list:
         if directory.name != '.DS_Store':
-            print(directory.name)
             artiste_name = directory.name
             if Path(f'{directory}/bio.json').is_file:
                 with open(Path(f'{directory}/bio.json'), 'r') as json_file:
