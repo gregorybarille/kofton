@@ -34,6 +34,12 @@
                   "
                 ></iframe>
               </div>
+              <div
+                v-if="artist.sortie.platform.soundcloud == ''"
+                style="font-size:20px"
+              >
+                A venir...
+              </div>
             </v-flex>
             <v-divider></v-divider>
             <v-flex v-if="artist.sortie.platform.youtube !== ''">
