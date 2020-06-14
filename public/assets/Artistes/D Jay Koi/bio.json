@@ -1,0 +1,27 @@
+{
+  "images": {
+    "artiste": "",
+    "bio": "",
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/DJAYKOIOFFICIAL",
+    "instagram": "https://www.instagram.com/d_jay_koi/",
+    "twitter": "https://twitter.com/deejaykoi",
+    "soundcloud": "https://soundcloud.com/d-jay-koi",
+    "youtube":"https://www.youtube.com/user/MrDjkoi",
+    "snapchat":"https://www.snapchat.com/add/djaykoi"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "D JAY KOI",
+    "titre": "Get Down",
+    "date": "13 Juin 2020",
+    "date_to_sort": "13/06/2020",
+    "platform": {
+      "soundcloud": "840116506",
+      "youtube": "KK5NXI0cqfc"
+    }
+  }
+}

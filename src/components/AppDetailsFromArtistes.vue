@@ -39,7 +39,8 @@ export default {
         instagram: "fab fa-instagram fa-2x",
         twitter: "fab fa-twitter fa-2x",
         youtube: "fab fa-youtube fa-2x",
-        soundcloud: "fab fa-soundcloud fa-2x"
+        soundcloud: "fab fa-soundcloud fa-2x",
+        snapchat: "fab fa-snapchat fa-2x",
       }
     };
   },
