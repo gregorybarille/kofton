@@ -38,21 +38,21 @@
         </span>
         <v-btn
           class="white--text"
-          flat
+          text
           small
           depressed
           :to="{path: '/mentions-legales' }"
         >Mentions Légales</v-btn>
         <v-btn
           class="white--text"
-          flat
+          text
           depressed
           small
           :to="{path: '/politique-traitement' }"
         >Politique de traitement</v-btn>
         <v-btn
           class="white--text"
-          flat
+          text
           depressed
           small
           :to="{path: '/conditions-generales' }"

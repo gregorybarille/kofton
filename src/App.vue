@@ -1,17 +1,15 @@
 <template>
-  <div id="app">
     <v-app id="inspire">
       <TheNavBar></TheNavBar>
-      <v-content>
+      <v-main>
         <v-container fluid>
           <v-fade-transition mode="out-in">
             <router-view class="text-xs-center" :jsonData="jsonData"></router-view>
           </v-fade-transition>
         </v-container>
-      </v-content>
+      </v-main>
       <TheFooter></TheFooter>
     </v-app>
-  </div>
 </template>
 
 <script>
