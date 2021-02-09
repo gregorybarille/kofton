@@ -1,0 +1,30 @@
+{
+  "images": {
+    "artiste": "",
+    "bio": "",
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/LaunchmachineOfficial",
+    "instagram": "https://www.instagram.com/launchmachine/",
+    "soundcloud": "https://soundcloud.com/launchmachine",
+    "youtube": "https://www.youtube.com/channel/UCvOa4WJ3dMcqazYjXttcGPg"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "LaunchMachine",
+    "titre": "In My Head",
+    "date": "1er Avril 2019",
+    "date_to_sort": "01/04/2019",
+    "platform": {
+      "spotify": "0jpeFs3L38Y5QzJd0Jtl9n",
+      "deezer": "tracks&id=656809122",
+      "google music": "https://play.google.com/store/music/album/Dockbled_Salet%C3%A9_sal%C3%A9e?id=B2ixzdmemwynqvriksadawztv6a",
+      "juno": "https://www.junodownload.com/products/launchmachine-in-my-head/4098959-02/",
+      "Apple Music": "https://music.apple.com/fr/album/serereka-feat-sejo-di-dakta-single/1456604030",
+      "soundcloud": "599306493",
+      "youtube": "KHHychi-F-4"
+    }
+  }
+}

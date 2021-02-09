@@ -1,0 +1,30 @@
+{
+  "images": {
+    "artiste": "",
+    "bio": "",
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/tmkofficiel99/",
+    "facebook": "https://www.facebook.com/Tmkoff/",
+    "youtube": "https://www.youtube.com/channel/UCJML0ybXMIJlKlErda6y6aA"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "TMK",
+    "titre": "Revendicateur",
+    "date": "02 Septembre 2019",
+    "date_to_sort": "02/09/2019",
+    "platform": {
+      "spotify": "",
+      "deezer": "",
+      "google music": "",
+      "qobuz": "",
+      "Apple Music": "",
+      "beatport": "",
+      "soundcloud": "674437436",
+      "youtube": "7yMNASFfWcE"
+    }
+  }
+}

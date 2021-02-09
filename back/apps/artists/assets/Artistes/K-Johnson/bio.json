@@ -1,0 +1,28 @@
+{
+  "images": {
+    "artiste": "",
+    "bio": "",
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/johnson.fofie",
+    "youtube": "https://www.youtube.com/channel/UCkY1n2BqHpUUfvq62YswozA"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "K-Johnson & I.V.O",
+    "titre": "Hola Hola",
+    "date": "11 Mars 2019",
+    "date_to_sort": "11/03/2019",
+    "platform": {
+      "spotify": "436q3dVrMatcuqp2eEMH2s",
+      "deezer": "album&id=89102402",
+      "google music": "https://play.google.com/store/music/album/K_Johnson_Hola_Hola?id=Bw4bgpawfisxy4ecoewsnibonim&amp;hl=fr",
+      "amazon music": "https://www.amazon.fr/Hola-K-Johnson-I-V/dp/B07P9BXDMQ/ref=sr_1_1?ie=UTF8&amp;qid=1552324630&amp;sr=8-1&amp;keywords=k-johnson+hola+hola",
+      "Apple Music": "https://music.apple.com/fr/album/hola-hola-single/1455655180",
+      "soundcloud": "588468969",
+      "youtube": "zVXtRuIVc34"
+    }
+  }
+}

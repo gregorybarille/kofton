@@ -1,0 +1,26 @@
+{
+  "images": {
+    "artiste": "",
+    "bio": "",
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/sylvain.laurent.7311"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "Sylvain Laurent",
+    "titre": "Funky Time",
+    "date": "24 Avril 2019",
+    "date_to_sort": "24/04/2019",
+    "platform": {
+      "spotify": "3m6KGbZ6W7w1HTm6PiT5uy",
+      "deezer": "album&id=94145872",
+      "google music": "https://play.google.com/store/music/album?id=Berp7ibvdsi52i7zwvjpk25klwa&amp;tid=song-T4joiuyhzkxgziazj2b2s3huvia",
+      "Apple Music": "https://music.apple.com/fr/album/funky-time/1460801264?i=1460801265",
+      "soundcloud": "610780071",
+      "youtube": "FvtQ6I-i6EU"
+    }
+  }
+}

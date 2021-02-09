@@ -1,0 +1,29 @@
+{
+  "images": {
+    "artiste": "",
+    "bio": "",
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/MagIsMusiK/",
+    "instagram": "https://www.instagram.com/magis_music/",
+    "soundcloud": "https://soundcloud.com/valentino-rossi-10?fbclid=IwAR146AhqCF-xwWTfSSwifvXJbbQYzhjAUSMX7KUtC808oEsbLK1POl18GcM"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "",
+    "titre": "",
+    "date": "16 Décembre 2019",
+    "date_to_sort": "16/12/2019",
+    "platform": {
+      "spotify": "",
+      "deezer": "",
+      "google music": "",
+      "amazon music": "",
+      "Apple Music": "",
+      "soundcloud": "722602495",
+      "youtube": "4IrkN4tvOp8"
+    }
+  }
+}

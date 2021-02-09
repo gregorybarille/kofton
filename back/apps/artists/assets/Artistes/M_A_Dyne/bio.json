@@ -1,0 +1,29 @@
+{
+  "images": {
+    "artiste": "",
+    "bio": "",
+    "name": "",
+    "titre": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/DjMadyne/s",
+    "instagram": "https://www.instagram.com/m_a_dyne/",
+    "soundcloud": "https://soundcloud.com/m_a_dyne/tracks",
+    "twitter": "https://twitter.com/M_A_Dyne"
+  },
+  "bio": "",
+  "sortie": {
+    "artiste": "M_A_Dyne ft Sejo_Di_Dakta",
+    "titre": "Serereka",
+    "date": "19 Mars 2019",
+    "date_to_sort": "19/03/2019",
+    "platform": {
+      "spotify": "0IsBRJuJ8X1MwNwlEMrYVH",
+      "deezer": "album&id=90412782",
+      "google music": "https://play.google.com/store/music/album/M_A_Dyne_Serereka?id=Bbs7tph7g7rujm3go5gzkextghi",
+      "amazon music": "https://www.amazon.fr/Serereka-Original-M_A_Dyne-feat-Sejo_Di_Dakta/dp/B07PNK85DK/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=M_A_Dyne&amp;qid=1552987671&amp;s=gateway&amp;sr=8-5",
+      "soundcloud": "592474281",
+      "youtube": "BR07UtCJKIM"
+    }
+  }
+}

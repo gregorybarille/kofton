@@ -1,0 +1,29 @@
+{
+    "images": {
+      "artiste": "",
+      "bio": "",
+      "name": "",
+      "titre": ""
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/SolidValentino/",
+      "youtube": "https://www.youtube.com/channel/UCZTNcUUcpnoKKFVVU1IaaOA"
+    },
+    "bio": "",
+    "sortie": {
+      "artiste": "Solid Ragga",
+      "titre": "Viringita",
+      "date": "22 Janvier 2020",
+      "date_to_sort": "22/01/2020",
+      "platform": {
+        "spotify": "",
+        "deezer": "",
+        "google music": "",
+        "amazon music": "",
+        "Apple Music": "",
+        "soundcloud": "764783200",
+        "youtube": "roPOjJnq0G8"
+      }
+    }
+  }
+  

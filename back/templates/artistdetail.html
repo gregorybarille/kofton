@@ -1,0 +1,25 @@
+{% extends "index.html" %} {% load i18n %} {% load static %} {% block content %}
+
+<div class="tile">
+<figure><img></img></figure>
+<article class="message is-dark">
+  <div class="message-body has-text-grey-dark">
+  {% autoescape off %}
+    {{ bio|linebreaks|safe }}
+  {% endautoescape %}
+  </div>
+
+</article>
+    {% for song in songs %}
+  <div class="column is-3">
+    <figure class="image is-256x256">
+
+      <img src="{{song.image.url}}" alt="{{ song.name }}">
+
+    </figure>
+
+  </div>
+    {% endfor %}
+</div>
+
+{% endblock %}

@@ -1,0 +1,24 @@
+{
+    "images": {
+      "artiste": "",
+      "bio": "",
+      "name": "",
+      "titre": ""
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/bluecandys/",
+      "youtube": "https://www.youtube.com/channel/UCdJ_pzatiFYxuRaf7L2EeyQ"
+    },
+    "bio": "",
+    "sortie": {
+      "artiste": "Blue Candys",
+      "titre": "Depuis ça va mieux",
+      "date": "20 Mars 2020",
+      "date_to_sort": "20/03/2020",
+      "platform": {
+        "soundcloud": "779504563",
+        "youtube": "84gQVZsICmA"
+      }
+    }
+  }
+  

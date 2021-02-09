@@ -1,0 +1,14 @@
+{% extends "index.html" %} {% load i18n %} {% load static %} {% block content %}
+
+<div class="columns is-multiline">
+  {% for artist in artists %}
+  <div class="column is-gapeless">
+    <figure class="image is-256x256">
+      <a href="/artists/{{ artist.pk }}">
+        <img src="{{artist.image.url}}" alt="{{ artist.name }}" />
+      </a>
+    </figure>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}
